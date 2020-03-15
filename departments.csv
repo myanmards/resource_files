@@ -1,10 +1,10 @@
-dept_id,dept_name
-1,Marketing
-2,Finance
-3,Human Resources
-4,Production
-5,Development
-6,Quality Management
-7,Sales
-8,Research
-9,Customer Service
+dept_id,dept_name\n
+1,Marketing\n
+2,Finance\n
+3,Human Resources\n
+4,Production\n
+5,Development\n
+6,Quality Management\n
+7,Sales\n
+8,Research\n
+9,Customer Service\n
