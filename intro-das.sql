@@ -50,7 +50,7 @@ ALTER TABLE `salaries`
 --
 
 CREATE TABLE `departments` (
-  `dept_id` char(4) NOT NULL,
+  `dept_id` int(11) NOT NULL,
   `dept_name` varchar(40) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
@@ -69,7 +69,7 @@ ALTER TABLE `departments`
 
 CREATE TABLE `dept_emp` (
   `emp_id` int(11) NOT NULL,
-  `dept_id` char(4) NOT NULL,
+  `dept_id` int(11) NOT NULL,
   `from_date` date NOT NULL,
   `to_date` date NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
