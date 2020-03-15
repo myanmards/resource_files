@@ -78,14 +78,6 @@ CREATE TABLE `dept_emp` (
 -- Indexes for table `dept_emp`
 --
 ALTER TABLE `dept_emp`
-  ADD PRIMARY KEY (`emp_id`,`dept_id`),
-  ADD KEY `dept_id` (`dept_id`);
-
---
--- Constraints for table `dept_emp`
---
-ALTER TABLE `dept_emp`
-  ADD CONSTRAINT `dept_emp_ibfk_1` FOREIGN KEY (`emp_id`) REFERENCES `employees` (`emp_id`) ON DELETE CASCADE,
-  ADD CONSTRAINT `dept_emp_ibfk_2` FOREIGN KEY (`dept_id`) REFERENCES `departments` (`dept_id`) ON DELETE CASCADE;
+  ADD PRIMARY KEY (`emp_id`,`dept_id`);
 
 -- --------------------------------------------------------
