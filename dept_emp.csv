@@ -1,4 +1,4 @@
-emp_no,dept_no,from_date,to_date
+emp_id,dept_id,from_date,to_date
 1,5,1986-06-26,1999-01-01
 2,7,1996-08-03,1999-01-01
 3,4,1995-12-03,1999-01-01
