@@ -79,7 +79,7 @@ CREATE TABLE `dept_emp` (
 --
 ALTER TABLE `dept_emp`
   ADD PRIMARY KEY (`emp_id`,`dept_id`),
-  ADD KEY `dept_no` (`dept_id`);
+  ADD KEY `dept_id` (`dept_id`);
 
 --
 -- Constraints for table `dept_emp`
