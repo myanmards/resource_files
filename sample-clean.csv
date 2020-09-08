@@ -1,0 +1,101 @@
+emp_id,birth_date,first_name,last_name,gender,hire_date,salary,height,weight,birth_place
+1,02-09-53,Georgi,Facello,M,26-06-86,500000,165,64,NY
+2,02-06-64,Bezalel,Simmel,F,21-11-85,120000,155,59,Chicago
+3,03-12-59,Parto,Bamford,M,28-08-86,350000,158,75,Los Angeles
+4,01-05-54,Chirstian,Koblick,M,01-12-86,400000,149,77,Los Angeles
+5,21-01-55,Kyoichi,Maliniak,M,12-09-89,200000,169,74,LA
+6,20-04-53,Anneke,Preusig,F,02-06-89,300000,162,,Houston
+7,23-05-57,Tzvetan,Zielinski,F,10-02-89,150000,160,62,Chicago
+8,19-02-58,Saniya,Kalloufi,M,15-09-94,750000,159,73,WDC
+9,19-04-52,Sumant,Peac,F,18-02-85,750000,173,65,WDC
+10,01-06-63,Duangkaew,Piveteau,F,24-08-89,200000,161,,Washington D.C.
+11,07-11-53,Mary,Sluis,F,22-01-90,400000,158,53,Los Angeles
+12,04-10-60,Patricio,Bridgland,M,18-12-92,200000,168,64,Washington D.C.
+13,07-06-63,Eberhardt,Terkki,M,20-10-85,300000,169,63,Los Angeles
+14,12-02-56,Berni,Genin,M,11-03-87,150000,175,65,Chicago
+15,19-08-59,Guoxiang,Nooteboom,M,02-07-87,300000,161,66,Los Angeles
+16,02-05-61,Kazuhito,Cappelletti,M,27-01-95,150000,180,,Chicago
+17,06-07-58,Cristinel,Bouloucos,F,03-08-93,750000,175,52,WDC
+18,19-06-54,Kazuhide,Peha,F,03-04-87,200000,168,66,WDC
+19,23-01-53,Lillian,Haddadi,M,30-04-99,400000,160,71,Los Angeles
+20,24-12-52,Mayuko,Warwick,M,26-01-91,200000,169,70,Washington D.C.
+21,20-02-60,Ramzi,Erde,M,10-02-88,300000,168,68,Dallas
+22,08-07-52,Shahaf,Famili,M,22-08-95,150000,165,,Houston
+23,29-09-53,Bojan,Montemayor,F,17-12-89,750000,158,65,Washington D.C.
+24,05-09-58,Suzette,Pettey,F,19-05-97,200000,161,52,WDC
+25,31-10-58,Prasadram,Heyers,M,17-08-87,400000,165,81,Los Angeles
+26,03-04-53,Yongqiao,Berztiss,M,20-03-95,200000,168,77,WDC
+27,10-07-62,Divier,Reistad,F,07-07-89,300000,158,51,Atlanta 
+28,26-11-63,Domenick,Tempesti,M,22-10-91,150000,171,59,Houston
+29,13-12-56,Otmar,Herbst,M,20-11-85,300000,160,,Atlanta 
+30,14-07-58,Elvis,Demeyer,M,17-02-94,200000,165,57,WDC
+31,27-01-59,Karsten,Joslin,M,01-09-91,750000,160,66,Washington D.C.
+32,09-08-60,Jeong,Reistad,F,20-06-90,200000,167,,WDC
+33,14-11-56,Arif,Merlo,M,18-03-87,400000,159,,WDC
+34,29-12-62,Bader,Swan,M,21-09-88,200000,160,,Atlanta 
+35,08-02-53,Alain,Chappelet,M,05-09-88,300000,165,63,Atlanta 
+36,10-08-59,Adamantios,Portugali,M,03-01-92,150000,173,65,Houston
+37,22-07-63,Pradeep,Makrucki,M,05-12-90,300000,159,66,Atlanta 
+38,20-07-60,Huan,Lortz,M,20-09-89,400000,175,72,WDC
+39,01-10-59,Alejandro,Brender,M,19-01-88,200000,195,79,Washington D.C.
+40,13-09-59,Weiyi,Meriste,F,14-02-93,300000,159,77,Atlanta 
+41,27-08-59,Uri,Lenart,F,12-11-89,150000,156,59,Houston
+42,26-02-56,Magy,Stamatiou,F,21-03-93,300000,158,69,Atlanta 
+43,19-09-60,Yishay,Tzvieli,M,20-10-90,400000,174,57,LA
+44,21-09-61,Mingsen,Casley,F,21-05-94,200000,171,,Austin
+45,14-08-57,Moss,Shanbhogue,M,02-09-89,300000,149,,Washington D.C.
+46,23-07-60,Lucien,Rosenbaum,M,20-06-92,150000,175,81,Dallas
+47,29-06-52,Zvonko,Nyanchama,M,31-03-89,300000,158,77,Los Angeles
+48,11-07-63,Florian,Syrotiuk,M,24-02-85,400000,169,59,LA
+49,24-04-61,Basil,Tramer,F,04-05-92,200000,169,69,Austin
+50,21-05-58,Yinghua,Dredge,M,25-12-90,300000,162,57,Los Angeles
+51,28-07-53,Hidefumi,Caine,M,15-10-92,150000,174,69,Dallas
+52,26-02-61,Heping,Nitsch,M,21-05-88,300000,175,57,New York
+53,13-09-54,Sanjiv,Zschoche,F,04-02-86,400000,161,,LA
+54,04-04-57,Mayumi,Schueller,M,13-03-95,200000,175,,Austin
+55,06-06-56,Georgy,Dredge,M,27-04-92,300000,165,49,New York
+56,01-09-61,Brendon,Bernini,F,01-02-90,150000,157,,Houston
+57,30-05-54,Ebbe,Callaway,F,15-01-92,300000,169,,New York
+58,01-10-54,Berhard,McFarlin,M,13-04-87,400000,168,63,LA
+59,19-09-53,Alejandro,McAlpine,F,26-06-91,200000,175,65,Austin
+60,15-10-61,Breannda,Billingsley,M,02-11-87,300000,161,66,Washington D.C.
+61,19-10-62,Tse,Herber,M,17-09-85,150000,169,72,Dallas
+62,02-11-61,Anoosh,Peyn,M,30-08-91,300000,168,71,Los Angeles
+63,06-08-52,Gino,Leonhardt,F,08-04-89,750000,165,,New York
+64,07-04-59,Udi,Jansch,M,20-11-85,750000,169,,New York
+65,14-04-63,Satosi,Awdeh,M,18-05-88,200000,185,,Los Angeles
+66,13-11-52,Kwee,Schusler,M,26-02-86,400000,165,,Washington D.C.
+67,07-01-53,Claudi,Stavenow,M,04-03-87,200000,174,77,Los Angeles
+68,26-11-62,Charlene,Brattka,M,07-08-87,300000,185,74,Washington D.C.
+69,06-09-60,Margareta,Bierman,F,05-11-89,150000,161,62,Dallas
+70,20-08-55,Reuven,Garigliano,M,14-10-85,300000,190,65,Washington D.C.
+71,21-01-58,Hisao,Lipner,M,01-10-87,150000,168,55,Dallas
+72,15-05-52,Hironoby,Sidou,F,21-07-88,750000,161,53,New York
+73,23-02-54,Shir,McClurg,M,01-12-91,750000,168,57,New York
+74,28-08-55,Mokhtar,Bernatsky,F,13-08-90,200000,178,,Chicago
+75,09-03-60,Gao,Dolinsky,F,19-03-87,400000,159,53,New York
+76,13-06-52,Erez,Ritzmann,F,09-07-85,750000,171,52,NY
+77,18-04-64,Mona,Azuma,M,02-03-90,200000,173,66,Houston
+78,25-12-59,Danel,Mondadori,F,26-05-87,150000,162,62,Dallas
+79,05-10-61,Kshitij,Gils,F,27-03-86,200000,179,73,Houston
+80,03-12-57,Premal,Baek,M,19-11-85,150000,181,65,Chicago
+81,17-12-60,Zhongwei,Rosen,M,30-10-86,750000,175,65,NY
+82,09-09-63,Parviz,Lortz,M,03-01-90,750000,185,53,NY
+83,23-07-59,Vishv,Zockler,M,31-03-87,200000,186,69,Houston
+84,25-05-60,Tuval,Kalloufi,M,15-12-95,400000,182,57,New York
+85,07-11-62,Kenroku,Malabarba,M,09-04-94,200000,191,,Chicago
+86,19-11-62,Somnath,Foote,M,16-02-90,300000,175,,Washington D.C.
+87,23-07-59,Xinglin,Eugenio,F,08-09-86,150000,159,62,Chicago
+88,25-02-54,Jungsoon,Syrzycki,F,02-09-88,300000,165,65,Washington D.C.
+89,21-03-63,Sudharsan,Flasterstein,F,12-08-86,150000,169,55,Atlanta 
+90,30-05-61,Kendra,Hofting,M,14-03-86,150000,161,53,Atlanta 
+91,04-10-55,Amabile,Gomatam,M,18-11-92,300000,160,74,Washington D.C.
+92,18-10-64,Valdiodio,Niizuma,F,22-09-89,150000,168,68,Atlanta 
+93,11-06-64,Sailaja,Desikan,M,05-11-96,450000,160,73,NY
+94,25-05-57,Arumugam,Ossenbruggen,F,18-04-87,150000,158,65,Atlanta 
+95,03-01-65,Hilari,Morton,M,15-07-86,750000,174,62,Los Angeles
+96,16-09-54,Jayson,Mandell,M,14-01-90,750000,173,58,LA
+97,27-02-52,Remzi,Waschkowski,M,15-09-90,200000,171,,Chicago
+98,23-09-61,Sreekrishna,Servieres,F,13-05-85,400000,158,62,New York
+99,25-05-56,Valter,Sullins,F,18-10-88,200000,159,73,Houston
+100,21-04-53,Hironobu,Haraldson,F,21-09-87,300000,159,65,Washington D.C.
