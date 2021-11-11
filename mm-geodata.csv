@@ -1,0 +1,1954 @@
+Row ID,Customer ID,Customer Name,Segment,Country,City,State,Sales
+1,DB-13060,Dave Brooks,Consumer,Myanmar,Yangon,Yangon,457.568
+2,HR-14770,Hallie Redmond,Home Office,Myanmar,Magway City,Magway,5.94
+3,QJ-19255,Quincy Jones,Corporate,Myanmar,Kanbalu,Sagaing,138.56
+4,DW-13480,Dianna Wilson,Home Office,Myanmar,Kawthoung,Tanintharyi,2001.86
+5,DW-13480,Dianna Wilson,Home Office,Myanmar,Kawthoung,Tanintharyi,1503.25
+6,DW-13480,Dianna Wilson,Home Office,Myanmar,Kawthoung,Tanintharyi,166.72
+7,QJ-19255,Quincy Jones,Corporate,Myanmar,Kanbalu,Sagaing,65.52
+8,DW-13480,Dianna Wilson,Home Office,Myanmar,Kawthoung,Tanintharyi,47.88
+9,DW-13480,Dianna Wilson,Home Office,Myanmar,Kawthoung,Tanintharyi,25.92
+10,Dl-13600,Dorris liebe,Corporate,Myanmar,Pyay,Bago,19.92
+11,LH-16900,Lena Hernandez,Consumer,Myanmar,Pyay,Bago,357
+12,LH-16900,Lena Hernandez,Consumer,Myanmar,Magway City,Magway,23.744
+13,DL-12925,Daniel Lacy,Consumer,Myanmar,Chauk,Magway,533.94
+14,DL-12925,Daniel Lacy,Consumer,Myanmar,Chauk,Magway,167.94
+15,DL-12925,Daniel Lacy,Consumer,Myanmar,Chauk,Magway,31.68
+16,KN-16705,Kristina Nunn,Home Office,Myanmar,Magway City,Magway,36.4
+17,KN-16705,Kristina Nunn,Home Office,Myanmar,Magway City,Magway,11.36
+18,CS-11860,Cari Schnelling,Consumer,Myanmar,Taikkyi,Yangon,479.984
+19,KD-16345,Katherine Ducich,Consumer,Myanmar,Magway City,Magway,57.75
+20,CL-12565,Clay Ludtke,Consumer,Myanmar,Magway City,Magway,21.24
+21,KD-16345,Katherine Ducich,Consumer,Myanmar,Magway City,Magway,14.94
+22,SW-20755,Steven Ward,Corporate,Myanmar,Yangon,Yangon,41.94
+23,RD-19720,Roger Demir,Consumer,Myanmar,Pathein,Ayeyarwady,89.34
+24,SW-20755,Steven Ward,Corporate,Myanmar,Yangon,Yangon,52.792
+25,RD-19720,Roger Demir,Consumer,Myanmar,Magway City,Magway,34.86
+26,DP-13165,David Philippe,Consumer,Myanmar,Myeik,Tanintharyi,883.92
+27,DP-13165,David Philippe,Consumer,Myanmar,Taungoo,Bago,119.96
+28,DP-13165,David Philippe,Consumer,Myanmar,Magway City,Magway,46.72
+29,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Pyay,Bago,13.272
+30,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Yangon,Yangon,83.84
+31,AP-10720,Anne Pryor,Home Office,Myanmar,Taungoo,Bago,125.76
+32,AP-10720,Anne Pryor,Home Office,Myanmar,Magway City,Magway,25.32
+33,AP-10720,Anne Pryor,Home Office,Myanmar,Magway City,Magway,9.99
+34,NC-18415,Nathan Cano,Consumer,Myanmar,Pakokku,Magway,40.176
+35,NC-18415,Nathan Cano,Consumer,Myanmar,Pakokku,Magway,10.896
+36,SC-20725,Steven Cartwright,Consumer,Myanmar,Yangon,Yangon,515.88
+37,BK-11260,Berenike Kampe,Consumer,Myanmar,Pathein,Ayeyarwady,102.3
+38,BK-11260,Berenike Kampe,Consumer,Myanmar,Magway City,Magway,39.96
+39,BK-11260,Berenike Kampe,Consumer,Myanmar,Magway City,Magway,21.36
+40,AG-10390,Allen Goldenen,Consumer,Myanmar,Magway City,Magway,14.4
+41,SG-20605,Speros Goranitis,Consumer,Myanmar,Pyinoolwin,Mandalay,783.96
+42,SG-20605,Speros Goranitis,Consumer,Myanmar,Magway City,Magway,48.896
+43,SG-20605,Speros Goranitis,Consumer,Myanmar,Magway City,Magway,7.856
+44,MS-17710,Maurice Satty,Consumer,Myanmar,Kanbalu,Sagaing,79.36
+45,MS-17710,Maurice Satty,Consumer,Myanmar,Kanbalu,Sagaing,5.47
+46,BS-11365,Bill Shonely,Corporate,Myanmar,Pyay,Bago,12.18
+47,BS-11365,Bill Shonely,Corporate,Myanmar,Yangon,Yangon,57.68
+48,PM-18940,Paul MacIntyre,Consumer,Myanmar,Monywa,Sagaing,46.8
+49,BT-11440,Bobby Trafton,Consumer,Myanmar,Pyay,Bago,353.568
+50,BT-11440,Bobby Trafton,Consumer,Myanmar,Magway City,Magway,56.96
+51,BT-11440,Bobby Trafton,Consumer,Myanmar,Magway City,Magway,15.56
+52,BT-11440,Bobby Trafton,Consumer,Myanmar,Magway City,Magway,13.96
+53,CC-12220,Chris Cortes,Consumer,Myanmar,Pyinoolwin,Mandalay,589.41
+54,JD-16015,Joy Daniels,Consumer,Myanmar,Yangon,Yangon,29.24
+55,NM-18445,Nathan Mautz,Home Office,Myanmar,Myeik,Tanintharyi,3991.98
+56,NM-18445,Nathan Mautz,Home Office,Myanmar,Pyay,Bago,360
+57,NM-18445,Nathan Mautz,Home Office,Myanmar,Pyay,Bago,275.94
+58,NM-18445,Nathan Mautz,Home Office,Myanmar,Taungoo,Bago,135.882
+59,SZ-20035,Sam Zeldin,Home Office,Myanmar,Magway City,Magway,52.064
+60,NM-18445,Nathan Mautz,Home Office,Myanmar,Magway City,Magway,43.57
+61,CP-12085,Cathy Prescott,Corporate,Myanmar,Taungoo,Bago,129.98
+62,AB-10150,Aimee Bixby,Consumer,Myanmar,Pakokku,Magway,479.97
+63,AB-10150,Aimee Bixby,Consumer,Myanmar,Pakokku,Magway,97.82
+64,AB-10150,Aimee Bixby,Consumer,Myanmar,Pakokku,Magway,59.52
+65,AB-10150,Aimee Bixby,Consumer,Myanmar,Pakokku,Magway,49.632
+66,AB-10150,Aimee Bixby,Consumer,Myanmar,Pakokku,Magway,18.62
+67,TH-21550,Tracy Hopkins,Home Office,Myanmar,Magway City,Magway,55.48
+68,SP-20650,Stephanie Phelps,Corporate,Myanmar,Taungoo,Bago,135.99
+69,SP-20650,Stephanie Phelps,Corporate,Myanmar,Magway City,Magway,15.96
+70,SC-20260,Scott Cohen,Corporate,Myanmar,Yangon,Yangon,33.9
+71,SC-20260,Scott Cohen,Corporate,Myanmar,Yangon,Yangon,653.55
+72,GT-14635,Grant Thornton,Corporate,Myanmar,Chauk,Magway,991.764
+73,GT-14635,Grant Thornton,Corporate,Myanmar,Chauk,Magway,149.544
+74,SV-20785,Stewart Visinsky,Consumer,Myanmar,Thanlyin,Yangon,62.016
+75,GT-14635,Grant Thornton,Corporate,Myanmar,Chauk,Magway,17.14
+76,SV-20785,Stewart Visinsky,Consumer,Myanmar,Thanlyin,Yangon,1.365
+77,BM-11785,Bryan Mills,Consumer,Myanmar,Myingyan,Magway,13.36
+78,EP-13915,Emily Phan,Consumer,Myanmar,Pyinoolwin,Mandalay,559.992
+79,TB-21625,Trudy Brown,Consumer,Myanmar,Taungoo,Bago,199.98
+80,VP-21760,Victoria Pisteka,Corporate,Myanmar,Mandalay City,Mandalay,386.34
+81,CS-12250,Chris Selesnick,Corporate,Myanmar,Magway City,Magway,64.96
+82,AB-10015,Aaron Bergman,Consumer,Myanmar,Pyay,Bago,17.94
+83,CM-12715,Craig Molinari,Corporate,Myanmar,Yangon,Yangon,20.65
+84,AB-10015,Aaron Bergman,Consumer,Myanmar,Yangon,Yangon,48.712
+85,CM-12715,Craig Molinari,Corporate,Myanmar,Yangon,Yangon,204.9
+86,AB-10015,Aaron Bergman,Consumer,Myanmar,Yangon,Yangon,242.94
+87,CM-12715,Craig Molinari,Corporate,Myanmar,Yangon,Yangon,436.704
+88,CM-12715,Craig Molinari,Corporate,Myanmar,Yangon,Yangon,481.568
+89,DK-13375,Dennis Kane,Consumer,Myanmar,Pyay,Bago,377.97
+90,BP-11095,Bart Pistole,Corporate,Myanmar,Magway City,Magway,30.18
+91,BP-11095,Bart Pistole,Corporate,Myanmar,Magway City,Magway,5.92
+92,AS-10630,Ann Steele,Home Office,Myanmar,Yangon,Yangon,269.36
+93,RD-19480,Rick Duston,Consumer,Myanmar,Chauk,Magway,1676.88
+94,RD-19480,Rick Duston,Consumer,Myanmar,Chauk,Magway,68.48
+95,CS-11950,Carlos Soltero,Consumer,Myanmar,Yangon,Yangon,585.552
+96,MH-18025,Michelle Huthwaite,Consumer,Myanmar,Aunglan,Magway,63.882
+97,VG-21790,Vivek Gonzalez,Consumer,Myanmar,Thanlyin,Yangon,155.456
+98,PP-18955,Paul Prost,Home Office,Myanmar,Taungoo,Bago,172.764
+99,SP-20620,Stefania Perrino,Corporate,Myanmar,Chauk,Magway,16.78
+100,PP-18955,Paul Prost,Home Office,Myanmar,Magway City,Magway,3.52
+101,DN-13690,Duane Noonan,Consumer,Myanmar,Taungoo,Bago,123.92
+102,MG-17650,Matthew Grinstein,Home Office,Myanmar,Yangon,Yangon,219.168
+103,MG-17650,Matthew Grinstein,Home Office,Myanmar,Yangon,Yangon,1091.168
+104,JH-15985,Joseph Holt,Consumer,Myanmar,Bago,Yangon,2060.744
+105,MS-17365,Maribeth Schnelling,Consumer,Myanmar,Kanbalu,Sagaing,103.6
+106,BF-11215,Benjamin Farhat,Home Office,Myanmar,Magway City,Magway,56.52
+107,HK-14890,Heather Kirkland,Corporate,Myanmar,Kanbalu,Sagaing,491.55
+108,SM-20005,Sally Matthias,Consumer,Myanmar,Pathein,Ayeyarwady,106.344
+109,SM-20005,Sally Matthias,Consumer,Myanmar,Magway City,Magway,11.36
+110,SV-20365,Seth Vernon,Consumer,Myanmar,Labutta,Ayeyarwady,9.94
+111,KA-16525,Kelly Andreada,Consumer,Myanmar,Pathein,Ayeyarwady,108.92
+112,JK-15370,Jay Kimmel,Consumer,Myanmar,Hlegu,Yangon,383.976
+113,JK-15370,Jay Kimmel,Consumer,Myanmar,Hlegu,Yangon,335.944
+114,JK-15370,Jay Kimmel,Consumer,Myanmar,Hlegu,Yangon,10.368
+115,JK-15370,Jay Kimmel,Consumer,Myanmar,Hlegu,Yangon,6.912
+116,MH-17455,Mark Hamilton,Consumer,Myanmar,Magway City,Magway,49.12
+117,MH-17455,Mark Hamilton,Consumer,Myanmar,Magway City,Magway,18.28
+118,GM-14680,Greg Matthias,Consumer,Myanmar,Pyay,Bago,12.35
+119,KL-16645,Ken Lonsdale,Consumer,Myanmar,Pyay,Bago,375.34
+120,GM-14680,Greg Matthias,Consumer,Myanmar,Yangon,Yangon,22.96
+121,GM-14680,Greg Matthias,Consumer,Myanmar,Yangon,Yangon,40.97
+122,Dp-13240,Dean percer,Home Office,Myanmar,Yangon,Yangon,63.47
+123,Dp-13240,Dean percer,Home Office,Myanmar,Yangon,Yangon,345
+124,MZ-17515,Mary Zewe,Corporate,Myanmar,Yangon,Yangon,22.98
+125,MZ-17515,Mary Zewe,Corporate,Myanmar,Yangon,Yangon,102.13
+126,MZ-17515,Mary Zewe,Corporate,Myanmar,Bago,Yangon,2033.584
+127,CL-12565,Clay Ludtke,Consumer,Myanmar,Pyay,Bago,11.264
+128,CL-12565,Clay Ludtke,Consumer,Myanmar,Yangon,Yangon,123.136
+129,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,211.248
+130,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,158.928
+131,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,47.96
+132,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,31.104
+133,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,5.552
+134,DH-13675,Duane Huffman,Home Office,Myanmar,Hlegu,Yangon,2.952
+135,LW-17215,Luke Weiss,Consumer,Myanmar,Myeik,Tanintharyi,3785.292
+136,PB-19150,Philip Brown,Consumer,Myanmar,Hlegu,Yangon,23.472
+137,DB-13120,David Bremer,Corporate,Myanmar,Kawhmu,Yangon,172.704
+138,DB-13120,David Bremer,Corporate,Myanmar,Kawhmu,Yangon,63.552
+139,DB-13120,David Bremer,Corporate,Myanmar,Kawhmu,Yangon,41.376
+140,AJ-10945,Ashley Jarboe,Consumer,Myanmar,Kanbalu,Sagaing,403.68
+141,AJ-10945,Ashley Jarboe,Consumer,Myanmar,Kanbalu,Sagaing,299.98
+142,AJ-10945,Ashley Jarboe,Consumer,Myanmar,Kanbalu,Sagaing,41.9
+143,AJ-10945,Ashley Jarboe,Consumer,Myanmar,Kanbalu,Sagaing,28.91
+144,VD-21670,Valerie Dominguez,Consumer,Myanmar,Myeik,Tanintharyi,1399.93
+145,VD-21670,Valerie Dominguez,Consumer,Myanmar,Pyinoolwin,Mandalay,503.96
+146,JH-16180,Justin Hirsh,Consumer,Myanmar,Pyay,Bago,327.564
+147,VD-21670,Valerie Dominguez,Consumer,Myanmar,Pyay,Bago,259.7
+148,JF-15490,Jeremy Farry,Consumer,Myanmar,Taungoo,Bago,205.164
+149,VD-21670,Valerie Dominguez,Consumer,Myanmar,Magway City,Magway,42.95
+150,VD-21670,Valerie Dominguez,Consumer,Myanmar,Magway City,Magway,13.52
+151,QJ-19255,Quincy Jones,Corporate,Myanmar,Magway City,Magway,4.95
+152,BT-11305,Beth Thompson,Home Office,Myanmar,Pyay,Bago,13.9
+153,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,32.4
+154,LC-17140,Logan Currie,Consumer,Myanmar,Yangon,Yangon,55.424
+155,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,114.2
+156,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,146.73
+157,MA-17560,Matt Abelman,Home Office,Myanmar,Monywa,Sagaing,19.44
+158,MA-17560,Matt Abelman,Home Office,Myanmar,Monywa,Sagaing,18.54
+159,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,1913.4
+160,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,2003.92
+161,MA-17560,Matt Abelman,Home Office,Myanmar,Monywa,Sagaing,3.64
+162,CB-12535,Claudia Bergmann,Corporate,Myanmar,Pathein,Ayeyarwady,85.52
+163,CB-12535,Claudia Bergmann,Corporate,Myanmar,Pathein,Ayeyarwady,20.04
+164,CB-12535,Claudia Bergmann,Corporate,Myanmar,Pathein,Ayeyarwady,9.84
+165,PA-19060,Pete Armstrong,Home Office,Myanmar,Myingyan,Mandalay,101.88
+166,PA-19060,Pete Armstrong,Home Office,Myanmar,Myingyan,Mandalay,10.16
+167,DK-13090,Dave Kipp,Consumer,Myanmar,Yangon,Yangon,787.53
+168,SR-20740,Steven Roelle,Home Office,Myanmar,Magway City,Magway,19.44
+169,Co-12640,Corey-Lock,Consumer,Myanmar,Pyay,Bago,6.368
+170,Co-12640,Corey-Lock,Consumer,Myanmar,Yangon,Yangon,558.4
+171,ED-13885,Emily Ducich,Home Office,Myanmar,Myeik,Tanintharyi,2621.322
+172,KC-16540,Kelly Collister,Consumer,Myanmar,Yangon,Yangon,447.93
+173,JB-15400,Jennifer Braxton,Corporate,Myanmar,Taungoo,Bago,120.33
+174,FH-14365,Fred Hopkins,Corporate,Myanmar,Chauk,Magway,1448.82
+175,BS-11380,Bill Stewart,Corporate,Myanmar,Pyinoolwin,Mandalay,590.352
+176,MP-17470,Mark Packer,Home Office,Myanmar,Magway City,Magway,10.752
+177,NF-18595,Nicole Fjeld,Home Office,Myanmar,Pathein,Ayeyarwady,108.4
+178,NF-18595,Nicole Fjeld,Home Office,Myanmar,Pathein,Ayeyarwady,82.344
+179,NF-18595,Nicole Fjeld,Home Office,Myanmar,Magway City,Magway,11.16
+180,NF-18595,Nicole Fjeld,Home Office,Myanmar,Magway City,Magway,9.088
+181,SV-20815,Stuart Van,Corporate,Myanmar,Mandalay City,Mandalay,125.93
+182,AS-10225,Alan Schoenberger,Corporate,Myanmar,Magway City,Magway,26.8
+183,LL-16840,Lauren Leatherbury,Consumer,Myanmar,Pyay,Bago,7.38
+184,LL-16840,Lauren Leatherbury,Consumer,Myanmar,Pyay,Bago,9.26
+185,TC-21535,Tracy Collins,Home Office,Myanmar,Magway City,Magway,35.28
+186,TC-21535,Tracy Collins,Home Office,Myanmar,Magway City,Magway,30.44
+187,AD-10180,Alan Dominguez,Home Office,Myanmar,Magway City,Magway,15.48
+188,MS-17365,Maribeth Schnelling,Consumer,Myanmar,Myeik,Tanintharyi,1799.75
+189,MS-17365,Maribeth Schnelling,Consumer,Myanmar,Pyay,Bago,384.174
+190,MS-17365,Maribeth Schnelling,Consumer,Myanmar,Magway City,Magway,17.94
+191,SR-20740,Steven Roelle,Home Office,Myanmar,Yangon,Yangon,61.584
+192,BG-11695,Brooke Gillingham,Corporate,Myanmar,Magway City,Magway,59.52
+193,BG-11695,Brooke Gillingham,Corporate,Myanmar,Magway City,Magway,17.48
+194,BG-11695,Brooke Gillingham,Corporate,Myanmar,Magway City,Magway,13.168
+195,LF-17185,Luke Foster,Consumer,Myanmar,Pyinoolwin,Mandalay,563.4
+196,LF-17185,Luke Foster,Consumer,Myanmar,Pyay,Bago,383.607
+197,LF-17185,Luke Foster,Consumer,Myanmar,Magway City,Magway,29.34
+198,EB-13750,Edward Becker,Corporate,Myanmar,Aunglan,Magway,1522.638
+199,SP-20860,Sung Pak,Corporate,Myanmar,Myeik,Tanintharyi,36.84
+200,SP-20860,Sung Pak,Corporate,Myanmar,Myeik,Tanintharyi,6.16
+201,SF-20965,Sylvia Foulston,Corporate,Myanmar,Ngwesaung,Ayeyarwady,77.55
+202,KL-16645,Ken Lonsdale,Consumer,Myanmar,Yangon,Yangon,98.352
+203,GT-14635,Grant Thornton,Corporate,Myanmar,Magway City,Magway,25.344
+204,BD-11635,Brian Derr,Consumer,Myanmar,Pyay,Bago,232.4
+205,BD-11635,Brian Derr,Consumer,Myanmar,Taungoo,Bago,164.646
+206,BD-11635,Brian Derr,Consumer,Myanmar,Magway City,Magway,22.68
+207,IL-15100,Ivan Liston,Consumer,Myanmar,Ngwesaung,Ayeyarwady,1268.82
+208,IL-15100,Ivan Liston,Consumer,Myanmar,Ngwesaung,Ayeyarwady,283.92
+209,IL-15100,Ivan Liston,Consumer,Myanmar,Ngwesaung,Ayeyarwady,5.68
+210,KM-16225,Kalyca Meade,Corporate,Myanmar,Pyinoolwin,Mandalay,601.65
+211,KM-16225,Kalyca Meade,Corporate,Myanmar,Taungoo,Bago,155.82
+212,KM-16225,Kalyca Meade,Corporate,Myanmar,Taungoo,Bago,124.95
+213,KM-16225,Kalyca Meade,Corporate,Myanmar,Magway City,Magway,13.96
+214,BT-11305,Beth Thompson,Home Office,Myanmar,Pyay,Bago,6.096
+215,BS-11590,Brendan Sweed,Corporate,Myanmar,Pyay,Bago,337.98
+216,CC-12430,Chuck Clark,Home Office,Myanmar,Pyay,Bago,271.764
+217,BT-11305,Beth Thompson,Home Office,Myanmar,Yangon,Yangon,191.82
+218,BS-11590,Brendan Sweed,Corporate,Myanmar,Magway City,Magway,8.39
+219,SG-20605,Speros Goranitis,Consumer,Myanmar,Myeik,Tanintharyi,1619.91
+220,NP-18685,Nora Pelletier,Home Office,Myanmar,Mandalay City,Mandalay,999.98
+221,SG-20605,Speros Goranitis,Consumer,Myanmar,Pathein,Ayeyarwady,113.92
+222,SG-20605,Speros Goranitis,Consumer,Myanmar,Magway City,Magway,41.86
+223,SG-20605,Speros Goranitis,Consumer,Myanmar,Magway City,Magway,6.48
+224,EM-14140,Eugene Moren,Home Office,Myanmar,Pathein,Ayeyarwady,587.97
+225,EM-14140,Eugene Moren,Home Office,Myanmar,Pathein,Ayeyarwady,119.85
+226,EM-14140,Eugene Moren,Home Office,Myanmar,Pathein,Ayeyarwady,69.28
+227,EM-14140,Eugene Moren,Home Office,Myanmar,Pathein,Ayeyarwady,30.44
+228,RP-19390,Resi Pölking,Consumer,Myanmar,Magway City,Magway,25.92
+229,RP-19390,Resi Pölking,Consumer,Myanmar,Magway City,Magway,22.58
+230,TN-21040,Tanja Norvell,Home Office,Myanmar,Pyinoolwin,Mandalay,559.93
+231,AG-10525,Andy Gerbode,Corporate,Myanmar,Pyay,Bago,481.176
+232,AG-10525,Andy Gerbode,Corporate,Myanmar,Pathein,Ayeyarwady,90
+233,AG-10525,Andy Gerbode,Corporate,Myanmar,Pathein,Ayeyarwady,70.26
+234,MC-17275,Marc Crier,Consumer,Myanmar,Magway City,Magway,27.414
+235,MC-17275,Marc Crier,Consumer,Myanmar,Magway City,Magway,13.96
+236,AG-10525,Andy Gerbode,Corporate,Myanmar,Magway City,Magway,7.24
+237,AG-10525,Andy Gerbode,Corporate,Myanmar,Magway City,Magway,6.096
+238,CP-12340,Christine Phan,Corporate,Myanmar,Hlegu,Yangon,1345.485
+239,CP-12340,Christine Phan,Corporate,Myanmar,Hlegu,Yangon,16.146
+240,MC-18130,Mike Caudle,Corporate,Myanmar,Pathein,Ayeyarwady,26.18
+241,MC-18130,Mike Caudle,Corporate,Myanmar,Pathein,Ayeyarwady,7.3
+242,JF-15490,Jeremy Farry,Consumer,Myanmar,Pyay,Bago,2.61
+243,JF-15490,Jeremy Farry,Consumer,Myanmar,Pyay,Bago,3.96
+244,AH-10210,Alan Hwang,Consumer,Myanmar,Pyinoolwin,Mandalay,773.94
+245,AH-10210,Alan Hwang,Consumer,Myanmar,Magway City,Magway,21.36
+246,AH-10210,Alan Hwang,Consumer,Myanmar,Magway City,Magway,6.688
+247,AR-10825,Anthony Rawles,Corporate,Myanmar,Chauk,Magway,19.44
+248,NW-18400,Natalie Webber,Consumer,Myanmar,Myeik,Tanintharyi,2799.944
+249,DL-12925,Daniel Lacy,Consumer,Myanmar,Dawei,Tanintharyi,377.97
+250,DL-12925,Daniel Lacy,Consumer,Myanmar,Dawei,Tanintharyi,123.96
+251,DL-12925,Daniel Lacy,Consumer,Myanmar,Dawei,Tanintharyi,43.98
+252,NW-18400,Natalie Webber,Consumer,Myanmar,Pyay,Bago,357.93
+253,NW-18400,Natalie Webber,Consumer,Myanmar,Taungoo,Bago,127.764
+254,NW-18400,Natalie Webber,Consumer,Myanmar,Pathein,Ayeyarwady,79.44
+255,AB-10255,Alejandro Ballentine,Home Office,Myanmar,Magway City,Magway,37.94
+256,NW-18400,Natalie Webber,Consumer,Myanmar,Magway City,Magway,19.44
+257,KD-16495,Keith Dawkins,Corporate,Myanmar,Magway City,Magway,4643.8
+258,KD-16495,Keith Dawkins,Corporate,Myanmar,Pyinoolwin,Mandalay,577.764
+259,KD-16495,Keith Dawkins,Corporate,Myanmar,Pyinoolwin,Mandalay,549.98
+260,KD-16495,Keith Dawkins,Corporate,Myanmar,Magway City,Magway,67.15
+261,AC-10450,Amy Cox,Consumer,Myanmar,Magway City,Magway,52.272
+262,AC-10450,Amy Cox,Consumer,Myanmar,Magway City,Magway,17.94
+263,KD-16495,Keith Dawkins,Corporate,Myanmar,Magway City,Magway,11.82
+264,MC-18100,Mick Crebagga,Consumer,Myanmar,Magway City,Magway,17.94
+265,MJ-17740,Max Jones,Consumer,Myanmar,Hlegu,Yangon,72.6
+266,MJ-17740,Max Jones,Consumer,Myanmar,Hlegu,Yangon,64.2
+267,MJ-17740,Max Jones,Consumer,Myanmar,Hlegu,Yangon,38.52
+268,NP-18325,Naresj Patel,Consumer,Myanmar,Dawei,Tanintharyi,1217.568
+269,NP-18325,Naresj Patel,Consumer,Myanmar,Dawei,Tanintharyi,979.95
+270,DS-13180,David Smith,Corporate,Myanmar,Kanbalu,Sagaing,622.45
+271,NP-18325,Naresj Patel,Consumer,Myanmar,Pyay,Bago,382.806
+272,NP-18325,Naresj Patel,Consumer,Myanmar,Pyay,Bago,307.98
+273,NP-18325,Naresj Patel,Consumer,Myanmar,Pyay,Bago,247.8
+274,MF-18250,Monica Federle,Corporate,Myanmar,Taungoo,Bago,144.12
+275,NP-18325,Naresj Patel,Consumer,Myanmar,Taungoo,Bago,143.7
+276,NP-18325,Naresj Patel,Consumer,Myanmar,Magway City,Magway,47.04
+277,NP-18325,Naresj Patel,Consumer,Myanmar,Magway City,Magway,41.96
+278,DS-13180,David Smith,Corporate,Myanmar,Kanbalu,Sagaing,21.98
+279,RA-19885,Ruben Ausman,Corporate,Myanmar,Thanlyin,Yangon,4.608
+280,NP-18325,Naresj Patel,Consumer,Myanmar,Magway City,Magway,10.65
+281,MF-18250,Monica Federle,Corporate,Myanmar,Magway City,Magway,10.02
+282,NP-18325,Naresj Patel,Consumer,Myanmar,Magway City,Magway,6.16
+283,DS-13180,David Smith,Corporate,Myanmar,Kanbalu,Sagaing,2.2
+284,TB-21250,Tim Brockman,Consumer,Myanmar,Pyinoolwin,Mandalay,631.96
+285,FM-14380,Fred McMath,Consumer,Myanmar,Kanbalu,Sagaing,389.97
+286,FM-14380,Fred McMath,Consumer,Myanmar,Kanbalu,Sagaing,269.91
+287,SC-20575,Sonia Cooley,Consumer,Myanmar,Hlegu,Yangon,37.376
+288,SC-20575,Sonia Cooley,Consumer,Myanmar,Hlegu,Yangon,11.214
+289,SC-20575,Sonia Cooley,Consumer,Myanmar,Hlegu,Yangon,1.872
+290,TB-21250,Tim Brockman,Consumer,Myanmar,Magway City,Magway,23.92
+291,Dp-13240,Dean percer,Home Office,Myanmar,Myeik,Tanintharyi,2321.9
+292,Dp-13240,Dean percer,Home Office,Myanmar,Magway City,Magway,17.94
+293,AG-10765,Anthony Garverick,Home Office,Myanmar,Yamethin,Mandalay,10.74
+294,KB-16600,Ken Brennan,Corporate,Myanmar,Pyinoolwin,Mandalay,34.02
+295,MM-17920,Michael Moore,Consumer,Myanmar,Dawei,Tanintharyi,1018.104
+296,EH-14125,Eugene Hildebrand,Home Office,Myanmar,Myingyan,Magway,142.04
+297,EH-14125,Eugene Hildebrand,Home Office,Myanmar,Myingyan,Magway,14.67
+298,BD-11320,Bill Donatelli,Consumer,Myanmar,Kanbalu,Sagaing,64.75
+299,MC-17575,Matt Collins,Consumer,Myanmar,Yangon,Yangon,353.88
+300,BO-11425,Bobby Odegard,Consumer,Myanmar,Magway City,Magway,6.08
+301,JD-15790,John Dryer,Consumer,Myanmar,Thanlyin,Yangon,1801.632
+302,SC-20695,Steve Chapman,Corporate,Myanmar,Myingyan,Mandalay,714.3
+303,KD-16495,Keith Dawkins,Corporate,Myanmar,Monywa,Sagaing,801.96
+304,MA-17560,Matt Abelman,Home Office,Myanmar,Pyinoolwin,Mandalay,799.984
+305,KD-16495,Keith Dawkins,Corporate,Myanmar,Monywa,Sagaing,191.96
+306,MA-17560,Matt Abelman,Home Office,Myanmar,Taungoo,Bago,184.66
+307,MA-17560,Matt Abelman,Home Office,Myanmar,Magway City,Magway,41.28
+308,MA-17560,Matt Abelman,Home Office,Myanmar,Magway City,Magway,7.31
+309,KD-16495,Keith Dawkins,Corporate,Myanmar,Monywa,Sagaing,3.9
+310,KD-16495,Keith Dawkins,Corporate,Myanmar,Monywa,Sagaing,2.61
+311,SE-20110,Sanjit Engle,Consumer,Myanmar,Pyay,Bago,406.6
+312,SE-20110,Sanjit Engle,Consumer,Myanmar,Pathein,Ayeyarwady,85.14
+313,SE-20110,Sanjit Engle,Consumer,Myanmar,Magway City,Magway,21.99
+314,PR-18880,Patrick Ryan,Consumer,Myanmar,Kawhmu,Yangon,67.36
+315,PR-18880,Patrick Ryan,Consumer,Myanmar,Kawhmu,Yangon,54.528
+316,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,1123.92
+317,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,1036.624
+318,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,563.808
+319,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,249.584
+320,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,78.6
+321,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,60.768
+322,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,48.672
+323,JE-15610,Jim Epp,Corporate,Myanmar,Taikkyi,Yangon,3.768
+324,TS-21370,Todd Sumrall,Corporate,Myanmar,Ngwesaung,Ayeyarwady,716
+325,TS-21370,Todd Sumrall,Corporate,Myanmar,Ngwesaung,Ayeyarwady,221.06
+326,TS-21370,Todd Sumrall,Corporate,Myanmar,Ngwesaung,Ayeyarwady,199.836
+327,SC-20380,Shahid Collister,Consumer,Myanmar,Yangon,Yangon,29.97
+328,SC-20380,Shahid Collister,Consumer,Myanmar,Yangon,Yangon,98.352
+329,PO-19180,Philisse Overcash,Home Office,Myanmar,Taungoo,Bago,138
+330,PO-19180,Philisse Overcash,Home Office,Myanmar,Magway City,Magway,11.96
+331,DM-13525,Don Miller,Corporate,Myanmar,Pyinoolwin,Mandalay,772.68
+332,DM-13525,Don Miller,Corporate,Myanmar,Taungoo,Bago,210.68
+333,DM-13525,Don Miller,Corporate,Myanmar,Pathein,Ayeyarwady,78.8
+334,DM-13525,Don Miller,Corporate,Myanmar,Magway City,Magway,19.99
+335,SH-20395,Shahid Hopkins,Consumer,Myanmar,Myingyan,Magway,31.95
+336,AG-10495,Andrew Gjertsen,Corporate,Myanmar,Kanbalu,Sagaing,418.32
+337,AG-10495,Andrew Gjertsen,Corporate,Myanmar,Kanbalu,Sagaing,123.858
+338,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kanbalu,Sagaing,175.23
+339,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kanbalu,Sagaing,125.99
+340,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kanbalu,Sagaing,23
+341,GH-14425,Gary Hwang,Consumer,Myanmar,Thanlyin,Yangon,12.828
+342,YS-21880,Yana Sorensen,Corporate,Myanmar,Pathein,Ayeyarwady,465.18
+343,RO-19780,Rose O'Brian,Consumer,Myanmar,Pyay,Bago,14.592
+344,AZ-10750,Annie Zypern,Consumer,Myanmar,Magway City,Magway,36.63
+345,LE-16810,Laurel Elliston,Consumer,Myanmar,Pathein,Ayeyarwady,29.9
+346,SZ-20035,Sam Zeldin,Home Office,Myanmar,Pyinoolwin,Mandalay,24.56
+347,PG-18895,Paul Gonzalez,Consumer,Myanmar,Pyay,Bago,479.984
+348,CC-12670,Craig Carreira,Consumer,Myanmar,Yangon,Yangon,21.98
+349,PG-18895,Paul Gonzalez,Consumer,Myanmar,Magway City,Magway,12.6
+350,MP-17470,Mark Packer,Home Office,Myanmar,Myeik,Tanintharyi,899.136
+351,MP-17470,Mark Packer,Home Office,Myanmar,Pyinoolwin,Mandalay,626.352
+352,KA-16525,Kelly Andreada,Consumer,Myanmar,Pyay,Bago,17.9
+353,DL-12925,Daniel Lacy,Consumer,Myanmar,Meiktila,Mandalay,263.96
+354,RK-19300,Ralph Kennedy,Consumer,Myanmar,Myingyan,Magway,209.67
+355,DL-12925,Daniel Lacy,Consumer,Myanmar,Meiktila,Mandalay,135.72
+356,MP-17470,Mark Packer,Home Office,Myanmar,Pathein,Ayeyarwady,71.76
+357,MP-17470,Mark Packer,Home Office,Myanmar,Magway City,Magway,51.84
+358,KA-16525,Kelly Andreada,Consumer,Myanmar,Yangon,Yangon,81.96
+359,MP-17470,Mark Packer,Home Office,Myanmar,Magway City,Magway,19.9
+360,DL-12925,Daniel Lacy,Consumer,Myanmar,Meiktila,Mandalay,12.56
+361,EB-14110,Eugene Barchas,Consumer,Myanmar,Magway City,Magway,15.56
+362,KD-16270,Karen Daniels,Consumer,Myanmar,Pakokku,Magway,4899.93
+363,KD-16270,Karen Daniels,Consumer,Myanmar,Pakokku,Magway,836.592
+364,KD-16270,Karen Daniels,Consumer,Myanmar,Pakokku,Magway,362.92
+365,KD-16270,Karen Daniels,Consumer,Myanmar,Pakokku,Magway,26.38
+366,FP-14320,Frank Preis,Consumer,Myanmar,Myeik,Tanintharyi,1317.492
+367,DW-13540,Don Weiss,Consumer,Myanmar,Pathein,Ayeyarwady,88.04
+368,FP-14320,Frank Preis,Consumer,Myanmar,Magway City,Magway,63.84
+369,TB-21175,Thomas Boland,Corporate,Myanmar,Magway City,Magway,20.7
+370,TB-21175,Thomas Boland,Corporate,Myanmar,Magway City,Magway,14.352
+371,TB-21175,Thomas Boland,Corporate,Myanmar,Magway City,Magway,10.95
+372,FP-14320,Frank Preis,Consumer,Myanmar,Magway City,Magway,3.592
+373,NZ-18565,Nick Zandusky,Home Office,Myanmar,Pyay,Bago,2.496
+374,SU-20665,Stephanie Ulpright,Home Office,Myanmar,Pathein,Ayeyarwady,75.06
+375,SU-20665,Stephanie Ulpright,Home Office,Myanmar,Magway City,Magway,30.84
+376,SU-20665,Stephanie Ulpright,Home Office,Myanmar,Magway City,Magway,30.53
+377,AB-10060,Adam Bellavance,Home Office,Myanmar,Magway City,Magway,4355.168
+378,PG-18820,Patrick Gardner,Consumer,Myanmar,Pyay,Bago,468.9
+379,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,376.74
+380,PG-18820,Patrick Gardner,Consumer,Myanmar,Taungoo,Bago,191.82
+381,PG-18820,Patrick Gardner,Consumer,Myanmar,Pathein,Ayeyarwady,72.48
+382,AB-10060,Adam Bellavance,Home Office,Myanmar,Magway City,Magway,49.12
+383,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,29.52
+384,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,26.4
+385,AB-10060,Adam Bellavance,Home Office,Myanmar,Magway City,Magway,24.56
+386,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,24.1
+387,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,11.96
+388,PG-18820,Patrick Gardner,Consumer,Myanmar,Magway City,Magway,10.95
+389,JA-15970,Joseph Airdo,Consumer,Myanmar,Kanbalu,Sagaing,8.78
+390,AB-10060,Adam Bellavance,Home Office,Myanmar,Magway City,Magway,6.79
+391,AB-10060,Adam Bellavance,Home Office,Myanmar,Magway City,Magway,3.048
+392,GM-14680,Greg Matthias,Consumer,Myanmar,Pyay,Bago,330.588
+393,GZ-14470,Gary Zandusky,Consumer,Myanmar,Myeik,Tanintharyi,23.92
+394,RD-19480,Rick Duston,Consumer,Myanmar,Myingyan,Mandalay,17.31
+395,AB-10105,Adrian Barton,Consumer,Myanmar,Taungoo,Bago,117.96
+396,CC-12475,Cindy Chapman,Consumer,Myanmar,Magway City,Magway,45.576
+397,CC-12475,Cindy Chapman,Consumer,Myanmar,Magway City,Magway,44.94
+398,EH-13765,Edward Hooks,Corporate,Myanmar,Pyay,Bago,11.232
+399,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,30.18
+400,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,51.648
+401,KD-16270,Karen Daniels,Consumer,Myanmar,Pathein,Ayeyarwady,75.48
+402,KD-16270,Karen Daniels,Consumer,Myanmar,Magway City,Magway,39.98
+403,TC-20980,Tamara Chand,Corporate,Myanmar,Kyaukse,Mandalay,17499.95
+404,TC-20980,Tamara Chand,Corporate,Myanmar,Kyaukse,Mandalay,735.98
+405,TT-21265,Tim Taslimi,Corporate,Myanmar,Magway City,Magway,61.44
+406,TC-20980,Tamara Chand,Corporate,Myanmar,Kyaukse,Mandalay,34.37
+407,TC-20980,Tamara Chand,Corporate,Myanmar,Kyaukse,Mandalay,33.96
+408,TC-20980,Tamara Chand,Corporate,Myanmar,Kyaukse,Mandalay,32.48
+409,JF-15190,Jamie Frazer,Consumer,Myanmar,Pyay,Bago,415.176
+410,JF-15190,Jamie Frazer,Consumer,Myanmar,Magway City,Magway,54.96
+411,JF-15190,Jamie Frazer,Consumer,Myanmar,Magway City,Magway,35.232
+412,BH-11710,Brosina Hoffman,Consumer,Myanmar,Pathein,Ayeyarwady,479.95
+413,BH-11710,Brosina Hoffman,Consumer,Myanmar,Pathein,Ayeyarwady,447.86
+414,BH-11710,Brosina Hoffman,Consumer,Myanmar,Pathein,Ayeyarwady,166.44
+415,ZD-21925,Zuschuss Donatelli,Consumer,Myanmar,Myingyan,Mandalay,259.96
+416,ZD-21925,Zuschuss Donatelli,Consumer,Myanmar,Myingyan,Mandalay,71.12
+417,DK-13225,Dean Katz,Corporate,Myanmar,Pyinoolwin,Mandalay,706.86
+418,EB-13870,Emily Burns,Consumer,Myanmar,Pyinoolwin,Mandalay,599.292
+419,MM-17920,Michael Moore,Consumer,Myanmar,Myingyan,Mandalay,581.96
+420,MM-17920,Michael Moore,Consumer,Myanmar,Myingyan,Mandalay,29.98
+421,RF-19345,Randy Ferguson,Corporate,Myanmar,Hlegu,Yangon,10.08
+422,EH-14185,Evan Henry,Consumer,Myanmar,Pyinoolwin,Mandalay,588.784
+423,EN-13780,Edward Nazzal,Consumer,Myanmar,Myeik,Tanintharyi,1349.85
+424,EN-13780,Edward Nazzal,Consumer,Myanmar,Taungoo,Bago,136.784
+425,EN-13780,Edward Nazzal,Consumer,Myanmar,Magway City,Magway,61.12
+426,EN-13780,Edward Nazzal,Consumer,Myanmar,Magway City,Magway,14.94
+427,RB-19465,Rick Bensley,Home Office,Myanmar,Yangon,Yangon,25.4
+428,RB-19465,Rick Bensley,Home Office,Myanmar,Yangon,Yangon,71.976
+429,RB-19465,Rick Bensley,Home Office,Myanmar,Yangon,Yangon,177.48
+430,CV-12295,Christina VanderZanden,Consumer,Myanmar,Magway City,Magway,63.94
+431,CV-12295,Christina VanderZanden,Consumer,Myanmar,Magway City,Magway,60.6
+432,CV-12295,Christina VanderZanden,Consumer,Myanmar,Magway City,Magway,22.72
+433,MF-17665,Maureen Fritzler,Corporate,Myanmar,Hlegu,Yangon,50.496
+434,AS-10285,Alejandro Savely,Corporate,Myanmar,Yangon,Yangon,209.88
+435,EB-13840,Ellis Ballard,Corporate,Myanmar,Pyay,Bago,212.88
+436,BM-11140,Becky Martin,Consumer,Myanmar,Taungoo,Bago,193.86
+437,BM-11140,Becky Martin,Consumer,Myanmar,Taungoo,Bago,182.94
+438,BM-11140,Becky Martin,Consumer,Myanmar,Pathein,Ayeyarwady,113.79
+439,BM-11140,Becky Martin,Consumer,Myanmar,Pathein,Ayeyarwady,78.15
+440,BM-11140,Becky Martin,Consumer,Myanmar,Magway City,Magway,40.56
+441,BM-11140,Becky Martin,Consumer,Myanmar,Magway City,Magway,1.728
+442,AJ-10795,Anthony Johnson,Corporate,Myanmar,Thanlyin,Yangon,191.472
+443,AJ-10795,Anthony Johnson,Corporate,Myanmar,Thanlyin,Yangon,59.184
+444,AJ-10795,Anthony Johnson,Corporate,Myanmar,Thanlyin,Yangon,5.248
+445,JL-15235,Janet Lee,Consumer,Myanmar,Pathein,Ayeyarwady,360.38
+446,KB-16600,Ken Brennan,Corporate,Myanmar,Yangon,Yangon,61.38
+447,JL-15235,Janet Lee,Consumer,Myanmar,Pathein,Ayeyarwady,14.94
+448,JL-15235,Janet Lee,Consumer,Myanmar,Pathein,Ayeyarwady,11.16
+449,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,242.94
+450,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,194.94
+451,MV-17485,Mark Van Huff,Consumer,Myanmar,Taungoo,Bago,192.16
+452,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,91.36
+453,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,70.95
+454,FW-14395,Fred Wasserman,Corporate,Myanmar,Magway City,Magway,43.6
+455,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,22.05
+456,PK-19075,Pete Kriz,Consumer,Myanmar,Kanbalu,Sagaing,12.22
+457,MA-17995,Michelle Arnett,Home Office,Myanmar,Yamethin,Mandalay,104.9
+458,MA-17995,Michelle Arnett,Home Office,Myanmar,Yamethin,Mandalay,51.75
+459,MA-17995,Michelle Arnett,Home Office,Myanmar,Yamethin,Mandalay,39.68
+460,NP-18700,Nora Preis,Consumer,Myanmar,Yangon,Yangon,479.72
+461,JG-15160,James Galang,Consumer,Myanmar,Pyay,Bago,465.18
+462,IM-15070,Irene Maddox,Consumer,Myanmar,Yangon,Yangon,407.976
+463,AH-10690,Anna Häberlin,Corporate,Myanmar,Pathein,Ayeyarwady,70.88
+464,LM-17065,Liz MacKendrick,Consumer,Myanmar,Magway City,Magway,38.34
+465,MO-17500,Mary O'Rourke,Consumer,Myanmar,Pyinoolwin,Mandalay,722.352
+466,MO-17500,Mary O'Rourke,Consumer,Myanmar,Magway City,Magway,31.86
+467,KL-16555,Kelly Lampkin,Corporate,Myanmar,Thanlyin,Yangon,207.984
+468,KL-16555,Kelly Lampkin,Corporate,Myanmar,Thanlyin,Yangon,88.768
+469,KL-16555,Kelly Lampkin,Corporate,Myanmar,Thanlyin,Yangon,36.112
+470,KL-16555,Kelly Lampkin,Corporate,Myanmar,Thanlyin,Yangon,35.568
+471,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,35.89
+472,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,47.208
+473,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,59.808
+474,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,156.792
+475,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,189.7
+476,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,248.08
+477,GT-14710,Greg Tran,Consumer,Myanmar,Yangon,Yangon,431.976
+478,Dl-13600,Dorris liebe,Corporate,Myanmar,Pyinoolwin,Mandalay,658.746
+479,SF-20200,Sarah Foster,Consumer,Myanmar,Magway City,Magway,3.64
+480,CJ-12010,Caroline Jumper,Consumer,Myanmar,Myeik,Tanintharyi,3999.95
+481,CJ-12010,Caroline Jumper,Consumer,Myanmar,Pyay,Bago,442.764
+482,CJ-12010,Caroline Jumper,Consumer,Myanmar,Taungoo,Bago,199.95
+483,CJ-12010,Caroline Jumper,Consumer,Myanmar,Pathein,Ayeyarwady,85.232
+484,CJ-12010,Caroline Jumper,Consumer,Myanmar,Magway City,Magway,63.68
+485,CJ-12010,Caroline Jumper,Consumer,Myanmar,Magway City,Magway,44.4
+486,RD-19810,Ross DeVincentis,Home Office,Myanmar,Magway City,Magway,32.4
+487,DW-13585,Dorothy Wardle,Corporate,Myanmar,Pyay,Bago,179.97
+488,LW-17215,Luke Weiss,Consumer,Myanmar,Myingyan,Magway,359.97
+489,LW-17215,Luke Weiss,Consumer,Myanmar,Myingyan,Magway,276.784
+490,LW-17215,Luke Weiss,Consumer,Myanmar,Myingyan,Magway,263.96
+491,MJ-17740,Max Jones,Consumer,Myanmar,Yangon,Yangon,27.68
+492,LW-17215,Luke Weiss,Consumer,Myanmar,Myingyan,Magway,116.82
+493,LW-17215,Luke Weiss,Consumer,Myanmar,Myingyan,Magway,12.96
+494,SP-20650,Stephanie Phelps,Corporate,Myanmar,Monywa,Sagaing,207.144
+495,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Hlegu,Yangon,1363.96
+496,GB-14575,Giulietta Baptist,Consumer,Myanmar,Pathein,Ayeyarwady,113.6
+497,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Hlegu,Yangon,102.36
+498,GB-14575,Giulietta Baptist,Consumer,Myanmar,Pathein,Ayeyarwady,69.456
+499,SP-20650,Stephanie Phelps,Corporate,Myanmar,Monywa,Sagaing,13.9
+500,GB-14575,Giulietta Baptist,Consumer,Myanmar,Magway City,Magway,12.96
+501,JL-15505,Jeremy Lonsdale,Consumer,Myanmar,Pyay,Bago,388.704
+502,JL-15505,Jeremy Lonsdale,Consumer,Myanmar,Magway City,Magway,34.4
+503,JL-15505,Jeremy Lonsdale,Consumer,Myanmar,Magway City,Magway,17.04
+504,JL-15505,Jeremy Lonsdale,Consumer,Myanmar,Magway City,Magway,8.26
+505,GB-14530,George Bell,Corporate,Myanmar,Labutta,Ayeyarwady,211.96
+506,CC-12220,Chris Cortes,Consumer,Myanmar,Pyay,Bago,19.296
+507,ZD-21925,Zuschuss Donatelli,Consumer,Myanmar,Thanlyin,Yangon,823.96
+508,CC-12220,Chris Cortes,Consumer,Myanmar,Yangon,Yangon,107.984
+509,ZD-21925,Zuschuss Donatelli,Consumer,Myanmar,Thanlyin,Yangon,15.984
+510,MG-17875,Michael Grace,Home Office,Myanmar,Taungoo,Bago,207.48
+511,TR-21325,Toby Ritter,Consumer,Myanmar,Yangon,Yangon,30.87
+512,TR-21325,Toby Ritter,Consumer,Myanmar,Yangon,Yangon,43.13
+513,SW-20350,Sean Wendt,Home Office,Myanmar,Kanbalu,Sagaing,517.9
+514,EB-13750,Edward Becker,Corporate,Myanmar,Yangon,Yangon,35.352
+515,SW-20350,Sean Wendt,Home Office,Myanmar,Kanbalu,Sagaing,5.28
+516,SS-20590,Sonia Sunley,Consumer,Myanmar,Yangon,Yangon,93.98
+517,PS-18970,Paul Stevenson,Home Office,Myanmar,Magway City,Magway,8
+518,BF-11215,Benjamin Farhat,Home Office,Myanmar,Dawei,Tanintharyi,692.94
+519,JD-15895,Jonathan Doherty,Corporate,Myanmar,Pyay,Bago,408.006
+520,JD-15895,Jonathan Doherty,Corporate,Myanmar,Taungoo,Bago,165.28
+521,TS-21610,Troy Staebel,Consumer,Myanmar,Magway City,Magway,14.624
+522,LH-17155,Logan Haushalter,Consumer,Myanmar,Monywa,Sagaing,61.929
+523,LH-17155,Logan Haushalter,Consumer,Myanmar,Monywa,Sagaing,59.98
+524,LH-17155,Logan Haushalter,Consumer,Myanmar,Monywa,Sagaing,10.9
+525,KB-16585,Ken Black,Corporate,Myanmar,Yangon,Yangon,69.98
+526,KB-16585,Ken Black,Corporate,Myanmar,Yangon,Yangon,79.92
+527,CJ-12010,Caroline Jumper,Consumer,Myanmar,Chauk,Magway,176.784
+528,RD-19720,Roger Demir,Consumer,Myanmar,Pyay,Bago,11.96
+529,BD-11770,Bryan Davis,Consumer,Myanmar,Pyay,Bago,7.38
+530,BD-11770,Bryan Davis,Consumer,Myanmar,Pyay,Bago,14.256
+531,BD-11770,Bryan Davis,Consumer,Myanmar,Pyay,Bago,39.624
+532,PN-18775,Parhena Norris,Home Office,Myanmar,Magway City,Magway,59.48
+533,BD-11770,Bryan Davis,Consumer,Myanmar,Pyay,Bago,81.98
+534,PN-18775,Parhena Norris,Home Office,Myanmar,Magway City,Magway,6.69
+535,SW-20275,Scott Williamson,Consumer,Myanmar,Myeik,Tanintharyi,881.93
+536,SH-19975,Sally Hughsby,Corporate,Myanmar,Magway City,Magway,49.848
+537,SH-19975,Sally Hughsby,Corporate,Myanmar,Magway City,Magway,20.368
+538,SW-20275,Scott Williamson,Consumer,Myanmar,Magway City,Magway,3.64
+539,DL-13315,Delfina Latchford,Consumer,Myanmar,Pyay,Bago,361.92
+540,AP-10915,Arthur Prichep,Consumer,Myanmar,Yangon,Yangon,35.1
+541,AP-10915,Arthur Prichep,Consumer,Myanmar,Yangon,Yangon,44.75
+542,DL-13315,Delfina Latchford,Consumer,Myanmar,Pathein,Ayeyarwady,80.58
+543,AP-10915,Arthur Prichep,Consumer,Myanmar,Yangon,Yangon,65.34
+544,BW-11110,Bart Watters,Corporate,Myanmar,Magway City,Magway,62.82
+545,AP-10915,Arthur Prichep,Consumer,Myanmar,Yangon,Yangon,123.92
+546,AP-10915,Arthur Prichep,Consumer,Myanmar,Yangon,Yangon,153.552
+547,SE-20110,Sanjit Engle,Consumer,Myanmar,Pyay,Bago,14.62
+548,ES-14020,Erica Smith,Consumer,Myanmar,Pyay,Bago,239.97
+549,SE-20110,Sanjit Engle,Consumer,Myanmar,Yangon,Yangon,53.984
+550,SE-20110,Sanjit Engle,Consumer,Myanmar,Yangon,Yangon,389.97
+551,LD-17005,Lisa DeCherney,Consumer,Myanmar,Kanbalu,Sagaing,257.98
+552,EB-13750,Edward Becker,Corporate,Myanmar,Pyay,Bago,245.646
+553,EB-13750,Edward Becker,Corporate,Myanmar,Pathein,Ayeyarwady,92.94
+554,BD-11770,Bryan Davis,Consumer,Myanmar,Pathein,Ayeyarwady,83.36
+555,BD-11770,Bryan Davis,Consumer,Myanmar,Magway City,Magway,59.97
+556,EB-13750,Edward Becker,Corporate,Myanmar,Magway City,Magway,55.008
+557,EB-13750,Edward Becker,Corporate,Myanmar,Magway City,Magway,36
+558,EB-13750,Edward Becker,Corporate,Myanmar,Magway City,Magway,35.232
+559,EB-13750,Edward Becker,Corporate,Myanmar,Magway City,Magway,28.14
+560,JM-15265,Janet Molinari,Corporate,Myanmar,Dawei,Tanintharyi,1029.95
+561,JM-15265,Janet Molinari,Corporate,Myanmar,Magway City,Magway,15.26
+562,CK-12595,Clytie Kelty,Consumer,Myanmar,Magway City,Magway,29.34
+563,HM-14860,Harry Marie,Corporate,Myanmar,Pyinoolwin,Mandalay,631.96
+564,JM-15580,Jill Matthias,Consumer,Myanmar,Yangon,Yangon,54.9
+565,HM-14860,Harry Marie,Corporate,Myanmar,Magway City,Magway,10.02
+566,SC-20725,Steven Cartwright,Consumer,Myanmar,Ngwesaung,Ayeyarwady,226.56
+567,SC-20725,Steven Cartwright,Consumer,Myanmar,Ngwesaung,Ayeyarwady,115.02
+568,CB-12415,Christy Brittain,Consumer,Myanmar,Chauk,Magway,92.94
+569,SC-20725,Steven Cartwright,Consumer,Myanmar,Ngwesaung,Ayeyarwady,68.04
+570,CB-12415,Christy Brittain,Consumer,Myanmar,Chauk,Magway,52.56
+571,SC-20725,Steven Cartwright,Consumer,Myanmar,Ngwesaung,Ayeyarwady,47.04
+572,SC-20725,Steven Cartwright,Consumer,Myanmar,Ngwesaung,Ayeyarwady,30.84
+573,NP-18700,Nora Preis,Consumer,Myanmar,Myeik,Tanintharyi,1591.02
+574,NP-18700,Nora Preis,Consumer,Myanmar,Taungoo,Bago,209.148
+575,CS-12490,Cindy Schnelling,Corporate,Myanmar,Taikkyi,Yangon,562.2925
+576,BC-11125,Becky Castell,Home Office,Myanmar,Taungoo,Bago,145.764
+577,SF-20200,Sarah Foster,Consumer,Myanmar,Pyay,Bago,10.47
+578,SF-20200,Sarah Foster,Consumer,Myanmar,Pyay,Bago,11.07
+579,SF-20200,Sarah Foster,Consumer,Myanmar,Yangon,Yangon,20.704
+580,MG-17650,Matthew Grinstein,Home Office,Myanmar,Monywa,Sagaing,657.93
+581,MG-17650,Matthew Grinstein,Home Office,Myanmar,Monywa,Sagaing,33.48
+582,MG-17650,Matthew Grinstein,Home Office,Myanmar,Monywa,Sagaing,26.86
+583,MG-17650,Matthew Grinstein,Home Office,Myanmar,Monywa,Sagaing,13.9
+584,JC-15775,John Castell,Consumer,Myanmar,Magway City,Magway,42.93
+585,BF-11020,Barry Französisch,Corporate,Myanmar,Thanlyin,Yangon,218.352
+586,BF-11020,Barry Französisch,Corporate,Myanmar,Thanlyin,Yangon,23.976
+587,BF-11020,Barry Französisch,Corporate,Myanmar,Thanlyin,Yangon,20.808
+588,BF-11020,Barry Französisch,Corporate,Myanmar,Thanlyin,Yangon,6.264
+589,CJ-12010,Caroline Jumper,Consumer,Myanmar,Thanlyin,Yangon,2803.92
+590,CJ-12010,Caroline Jumper,Consumer,Myanmar,Thanlyin,Yangon,933.262
+591,CJ-12010,Caroline Jumper,Consumer,Myanmar,Thanlyin,Yangon,3.328
+592,KF-16285,Karen Ferguson,Home Office,Myanmar,Mandalay City,Mandalay,443.92
+593,KF-16285,Karen Ferguson,Home Office,Myanmar,Mandalay City,Mandalay,169.99
+594,KF-16285,Karen Ferguson,Home Office,Myanmar,Mandalay City,Mandalay,25.92
+595,CK-12325,Christine Kargatis,Home Office,Myanmar,Pyay,Bago,7.58
+596,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kanbalu,Sagaing,498.26
+597,BN-11515,Bradley Nguyen,Consumer,Myanmar,Pathein,Ayeyarwady,114.9
+598,RW-19540,Rick Wilson,Corporate,Myanmar,Yangon,Yangon,283.56
+599,RW-19540,Rick Wilson,Corporate,Myanmar,Yangon,Yangon,314.6
+600,CM-12655,Corinna Mitchell,Home Office,Myanmar,Myeik,Tanintharyi,1704.89
+601,EB-13840,Ellis Ballard,Corporate,Myanmar,Pyay,Bago,19.44
+602,EB-13840,Ellis Ballard,Corporate,Myanmar,Yangon,Yangon,81.088
+603,EB-13840,Ellis Ballard,Corporate,Myanmar,Yangon,Yangon,91.84
+604,EB-13840,Ellis Ballard,Corporate,Myanmar,Yangon,Yangon,451.152
+605,SF-20200,Sarah Foster,Consumer,Myanmar,Taungoo,Bago,25.12
+606,SF-20200,Sarah Foster,Consumer,Myanmar,Taungoo,Bago,2665.62
+607,SH-19975,Sally Hughsby,Corporate,Myanmar,Pyay,Bago,15.92
+608,CC-12670,Craig Carreira,Consumer,Myanmar,Pyay,Bago,221.55
+609,SO-20335,Sean O'Donnell,Consumer,Myanmar,Yangon,Yangon,41.86
+610,SH-19975,Sally Hughsby,Corporate,Myanmar,Yangon,Yangon,70.68
+611,SO-20335,Sean O'Donnell,Consumer,Myanmar,Yangon,Yangon,141.96
+612,CC-12670,Craig Carreira,Consumer,Myanmar,Magway City,Magway,20.37
+613,CC-12670,Craig Carreira,Consumer,Myanmar,Magway City,Magway,17.52
+614,SH-19975,Sally Hughsby,Corporate,Myanmar,Yangon,Yangon,541.24
+615,DB-13555,Dorothy Badders,Corporate,Myanmar,Pathein,Ayeyarwady,441.96
+616,DB-13555,Dorothy Badders,Corporate,Myanmar,Pathein,Ayeyarwady,68.04
+617,DB-13555,Dorothy Badders,Corporate,Myanmar,Pathein,Ayeyarwady,59.52
+618,DB-13555,Dorothy Badders,Corporate,Myanmar,Pathein,Ayeyarwady,57.96
+619,BE-11335,Bill Eplett,Home Office,Myanmar,Monywa,Sagaing,1928.78
+620,AC-10615,Ann Chong,Corporate,Myanmar,Myeik,Tanintharyi,1282.41
+621,BE-11335,Bill Eplett,Home Office,Myanmar,Monywa,Sagaing,1199.8
+622,BE-11335,Bill Eplett,Home Office,Myanmar,Monywa,Sagaing,352.38
+623,AC-10615,Ann Chong,Corporate,Myanmar,Pyay,Bago,254.526
+624,AC-10615,Ann Chong,Corporate,Myanmar,Pyay,Bago,238
+625,AC-10615,Ann Chong,Corporate,Myanmar,Taungoo,Bago,197.97
+626,AC-10615,Ann Chong,Corporate,Myanmar,Taungoo,Bago,167.97
+627,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,26.432
+628,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,23.1
+629,SU-20665,Stephanie Ulpright,Home Office,Myanmar,Yangon,Yangon,215.976
+630,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,18.9
+631,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,17.12
+632,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,12.98
+633,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,11.54
+634,AC-10615,Ann Chong,Corporate,Myanmar,Magway City,Magway,4.92
+635,FG-14260,Frank Gastineau,Home Office,Myanmar,Pyay,Bago,8.94
+636,RW-19630,Rob Williams,Corporate,Myanmar,Magway City,Magway,65.99
+637,BP-11155,Becky Pak,Consumer,Myanmar,Magway City,Magway,49.12
+638,FG-14260,Frank Gastineau,Home Office,Myanmar,Yangon,Yangon,84.784
+639,KH-16630,Ken Heidel,Corporate,Myanmar,Yangon,Yangon,23.85
+640,MK-17905,Michael Kennedy,Corporate,Myanmar,Hlegu,Yangon,47.96
+641,DB-12910,Daniel Byrd,Home Office,Myanmar,Kawhmu,Yangon,45.66
+642,KN-16390,Katherine Nockton,Corporate,Myanmar,Pyay,Bago,384.768
+643,KN-16390,Katherine Nockton,Corporate,Myanmar,Pathein,Ayeyarwady,78.66
+644,KN-16390,Katherine Nockton,Corporate,Myanmar,Magway City,Magway,45.36
+645,GD-14590,Giulietta Dortch,Corporate,Myanmar,Taungoo,Bago,1099.5
+646,JK-15640,Jim Kriz,Home Office,Myanmar,Pyay,Bago,7.992
+647,JK-15640,Jim Kriz,Home Office,Myanmar,Yangon,Yangon,59.98
+648,JK-15640,Jim Kriz,Home Office,Myanmar,Yangon,Yangon,1687.8
+649,JK-15640,Jim Kriz,Home Office,Myanmar,Bago,Yangon,2395.2
+650,SC-20230,Scot Coram,Corporate,Myanmar,Pyay,Bago,16.06
+651,KB-16405,Katrina Bavinger,Home Office,Myanmar,Pyay,Bago,419.4
+652,KB-16405,Katrina Bavinger,Home Office,Myanmar,Taungoo,Bago,181.764
+653,KB-16405,Katrina Bavinger,Home Office,Myanmar,Pathein,Ayeyarwady,90.801
+654,KB-16405,Katrina Bavinger,Home Office,Myanmar,Magway City,Magway,5.56
+655,AC-10450,Amy Cox,Consumer,Myanmar,Dawei,Tanintharyi,1793.98
+656,CC-12430,Chuck Clark,Home Office,Myanmar,Pyay,Bago,371.97
+657,CC-12430,Chuck Clark,Home Office,Myanmar,Pathein,Ayeyarwady,83.92
+658,HL-15040,Hunter Lopez,Consumer,Myanmar,Myingyan,Magway,22.58
+659,CC-12430,Chuck Clark,Home Office,Myanmar,Magway City,Magway,6.63
+660,JO-15145,Jack O'Briant,Corporate,Myanmar,Pyay,Bago,18.368
+661,BF-11275,Beth Fritzler,Corporate,Myanmar,Hlegu,Yangon,361.376
+662,EJ-14155,Eva Jacobs,Consumer,Myanmar,Yangon,Yangon,43.5
+663,KC-16675,Kimberly Carter,Corporate,Myanmar,Yangon,Yangon,139.86
+664,KC-16675,Kimberly Carter,Corporate,Myanmar,Yangon,Yangon,307.136
+665,CS-12460,Chuck Sachs,Consumer,Myanmar,Taungoo,Bago,136.99
+666,CS-12460,Chuck Sachs,Consumer,Myanmar,Pathein,Ayeyarwady,83.92
+667,ND-18370,Natalie DeCherney,Consumer,Myanmar,Thanlyin,Yangon,47.992
+668,CS-12460,Chuck Sachs,Consumer,Myanmar,Magway City,Magway,14.624
+669,CM-12655,Corinna Mitchell,Home Office,Myanmar,Yangon,Yangon,521.96
+670,CS-12460,Chuck Sachs,Consumer,Myanmar,Magway City,Magway,3.15
+671,JF-15355,Jay Fein,Consumer,Myanmar,Myingyan,Magway,32.67
+672,DS-13030,Darrin Sayre,Home Office,Myanmar,Pyay,Bago,240.37
+673,DS-13030,Darrin Sayre,Home Office,Myanmar,Taungoo,Bago,119.02
+674,DS-13030,Darrin Sayre,Home Office,Myanmar,Magway City,Magway,41.22
+675,PS-19045,Penelope Sewall,Home Office,Myanmar,Magway City,Magway,16.98
+676,TA-21385,Tom Ashbrook,Home Office,Myanmar,Magway City,Magway,7.04
+677,AB-10150,Aimee Bixby,Consumer,Myanmar,Chauk,Magway,91.96
+678,TP-21130,Theone Pippenger,Consumer,Myanmar,Myeik,Tanintharyi,399.95
+679,TP-21130,Theone Pippenger,Consumer,Myanmar,Myeik,Tanintharyi,142.8
+680,TP-21130,Theone Pippenger,Consumer,Myanmar,Myeik,Tanintharyi,8.8
+681,JD-16060,Julia Dunbar,Consumer,Myanmar,Myeik,Tanintharyi,221.16
+682,JD-16060,Julia Dunbar,Consumer,Myanmar,Myeik,Tanintharyi,127.96
+683,JD-16060,Julia Dunbar,Consumer,Myanmar,Myeik,Tanintharyi,18.69
+684,JD-16060,Julia Dunbar,Consumer,Myanmar,Myeik,Tanintharyi,7.9
+685,AI-10855,Arianne Irving,Consumer,Myanmar,Magway City,Magway,6.68
+686,PO-18865,Patrick O'Donnell,Consumer,Myanmar,Mandalay City,Mandalay,133.2
+687,PO-18865,Patrick O'Donnell,Consumer,Myanmar,Mandalay City,Mandalay,125.88
+688,PO-18865,Patrick O'Donnell,Consumer,Myanmar,Mandalay City,Mandalay,79.78
+689,CS-12400,Christopher Schild,Home Office,Myanmar,Pyay,Bago,2.78
+690,TS-21370,Todd Sumrall,Corporate,Myanmar,Magway City,Magway,5199.96
+691,TS-21370,Todd Sumrall,Corporate,Myanmar,Pyay,Bago,221.382
+692,PO-19195,Phillina Ober,Home Office,Myanmar,Taungoo,Bago,160.93
+693,TS-21370,Todd Sumrall,Corporate,Myanmar,Pathein,Ayeyarwady,87.8
+694,PO-19195,Phillina Ober,Home Office,Myanmar,Pathein,Ayeyarwady,75.792
+695,SV-20935,Susan Vittorini,Consumer,Myanmar,Pyay,Bago,390.75
+696,CD-12280,Christina DeMoss,Consumer,Myanmar,Taungoo,Bago,166.5
+697,CD-12280,Christina DeMoss,Consumer,Myanmar,Taungoo,Bago,164.688
+698,CD-12280,Christina DeMoss,Consumer,Myanmar,Taungoo,Bago,128.124
+699,CD-12280,Christina DeMoss,Consumer,Myanmar,Pathein,Ayeyarwady,110.96
+700,CD-12280,Christina DeMoss,Consumer,Myanmar,Pathein,Ayeyarwady,101.4
+701,CD-12280,Christina DeMoss,Consumer,Myanmar,Pathein,Ayeyarwady,99.98
+702,CD-12280,Christina DeMoss,Consumer,Myanmar,Magway City,Magway,12.96
+703,CD-12280,Christina DeMoss,Consumer,Myanmar,Magway City,Magway,11.424
+704,PB-18805,Patrick Bzostek,Home Office,Myanmar,Pyay,Bago,9.296
+705,SM-20950,Suzanne McNair,Corporate,Myanmar,Pyay,Bago,254.9
+706,PB-18805,Patrick Bzostek,Home Office,Myanmar,Yangon,Yangon,31.176
+707,RB-19570,Rob Beeghly,Consumer,Myanmar,Pyinoolwin,Mandalay,99.39
+708,RB-19570,Rob Beeghly,Consumer,Myanmar,Pyinoolwin,Mandalay,61.44
+709,SM-20950,Suzanne McNair,Corporate,Myanmar,Magway City,Magway,58.68
+710,PB-18805,Patrick Bzostek,Home Office,Myanmar,Yangon,Yangon,83.92
+711,CS-11950,Carlos Soltero,Consumer,Myanmar,Magway City,Magway,41.96
+712,RB-19570,Rob Beeghly,Consumer,Myanmar,Pyinoolwin,Mandalay,38.9
+713,PB-18805,Patrick Bzostek,Home Office,Myanmar,Yangon,Yangon,172.752
+714,PB-18805,Patrick Bzostek,Home Office,Myanmar,Yangon,Yangon,199.9
+715,BF-11080,Bart Folk,Consumer,Myanmar,Magway City,Magway,21.6
+716,SM-20950,Suzanne McNair,Corporate,Myanmar,Magway City,Magway,20.94
+717,BF-11080,Bart Folk,Consumer,Myanmar,Magway City,Magway,11.07
+718,CS-11950,Carlos Soltero,Consumer,Myanmar,Magway City,Magway,9.45
+719,BD-11770,Bryan Davis,Consumer,Myanmar,Pyay,Bago,240.784
+720,SP-20545,Sibella Parks,Corporate,Myanmar,Pyay,Bago,227.46
+721,SP-20545,Sibella Parks,Corporate,Myanmar,Magway City,Magway,46.24
+722,RM-19750,Roland Murray,Consumer,Myanmar,Pathein,Ayeyarwady,71.97
+723,RM-19750,Roland Murray,Consumer,Myanmar,Magway City,Magway,26.38
+724,TC-21295,Toby Carlisle,Consumer,Myanmar,Magway City,Magway,59.2
+725,AH-10585,Angele Hood,Consumer,Myanmar,Hlegu,Yangon,239.24
+726,SH-20395,Shahid Hopkins,Consumer,Myanmar,Pathein,Ayeyarwady,70.12
+727,CR-12820,Cyra Reiten,Home Office,Myanmar,Pyay,Bago,344.91
+728,CR-12820,Cyra Reiten,Home Office,Myanmar,Pyay,Bago,319.96
+729,MM-18280,Muhammed MacIntyre,Corporate,Myanmar,Magway City,Magway,40.99
+730,CR-12820,Cyra Reiten,Home Office,Myanmar,Magway City,Magway,17.04
+731,CD-11980,Carol Darley,Consumer,Myanmar,Pyay,Bago,318.96
+732,CC-12430,Chuck Clark,Home Office,Myanmar,Dawei,Tanintharyi,26.38
+733,CC-12430,Chuck Clark,Home Office,Myanmar,Dawei,Tanintharyi,13.9
+734,AB-10060,Adam Bellavance,Home Office,Myanmar,Yangon,Yangon,108.96
+735,AB-10060,Adam Bellavance,Home Office,Myanmar,Yangon,Yangon,449.568
+736,AB-10060,Adam Bellavance,Home Office,Myanmar,Bago,Yangon,2036.86
+737,BW-11110,Bart Watters,Corporate,Myanmar,Kanbalu,Sagaing,3059.982
+738,SH-20395,Shahid Hopkins,Consumer,Myanmar,Pathein,Ayeyarwady,91.59
+739,SH-20395,Shahid Hopkins,Consumer,Myanmar,Magway City,Magway,25.92
+740,HR-14770,Hallie Redmond,Home Office,Myanmar,Thanlyin,Yangon,219.184
+741,HR-14770,Hallie Redmond,Home Office,Myanmar,Thanlyin,Yangon,16.256
+742,CS-12400,Christopher Schild,Home Office,Myanmar,Kawhmu,Yangon,620.6145
+743,CS-12400,Christopher Schild,Home Office,Myanmar,Kawhmu,Yangon,617.976
+744,CS-12400,Christopher Schild,Home Office,Myanmar,Kawhmu,Yangon,258.072
+745,CS-12400,Christopher Schild,Home Office,Myanmar,Kawhmu,Yangon,233.86
+746,CS-12400,Christopher Schild,Home Office,Myanmar,Kawhmu,Yangon,5.328
+747,RW-19540,Rick Wilson,Corporate,Myanmar,Kanbalu,Sagaing,1458.65
+748,RW-19540,Rick Wilson,Corporate,Myanmar,Kanbalu,Sagaing,476.8
+749,RW-19540,Rick Wilson,Corporate,Myanmar,Kanbalu,Sagaing,87.444
+750,RW-19540,Rick Wilson,Corporate,Myanmar,Kanbalu,Sagaing,26.64
+751,CS-12355,Christine Sundaresam,Consumer,Myanmar,Chauk,Magway,17.472
+752,JW-15955,Joni Wasserman,Consumer,Myanmar,Chauk,Magway,104.8
+753,JW-15955,Joni Wasserman,Consumer,Myanmar,Chauk,Magway,11.68
+754,SP-20620,Stefania Perrino,Corporate,Myanmar,Pyay,Bago,478.08
+755,PF-19225,Phillip Flathmann,Consumer,Myanmar,Pyay,Bago,25.98
+756,PF-19225,Phillip Flathmann,Consumer,Myanmar,Pyay,Bago,80.96
+757,PF-19225,Phillip Flathmann,Consumer,Myanmar,Pyay,Bago,455.712
+758,DB-13210,Dean Braden,Consumer,Myanmar,Kanbalu,Sagaing,85.52
+759,PK-19075,Pete Kriz,Consumer,Myanmar,Pathein,Ayeyarwady,100.94
+760,FP-14320,Frank Preis,Consumer,Myanmar,Magway City,Magway,7.88
+761,RS-19420,Ricardo Sperren,Corporate,Myanmar,Yangon,Yangon,892.98
+762,VF-21715,Vicky Freymann,Home Office,Myanmar,Pyay,Bago,13.12
+763,VF-21715,Vicky Freymann,Home Office,Myanmar,Pyay,Bago,15.84
+764,VF-21715,Vicky Freymann,Home Office,Myanmar,Pyay,Bago,18.24
+765,HE-14800,Harold Engle,Corporate,Myanmar,Pathein,Ayeyarwady,174.95
+766,HE-14800,Harold Engle,Corporate,Myanmar,Pathein,Ayeyarwady,141.9
+767,HE-14800,Harold Engle,Corporate,Myanmar,Pathein,Ayeyarwady,83.92
+768,MR-17545,Mathew Reese,Home Office,Myanmar,Yangon,Yangon,52.76
+769,VF-21715,Vicky Freymann,Home Office,Myanmar,Yangon,Yangon,86.376
+770,HE-14800,Harold Engle,Corporate,Myanmar,Pathein,Ayeyarwady,39.98
+771,HE-14800,Harold Engle,Corporate,Myanmar,Pathein,Ayeyarwady,28.91
+772,EM-14095,Eudokia Martin,Corporate,Myanmar,Magway City,Magway,65.12
+773,GM-14440,Gary McGarr,Consumer,Myanmar,Taungoo,Bago,145.764
+774,SR-20425,Sharelle Roach,Home Office,Myanmar,Pathein,Ayeyarwady,109.9
+775,DL-13315,Delfina Latchford,Consumer,Myanmar,Pyay,Bago,272.94
+776,DL-13315,Delfina Latchford,Consumer,Myanmar,Pathein,Ayeyarwady,109.48
+777,DL-13315,Delfina Latchford,Consumer,Myanmar,Magway City,Magway,31.92
+778,DL-13315,Delfina Latchford,Consumer,Myanmar,Magway City,Magway,19.44
+779,BS-11800,Bryan Spruell,Home Office,Myanmar,Pyinoolwin,Mandalay,501.81
+780,KL-16645,Ken Lonsdale,Consumer,Myanmar,Kanbalu,Sagaing,478.24
+781,BS-11800,Bryan Spruell,Home Office,Myanmar,Taungoo,Bago,191.6
+782,SA-20830,Sue Ann Reed,Consumer,Myanmar,Thanlyin,Yangon,251.64
+783,BS-11800,Bryan Spruell,Home Office,Myanmar,Magway City,Magway,35.97
+784,SA-20830,Sue Ann Reed,Consumer,Myanmar,Thanlyin,Yangon,17.43
+785,SA-20830,Sue Ann Reed,Consumer,Myanmar,Thanlyin,Yangon,15.12
+786,BS-11800,Bryan Spruell,Home Office,Myanmar,Magway City,Magway,12.96
+787,BS-11800,Bryan Spruell,Home Office,Myanmar,Magway City,Magway,9.82
+788,BS-11800,Bryan Spruell,Home Office,Myanmar,Magway City,Magway,8.64
+789,LB-16795,Laurel Beltran,Home Office,Myanmar,Yangon,Yangon,66.96
+790,LB-16795,Laurel Beltran,Home Office,Myanmar,Yangon,Yangon,104.28
+791,LB-16795,Laurel Beltran,Home Office,Myanmar,Yangon,Yangon,147.92
+792,LB-16795,Laurel Beltran,Home Office,Myanmar,Yangon,Yangon,199.98
+793,LB-16795,Laurel Beltran,Home Office,Myanmar,Yangon,Yangon,286.85
+794,SM-20320,Sean Miller,Home Office,Myanmar,Kyaukse,Mandalay,526.45
+795,HG-14845,Harry Greene,Consumer,Myanmar,Pyay,Bago,314.352
+796,HG-14845,Harry Greene,Consumer,Myanmar,Magway City,Magway,18.98
+797,HG-14845,Harry Greene,Consumer,Myanmar,Magway City,Magway,18.24
+798,HG-14845,Harry Greene,Consumer,Myanmar,Magway City,Magway,12.816
+799,PN-18775,Parhena Norris,Home Office,Myanmar,Pathein,Ayeyarwady,96.53
+800,PM-19135,Peter McVee,Home Office,Myanmar,Thanlyin,Yangon,499.168
+801,PM-19135,Peter McVee,Home Office,Myanmar,Thanlyin,Yangon,191.976
+802,DK-12835,Damala Kotsonis,Corporate,Myanmar,Kanbalu,Sagaing,872.94
+803,DB-13210,Dean Braden,Consumer,Myanmar,Kanbalu,Sagaing,104.88
+804,DK-12835,Damala Kotsonis,Corporate,Myanmar,Kanbalu,Sagaing,41.54
+805,DB-13210,Dean Braden,Consumer,Myanmar,Kanbalu,Sagaing,34.7
+806,DB-13210,Dean Braden,Consumer,Myanmar,Kanbalu,Sagaing,33.72
+807,HF-14995,Herbert Flentye,Consumer,Myanmar,Mandalay City,Mandalay,33.45
+808,DB-13210,Dean Braden,Consumer,Myanmar,Kanbalu,Sagaing,14.94
+809,DK-12835,Damala Kotsonis,Corporate,Myanmar,Kanbalu,Sagaing,12.96
+810,HF-14995,Herbert Flentye,Consumer,Myanmar,Mandalay City,Mandalay,10.4
+811,MG-18205,Mitch Gastineau,Corporate,Myanmar,Thanlyin,Yangon,12.32
+812,MG-18205,Mitch Gastineau,Corporate,Myanmar,Thanlyin,Yangon,4.419
+813,BD-11320,Bill Donatelli,Consumer,Myanmar,Pyay,Bago,11.56
+814,BD-11320,Bill Donatelli,Consumer,Myanmar,Pyay,Bago,15.58
+815,BD-11320,Bill Donatelli,Consumer,Myanmar,Yangon,Yangon,88.776
+816,ND-18460,Neil Ducich,Corporate,Myanmar,Thanlyin,Yangon,1347.52
+817,MM-18280,Muhammed MacIntyre,Corporate,Myanmar,Magway City,Magway,14.13
+818,LC-16930,Linda Cazamias,Corporate,Myanmar,Magway City,Magway,8.4
+819,IL-15100,Ivan Liston,Consumer,Myanmar,Pyinoolwin,Mandalay,1454.49
+820,SC-20695,Steve Chapman,Corporate,Myanmar,Myingyan,Mandalay,177.2
+821,IL-15100,Ivan Liston,Consumer,Myanmar,Pyinoolwin,Mandalay,121.3
+822,IL-15100,Ivan Liston,Consumer,Myanmar,Pyinoolwin,Mandalay,70.08
+823,SH-20395,Shahid Hopkins,Consumer,Myanmar,Magway City,Magway,18.76
+824,FH-14275,Frank Hawley,Corporate,Myanmar,Myeik,Tanintharyi,931.176
+825,FH-14275,Frank Hawley,Corporate,Myanmar,Pyay,Bago,430.88
+826,NC-18535,Nick Crebassa,Corporate,Myanmar,Yangon,Yangon,26.352
+827,BP-11185,Ben Peterman,Corporate,Myanmar,Pyay,Bago,18.24
+828,BP-11185,Ben Peterman,Corporate,Myanmar,Yangon,Yangon,49.08
+829,BP-11185,Ben Peterman,Corporate,Myanmar,Yangon,Yangon,324.9
+830,CS-11845,Cari Sayre,Corporate,Myanmar,Yangon,Yangon,88.776
+831,DJ-13510,Don Jones,Corporate,Myanmar,Magway City,Magway,20.7
+832,CS-11845,Cari Sayre,Corporate,Myanmar,Yangon,Yangon,963.136
+833,MJ-17740,Max Jones,Consumer,Myanmar,Kanbalu,Sagaing,895.92
+834,LP-17080,Liz Pelletier,Consumer,Myanmar,Yangon,Yangon,26.032
+835,LP-17080,Liz Pelletier,Consumer,Myanmar,Yangon,Yangon,37.44
+836,LP-17080,Liz Pelletier,Consumer,Myanmar,Yangon,Yangon,37.59
+837,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Magway City,Magway,43.92
+838,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Pyay,Bago,18.288
+839,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Yangon,Yangon,37.94
+840,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Yangon,Yangon,102.96
+841,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Yangon,Yangon,174.42
+842,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Yangon,Yangon,385.8
+843,JD-16015,Joy Daniels,Consumer,Myanmar,Taungoo,Bago,132.6
+844,SJ-20125,Sanjit Jacobs,Home Office,Myanmar,Magway City,Magway,25.92
+845,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Pyay,Bago,19.44
+846,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Yangon,Yangon,71.28
+847,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Yangon,Yangon,79.96
+848,RC-19960,Ryan Crowe,Consumer,Myanmar,Thanlyin,Yangon,34.504
+849,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Yangon,Yangon,177.568
+850,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Yangon,Yangon,1471.96
+851,EP-13915,Emily Phan,Consumer,Myanmar,Kanbalu,Sagaing,181.86
+852,MT-17815,Meg Tillman,Consumer,Myanmar,Magway City,Magway,35.48
+853,AA-10375,Allen Armold,Consumer,Myanmar,Pathein,Ayeyarwady,116.98
+854,DV-13045,Darrin Van Huff,Corporate,Myanmar,Thanlyin,Yangon,721.875
+855,MV-18190,Mike Vittorini,Consumer,Myanmar,Magway City,Magway,39.98
+856,DV-13045,Darrin Van Huff,Corporate,Myanmar,Thanlyin,Yangon,73.568
+857,DV-13045,Darrin Van Huff,Corporate,Myanmar,Thanlyin,Yangon,64.784
+858,MV-18190,Mike Vittorini,Consumer,Myanmar,Magway City,Magway,23.36
+859,DV-13045,Darrin Van Huff,Corporate,Myanmar,Thanlyin,Yangon,13.584
+860,AA-10375,Allen Armold,Consumer,Myanmar,Magway City,Magway,17.94
+861,AA-10375,Allen Armold,Consumer,Myanmar,Magway City,Magway,14.952
+862,SB-20170,Sarah Bern,Consumer,Myanmar,Myeik,Tanintharyi,858.24
+863,SB-20170,Sarah Bern,Consumer,Myanmar,Magway City,Magway,64.14
+864,SB-20170,Sarah Bern,Consumer,Myanmar,Magway City,Magway,19.04
+865,SB-20170,Sarah Bern,Consumer,Myanmar,Magway City,Magway,13.128
+866,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,46.74
+867,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,100.704
+868,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,174.95
+869,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,192.16
+870,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,242.624
+871,DK-12895,Dana Kaydos,Consumer,Myanmar,Yangon,Yangon,299.99
+872,CS-12355,Christine Sundaresam,Consumer,Myanmar,Pyay,Bago,9.21
+873,CS-12355,Christine Sundaresam,Consumer,Myanmar,Pyay,Bago,9.96
+874,CS-12355,Christine Sundaresam,Consumer,Myanmar,Yangon,Yangon,27.93
+875,EB-13705,Ed Braxton,Corporate,Myanmar,Magway City,Magway,15.92
+876,FH-14350,Fred Harton,Consumer,Myanmar,Pyay,Bago,6.63
+877,MH-17455,Mark Hamilton,Consumer,Myanmar,Dawei,Tanintharyi,90.64
+878,FH-14350,Fred Harton,Consumer,Myanmar,Yangon,Yangon,107.53
+879,JP-15460,Jennifer Patt,Corporate,Myanmar,Magway City,Magway,17.94
+880,FH-14350,Fred Harton,Consumer,Myanmar,Yangon,Yangon,799.96
+881,MC-17275,Marc Crier,Consumer,Myanmar,Yangon,Yangon,141.96
+882,MT-17815,Meg Tillman,Consumer,Myanmar,Pyay,Bago,299.9
+883,RW-19630,Rob Williams,Corporate,Myanmar,Pyay,Bago,5.28
+884,RW-19630,Rob Williams,Corporate,Myanmar,Yangon,Yangon,895.92
+885,BM-11650,Brian Moss,Corporate,Myanmar,Pyinoolwin,Mandalay,914.97
+886,BM-11650,Brian Moss,Corporate,Myanmar,Pyinoolwin,Mandalay,587.97
+887,BM-11650,Brian Moss,Corporate,Myanmar,Pyinoolwin,Mandalay,530.34
+888,CW-11905,Carl Weiss,Home Office,Myanmar,Pathein,Ayeyarwady,299.52
+889,BM-11650,Brian Moss,Corporate,Myanmar,Pyinoolwin,Mandalay,180.96
+890,BM-11650,Brian Moss,Corporate,Myanmar,Pyinoolwin,Mandalay,14.94
+891,SC-20050,Sample Company A,Home Office,Myanmar,Monywa,Sagaing,377.97
+892,GT-14710,Greg Tran,Consumer,Myanmar,Magway City,Magway,33.568
+893,TW-21025,Tamara Willingham,Home Office,Myanmar,Yangon,Yangon,291.136
+894,ND-18370,Natalie DeCherney,Consumer,Myanmar,Myeik,Tanintharyi,1931.04
+895,ND-18370,Natalie DeCherney,Consumer,Myanmar,Magway City,Magway,11.808
+896,ND-18370,Natalie DeCherney,Consumer,Myanmar,Magway City,Magway,9.96
+897,RA-19285,Ralph Arnett,Consumer,Myanmar,Myingyan,Mandalay,11.36
+898,RP-19390,Resi Pölking,Consumer,Myanmar,Pyay,Bago,5.7
+899,RP-19390,Resi Pölking,Consumer,Myanmar,Pyay,Bago,7.3
+900,RP-19390,Resi Pölking,Consumer,Myanmar,Pyay,Bago,14.19
+901,RP-19390,Resi Pölking,Consumer,Myanmar,Yangon,Yangon,22.66
+902,RP-19390,Resi Pölking,Consumer,Myanmar,Yangon,Yangon,48.94
+903,RP-19390,Resi Pölking,Consumer,Myanmar,Yangon,Yangon,118
+904,RP-19390,Resi Pölking,Consumer,Myanmar,Yangon,Yangon,144.96
+905,RP-19390,Resi Pölking,Consumer,Myanmar,Yangon,Yangon,199.98
+906,DC-12850,Dan Campbell,Consumer,Myanmar,Magway City,Magway,5.46
+907,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyinoolwin,Mandalay,1516.2
+908,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyinoolwin,Mandalay,199.96
+909,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyay,Bago,11.52
+910,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyay,Bago,25.78
+911,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyay,Bago,213.92
+912,ZC-21910,Zuschuss Carroll,Consumer,Myanmar,Pyay,Bago,1298.55
+913,BW-11110,Bart Watters,Corporate,Myanmar,Pathein,Ayeyarwady,99.87
+914,BW-11110,Bart Watters,Corporate,Myanmar,Pathein,Ayeyarwady,82.26
+915,BW-11110,Bart Watters,Corporate,Myanmar,Magway City,Magway,37.94
+916,BW-11110,Bart Watters,Corporate,Myanmar,Magway City,Magway,34.7
+917,BW-11110,Bart Watters,Corporate,Myanmar,Magway City,Magway,24.9
+918,CR-12730,Craig Reiter,Consumer,Myanmar,Myeik,Tanintharyi,904.9
+919,KL-16645,Ken Lonsdale,Consumer,Myanmar,Pathein,Ayeyarwady,377.97
+920,KL-16645,Ken Lonsdale,Consumer,Myanmar,Pathein,Ayeyarwady,299.97
+921,RA-19915,Russell Applegate,Consumer,Myanmar,Pyinoolwin,Mandalay,96.08
+922,FM-14380,Fred McMath,Consumer,Myanmar,Hlegu,Yangon,121.104
+923,KL-16645,Ken Lonsdale,Consumer,Myanmar,Pathein,Ayeyarwady,89.98
+924,FM-14380,Fred McMath,Consumer,Myanmar,Hlegu,Yangon,111.96
+925,RA-19915,Russell Applegate,Consumer,Myanmar,Pyinoolwin,Mandalay,63.77
+926,RA-19915,Russell Applegate,Consumer,Myanmar,Pyinoolwin,Mandalay,50.97
+927,KL-16645,Ken Lonsdale,Consumer,Myanmar,Pathein,Ayeyarwady,42.28
+928,CM-12655,Corinna Mitchell,Home Office,Myanmar,Myeik,Tanintharyi,2279.96
+929,PO-19180,Philisse Overcash,Home Office,Myanmar,Pyay,Bago,19.54
+930,CK-12760,Cyma Kinney,Corporate,Myanmar,Taungoo,Bago,140.75
+931,CK-12760,Cyma Kinney,Corporate,Myanmar,Pathein,Ayeyarwady,77.55
+932,CK-12760,Cyma Kinney,Corporate,Myanmar,Magway City,Magway,36.63
+933,CK-12760,Cyma Kinney,Corporate,Myanmar,Magway City,Magway,24.88
+934,CM-12655,Corinna Mitchell,Home Office,Myanmar,Magway City,Magway,14.94
+935,TT-21070,Ted Trevino,Consumer,Myanmar,Pyay,Bago,8.64
+936,KB-16600,Ken Brennan,Corporate,Myanmar,Pyinoolwin,Mandalay,629.95
+937,AD-10180,Alan Dominguez,Home Office,Myanmar,Pakokku,Magway,163.96
+938,SP-20620,Stefania Perrino,Corporate,Myanmar,Aunglan,Magway,154.95
+939,SP-20620,Stefania Perrino,Corporate,Myanmar,Aunglan,Magway,43.6
+940,TT-21070,Ted Trevino,Consumer,Myanmar,Yangon,Yangon,344.91
+941,TT-21070,Ted Trevino,Consumer,Myanmar,Yangon,Yangon,563.024
+942,EM-14065,Erin Mull,Consumer,Myanmar,Magway City,Magway,11.21
+943,TT-21070,Ted Trevino,Consumer,Myanmar,Bago,Yangon,2404.704
+944,BP-11095,Bart Pistole,Corporate,Myanmar,Pyay,Bago,287.976
+945,MW-18220,Mitch Webber,Consumer,Myanmar,Yangon,Yangon,31.44
+946,ML-17395,Marina Lichtenstein,Corporate,Myanmar,Yangon,Yangon,81.96
+947,ML-17395,Marina Lichtenstein,Corporate,Myanmar,Yangon,Yangon,238.62
+948,ML-17395,Marina Lichtenstein,Corporate,Myanmar,Yangon,Yangon,239.97
+949,TT-21070,Ted Trevino,Consumer,Myanmar,Myingyan,Magway,625.99
+950,TT-21070,Ted Trevino,Consumer,Myanmar,Myingyan,Magway,26.424
+951,NF-18475,Neil Französisch,Home Office,Myanmar,Thanlyin,Yangon,91.056
+952,MM-18280,Muhammed MacIntyre,Corporate,Myanmar,Yangon,Yangon,196.784
+953,CS-12355,Christine Sundaresam,Consumer,Myanmar,Pyay,Bago,242.352
+954,CS-12355,Christine Sundaresam,Consumer,Myanmar,Magway City,Magway,10.776
+955,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,57.582
+956,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,43.6
+957,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,31.104
+958,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,30.192
+959,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,13.392
+960,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,10.38
+961,MK-17905,Michael Kennedy,Corporate,Myanmar,Thanlyin,Yangon,4.768
+962,AH-10465,Amy Hunt,Consumer,Myanmar,Pyinoolwin,Mandalay,539.97
+963,KB-16585,Ken Black,Corporate,Myanmar,Yangon,Yangon,64.4
+964,AH-10465,Amy Hunt,Consumer,Myanmar,Magway City,Magway,22.58
+965,KB-16585,Ken Black,Corporate,Myanmar,Yangon,Yangon,440.19
+966,SR-20425,Sharelle Roach,Home Office,Myanmar,Kanbalu,Sagaing,212.94
+967,AR-10825,Anthony Rawles,Corporate,Myanmar,Yangon,Yangon,1115.17
+968,SS-20515,Shirley Schmidt,Home Office,Myanmar,Pathein,Ayeyarwady,39.48
+969,BF-10975,Barbara Fisher,Corporate,Myanmar,Magway City,Magway,17.94
+970,SW-20755,Steven Ward,Corporate,Myanmar,Pyinoolwin,Mandalay,579.136
+971,SW-20755,Steven Ward,Corporate,Myanmar,Magway City,Magway,41.86
+972,DR-12880,Dan Reichenbach,Corporate,Myanmar,Magway City,Magway,14.16
+973,SW-20755,Steven Ward,Corporate,Myanmar,Magway City,Magway,14.07
+974,SW-20755,Steven Ward,Corporate,Myanmar,Magway City,Magway,11.21
+975,SW-20755,Steven Ward,Corporate,Myanmar,Magway City,Magway,9.144
+976,SW-20755,Steven Ward,Corporate,Myanmar,Magway City,Magway,8.544
+977,DM-13015,Darrin Martin,Consumer,Myanmar,Myeik,Tanintharyi,2799.96
+978,DM-13015,Darrin Martin,Consumer,Myanmar,Pyinoolwin,Mandalay,601.3
+979,DM-13015,Darrin Martin,Consumer,Myanmar,Pyay,Bago,464.292
+980,AJ-10960,Astrea Jones,Consumer,Myanmar,Myingyan,Magway,449.15
+981,DM-13015,Darrin Martin,Consumer,Myanmar,Pyay,Bago,287.97
+982,DM-13015,Darrin Martin,Consumer,Myanmar,Magway City,Magway,68.46
+983,DM-13015,Darrin Martin,Consumer,Myanmar,Magway City,Magway,44.82
+984,DM-13015,Darrin Martin,Consumer,Myanmar,Magway City,Magway,16.99
+985,AJ-10960,Astrea Jones,Consumer,Myanmar,Chauk,Magway,11.07
+986,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kawhmu,Yangon,13.128
+987,CA-12775,Cynthia Arntzen,Consumer,Myanmar,Kawhmu,Yangon,13
+988,CC-12685,Craig Carroll,Consumer,Myanmar,Dawei,Tanintharyi,991.2
+989,CC-12685,Craig Carroll,Consumer,Myanmar,Myeik,Tanintharyi,879.984
+990,CC-12685,Craig Carroll,Consumer,Myanmar,Magway City,Magway,12.96
+991,CL-12565,Clay Ludtke,Consumer,Myanmar,Chauk,Magway,673.568
+992,CL-12565,Clay Ludtke,Consumer,Myanmar,Chauk,Magway,437.85
+993,RB-19705,Roger Barcio,Home Office,Myanmar,Dawei,Tanintharyi,1079.85
+994,RB-19705,Roger Barcio,Home Office,Myanmar,Pyinoolwin,Mandalay,589.41
+995,RB-19705,Roger Barcio,Home Office,Myanmar,Pathein,Ayeyarwady,70.98
+996,RB-19705,Roger Barcio,Home Office,Myanmar,Magway City,Magway,29.95
+997,TB-21520,Tracy Blumstein,Consumer,Myanmar,Monywa,Sagaing,19.05
+998,HZ-14950,Henia Zydlo,Consumer,Myanmar,Magway City,Magway,11.56
+999,HZ-14950,Henia Zydlo,Consumer,Myanmar,Magway City,Magway,8.56
+1000,PW-19030,Pauline Webber,Corporate,Myanmar,Dawei,Tanintharyi,1091.93
+1001,PW-19030,Pauline Webber,Corporate,Myanmar,Pathein,Ayeyarwady,111.96
+1002,CP-12340,Christine Phan,Corporate,Myanmar,Yangon,Yangon,177
+1003,RM-19675,Robert Marley,Home Office,Myanmar,Pathein,Ayeyarwady,69.264
+1004,RM-19675,Robert Marley,Home Office,Myanmar,Magway City,Magway,11.36
+1005,LS-17230,Lycoris Saunders,Consumer,Myanmar,Labutta,Ayeyarwady,76.14
+1006,PJ-18835,Patrick Jones,Corporate,Myanmar,Magway City,Magway,59.9
+1007,PJ-18835,Patrick Jones,Corporate,Myanmar,Magway City,Magway,37.6
+1008,PJ-18835,Patrick Jones,Corporate,Myanmar,Magway City,Magway,37
+1009,LS-17230,Lycoris Saunders,Consumer,Myanmar,Labutta,Ayeyarwady,19.96
+1010,MB-17305,Maria Bertelson,Consumer,Myanmar,Pyay,Bago,408.006
+1011,MB-17305,Maria Bertelson,Consumer,Myanmar,Magway City,Magway,40.44
+1012,DP-13000,Darren Powers,Consumer,Myanmar,Magway City,Magway,23.65
+1013,JM-16195,Justin MacKendrick,Consumer,Myanmar,Pathein,Ayeyarwady,19.92
+1014,JM-16195,Justin MacKendrick,Consumer,Myanmar,Pathein,Ayeyarwady,16.45
+1015,DP-13000,Darren Powers,Consumer,Myanmar,Magway City,Magway,13.98
+1016,AW-10930,Arthur Wiediger,Home Office,Myanmar,Dawei,Tanintharyi,15.28
+1017,FO-14305,Frank Olsen,Consumer,Myanmar,Magway City,Magway,8.64
+1018,TB-21400,Tom Boeckenhauer,Consumer,Myanmar,Magway City,Magway,6999.96
+1019,PK-19075,Pete Kriz,Consumer,Myanmar,Pyay,Bago,396.92
+1020,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,23.12
+1021,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,21.48
+1022,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,17.15
+1023,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,14.62
+1024,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,5.76
+1025,BE-11335,Bill Eplett,Home Office,Myanmar,Pathein,Ayeyarwady,81.98
+1026,WB-21850,William Brown,Consumer,Myanmar,Magway City,Magway,60.12
+1027,WB-21850,William Brown,Consumer,Myanmar,Magway City,Magway,49.536
+1028,WB-21850,William Brown,Consumer,Myanmar,Magway City,Magway,16.52
+1029,BF-11020,Barry Französisch,Corporate,Myanmar,Yangon,Yangon,21.36
+1030,PG-18820,Patrick Gardner,Consumer,Myanmar,Pyay,Bago,398.352
+1031,PG-18820,Patrick Gardner,Consumer,Myanmar,Magway City,Magway,8.72
+1032,AS-10240,Alan Shonely,Consumer,Myanmar,Kawhmu,Yangon,142.776
+1033,AS-10240,Alan Shonely,Consumer,Myanmar,Kawhmu,Yangon,131.904
+1034,AS-10240,Alan Shonely,Consumer,Myanmar,Kawhmu,Yangon,45.696
+1035,AS-10240,Alan Shonely,Consumer,Myanmar,Kawhmu,Yangon,43.188
+1036,AS-10240,Alan Shonely,Consumer,Myanmar,Kawhmu,Yangon,7.218
+1037,BP-11095,Bart Pistole,Corporate,Myanmar,Hlegu,Yangon,15.57
+1038,TT-21220,Thomas Thornton,Consumer,Myanmar,Magway City,Magway,13.776
+1039,JF-15295,Jason Fortune-,Consumer,Myanmar,Yangon,Yangon,39.96
+1040,JF-15295,Jason Fortune-,Consumer,Myanmar,Yangon,Yangon,42.624
+1041,JF-15295,Jason Fortune-,Consumer,Myanmar,Yangon,Yangon,220.96
+1042,AC-10450,Amy Cox,Consumer,Myanmar,Kawhmu,Yangon,11.672
+1043,MM-18055,Michelle Moray,Consumer,Myanmar,Pyinoolwin,Mandalay,664.146
+1044,MM-17260,Magdelene Morse,Consumer,Myanmar,Ngwesaung,Ayeyarwady,310.443
+1045,MM-18055,Michelle Moray,Consumer,Myanmar,Magway City,Magway,41.9
+1046,MM-17260,Magdelene Morse,Consumer,Myanmar,Ngwesaung,Ayeyarwady,26.55
+1047,MM-18055,Michelle Moray,Consumer,Myanmar,Magway City,Magway,8.96
+1048,MM-18055,Michelle Moray,Consumer,Myanmar,Magway City,Magway,7.83
+1049,MM-18055,Michelle Moray,Consumer,Myanmar,Magway City,Magway,6.56
+1050,AA-10315,Alex Avila,Consumer,Myanmar,Magway City,Magway,14.94
+1051,AA-10315,Alex Avila,Consumer,Myanmar,Magway City,Magway,14.56
+1052,CT-11995,Carol Triggs,Consumer,Myanmar,Mandalay City,Mandalay,190.86
+1053,BM-11575,Brendan Murry,Corporate,Myanmar,Pathein,Ayeyarwady,79.872
+1054,BM-11575,Brendan Murry,Corporate,Myanmar,Magway City,Magway,46.384
+1055,CT-11995,Carol Triggs,Consumer,Myanmar,Mandalay City,Mandalay,24.32
+1056,BM-11575,Brendan Murry,Corporate,Myanmar,Magway City,Magway,12.96
+1057,AH-10075,Adam Hart,Corporate,Myanmar,Pyinoolwin,Mandalay,841.568
+1058,RB-19570,Rob Beeghly,Consumer,Myanmar,Yangon,Yangon,21.4
+1059,AH-10585,Angele Hood,Consumer,Myanmar,Yangon,Yangon,35.4
+1060,RB-19570,Rob Beeghly,Consumer,Myanmar,Yangon,Yangon,48.664
+1061,GM-14500,Gene McClure,Consumer,Myanmar,Pyay,Bago,12.42
+1062,MO-17800,Meg O'Connel,Home Office,Myanmar,Magway City,Magway,35.56
+1063,MH-17785,Maya Herman,Corporate,Myanmar,Taungoo,Bago,119.04
+1064,MH-17785,Maya Herman,Corporate,Myanmar,Pathein,Ayeyarwady,70.95
+1065,MH-17785,Maya Herman,Corporate,Myanmar,Magway City,Magway,34.944
+1066,JH-15985,Joseph Holt,Consumer,Myanmar,Yangon,Yangon,51.312
+1067,JH-15985,Joseph Holt,Consumer,Myanmar,Yangon,Yangon,103.92
+1068,JH-15985,Joseph Holt,Consumer,Myanmar,Yangon,Yangon,899.91
+1069,JK-15640,Jim Kriz,Home Office,Myanmar,Magway City,Magway,3.28
+1070,MP-17965,Michael Paige,Corporate,Myanmar,Kanbalu,Sagaing,1652.94
+1071,MP-17965,Michael Paige,Corporate,Myanmar,Kanbalu,Sagaing,296.37
+1072,PL-18925,Paul Lucas,Home Office,Myanmar,Yangon,Yangon,22.77
+1073,AR-10540,Andy Reiter,Consumer,Myanmar,Monywa,Sagaing,5443.96
+1074,AR-10540,Andy Reiter,Consumer,Myanmar,Monywa,Sagaing,302.67
+1075,AR-10540,Andy Reiter,Consumer,Myanmar,Monywa,Sagaing,56.07
+1076,JF-15565,Jill Fjeld,Consumer,Myanmar,Pyay,Bago,326.646
+1077,JF-15565,Jill Fjeld,Consumer,Myanmar,Pathein,Ayeyarwady,89.97
+1078,LF-17185,Luke Foster,Consumer,Myanmar,Magway City,Magway,37.94
+1079,MS-17980,Michael Stewart,Corporate,Myanmar,Pathein,Ayeyarwady,85.9
+1080,JE-15475,Jeremy Ellison,Consumer,Myanmar,Yangon,Yangon,171.96
+1081,JK-15640,Jim Kriz,Home Office,Myanmar,Magway City,Magway,17.52
+1082,VM-21685,Valerie Mitchum,Home Office,Myanmar,Pyay,Bago,6.48
+1083,VM-21685,Valerie Mitchum,Home Office,Myanmar,Yangon,Yangon,46.51
+1084,VM-21685,Valerie Mitchum,Home Office,Myanmar,Yangon,Yangon,659.976
+1085,DM-13345,Denise Monton,Corporate,Myanmar,Taungoo,Bago,127.764
+1086,BM-11785,Bryan Mills,Consumer,Myanmar,Yangon,Yangon,28.8
+1087,TH-21550,Tracy Hopkins,Home Office,Myanmar,Thanlyin,Yangon,255.968
+1088,LC-16885,Lena Creighton,Consumer,Myanmar,Myeik,Tanintharyi,3050.376
+1089,LC-16885,Lena Creighton,Consumer,Myanmar,Taungoo,Bago,133.98
+1090,JJ-15445,Jennifer Monywa,Consumer,Myanmar,Pathein,Ayeyarwady,9.45
+1091,KE-16420,Katrina Edelman,Corporate,Myanmar,Pyinoolwin,Mandalay,599.9
+1092,KE-16420,Katrina Edelman,Corporate,Myanmar,Pathein,Ayeyarwady,80.88
+1093,RF-19345,Randy Ferguson,Corporate,Myanmar,Magway City,Magway,33.552
+1094,MP-17965,Michael Paige,Corporate,Myanmar,Pyinoolwin,Mandalay,824.97
+1095,NB-18655,Nona Balk,Corporate,Myanmar,Taungoo,Bago,142.182
+1096,MY-17380,Maribeth Yedwab,Corporate,Myanmar,Pyinoolwin,Mandalay,547.3
+1097,PO-19180,Philisse Overcash,Home Office,Myanmar,Pyinoolwin,Mandalay,523.25
+1098,CB-12415,Christy Brittain,Consumer,Myanmar,Taungoo,Bago,146.82
+1099,CC-12220,Chris Cortes,Consumer,Myanmar,Yangon,Yangon,33.29
+1100,CC-12220,Chris Cortes,Consumer,Myanmar,Yangon,Yangon,73.68
+1101,MH-18115,Mick Hernandez,Home Office,Myanmar,Pakokku,Magway,52.44
+1102,CC-12220,Chris Cortes,Consumer,Myanmar,Yangon,Yangon,107.88
+1103,CC-12220,Chris Cortes,Consumer,Myanmar,Yangon,Yangon,139.92
+1104,SC-20695,Steve Chapman,Corporate,Myanmar,Kanbalu,Sagaing,114.2
+1105,KN-16450,Kean Nguyen,Corporate,Myanmar,Thanlyin,Yangon,1.167
+1106,SG-20080,Sandra Glassco,Consumer,Myanmar,Pyay,Bago,4.98
+1107,KD-16495,Keith Dawkins,Corporate,Myanmar,Magway City,Magway,3.68
+1108,RD-19810,Ross DeVincentis,Home Office,Myanmar,Chauk,Magway,33.376
+1109,CP-12340,Christine Phan,Corporate,Myanmar,Myeik,Tanintharyi,1579.746
+1110,CP-12340,Christine Phan,Corporate,Myanmar,Dawei,Tanintharyi,1071.576
+1111,CP-12340,Christine Phan,Corporate,Myanmar,Pyinoolwin,Mandalay,613.908
+1112,CP-12340,Christine Phan,Corporate,Myanmar,Taungoo,Bago,155.04
+1113,BN-11515,Bradley Nguyen,Consumer,Myanmar,Kawthoung,Tanintharyi,93.78
+1114,BN-11515,Bradley Nguyen,Consumer,Myanmar,Kawthoung,Tanintharyi,53.4
+1115,BN-11515,Bradley Nguyen,Consumer,Myanmar,Kawthoung,Tanintharyi,47.18
+1116,BN-11515,Bradley Nguyen,Consumer,Myanmar,Kawthoung,Tanintharyi,35.88
+1117,BN-11515,Bradley Nguyen,Consumer,Myanmar,Kawthoung,Tanintharyi,19.68
+1118,CP-12340,Christine Phan,Corporate,Myanmar,Magway City,Magway,34.86
+1119,HR-14830,Harold Ryan,Corporate,Myanmar,Magway City,Magway,33.82
+1120,HR-14830,Harold Ryan,Corporate,Myanmar,Magway City,Magway,15.02
+1121,VM-21835,Vivian Mathis,Consumer,Myanmar,Pathein,Ayeyarwady,129.98
+1122,VM-21835,Vivian Mathis,Consumer,Myanmar,Pathein,Ayeyarwady,32.54
+1123,DB-13405,Denny Blanton,Consumer,Myanmar,Taungoo,Bago,119.7
+1124,DB-13405,Denny Blanton,Consumer,Myanmar,Pathein,Ayeyarwady,107.44
+1125,DB-13405,Denny Blanton,Consumer,Myanmar,Pathein,Ayeyarwady,71.6
+1126,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,59.1
+1127,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,57.06
+1128,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,46.53
+1129,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,18.75
+1130,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,9.144
+1131,DB-13405,Denny Blanton,Consumer,Myanmar,Magway City,Magway,7.31
+1132,JM-15535,Jessica Myrick,Consumer,Myanmar,Pathein,Ayeyarwady,99.6
+1133,JM-15535,Jessica Myrick,Consumer,Myanmar,Magway City,Magway,62.296
+1134,JM-15535,Jessica Myrick,Consumer,Myanmar,Magway City,Magway,10.71
+1135,GH-14425,Gary Hwang,Consumer,Myanmar,Pyay,Bago,6.24
+1136,GH-14425,Gary Hwang,Consumer,Myanmar,Pyay,Bago,17.9
+1137,DB-13660,Duane Benoit,Consumer,Myanmar,Pathein,Ayeyarwady,65.97
+1138,GH-14425,Gary Hwang,Consumer,Myanmar,Bago,Yangon,3266.376
+1139,DM-13345,Denise Monton,Corporate,Myanmar,Chauk,Magway,376.866
+1140,FM-14380,Fred McMath,Consumer,Myanmar,Magway City,Magway,40.74
+1141,SR-20740,Steven Roelle,Home Office,Myanmar,Myeik,Tanintharyi,3404.5
+1142,SR-20740,Steven Roelle,Home Office,Myanmar,Pathein,Ayeyarwady,101.34
+1143,DK-13375,Dennis Kane,Consumer,Myanmar,Pyay,Bago,12.42
+1144,DK-13375,Dennis Kane,Consumer,Myanmar,Pyay,Bago,12.816
+1145,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,20.784
+1146,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,24.75
+1147,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,69.52
+1148,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,87.71
+1149,AT-10735,Annie Thurman,Consumer,Myanmar,Magway City,Magway,45.96
+1150,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,428.4
+1151,SW-20455,Shaun Weien,Consumer,Myanmar,Kawhmu,Yangon,7.904
+1152,NM-18520,Neoma Murray,Consumer,Myanmar,Pyay,Bago,15.712
+1153,BN-11515,Bradley Nguyen,Consumer,Myanmar,Yangon,Yangon,30.28
+1154,BN-11515,Bradley Nguyen,Consumer,Myanmar,Yangon,Yangon,35.34
+1155,BN-11515,Bradley Nguyen,Consumer,Myanmar,Yangon,Yangon,57.93
+1156,BN-11515,Bradley Nguyen,Consumer,Myanmar,Yangon,Yangon,137.24
+1157,PF-19120,Peter Fuller,Consumer,Myanmar,Myeik,Tanintharyi,4228.704
+1158,PF-19120,Peter Fuller,Consumer,Myanmar,Myeik,Tanintharyi,2003.92
+1159,PF-19120,Peter Fuller,Consumer,Myanmar,Pyinoolwin,Mandalay,659.9
+1160,LS-16975,Lindsay Shagiari,Home Office,Myanmar,Pyay,Bago,344.22
+1161,PF-19120,Peter Fuller,Consumer,Myanmar,Taungoo,Bago,209.97
+1162,PF-19120,Peter Fuller,Consumer,Myanmar,Taungoo,Bago,199.764
+1163,CS-11845,Cari Sayre,Corporate,Myanmar,Yangon,Yangon,25.032
+1164,PF-19120,Peter Fuller,Consumer,Myanmar,Pathein,Ayeyarwady,110.96
+1165,PF-19120,Peter Fuller,Consumer,Myanmar,Pathein,Ayeyarwady,94.6
+1166,PF-19120,Peter Fuller,Consumer,Myanmar,Pathein,Ayeyarwady,87.71
+1167,PF-19120,Peter Fuller,Consumer,Myanmar,Magway City,Magway,67.8
+1168,PF-19120,Peter Fuller,Consumer,Myanmar,Magway City,Magway,14.9
+1169,LW-17215,Luke Weiss,Consumer,Myanmar,Pyay,Bago,232.4
+1170,SJ-20125,Sanjit Jacobs,Home Office,Myanmar,Yangon,Yangon,105.584
+1171,SJ-20125,Sanjit Jacobs,Home Office,Myanmar,Yangon,Yangon,113.888
+1172,BS-11590,Brendan Sweed,Corporate,Myanmar,Pyinoolwin,Mandalay,33.4
+1173,TP-21415,Tom Prescott,Consumer,Myanmar,Pyay,Bago,12.96
+1174,GT-14710,Greg Tran,Consumer,Myanmar,Aunglan,Magway,4007.84
+1175,YC-21895,Yoseph Carroll,Corporate,Myanmar,Pathein,Ayeyarwady,2934.33
+1176,GT-14710,Greg Tran,Consumer,Myanmar,Aunglan,Magway,2152.776
+1177,YC-21895,Yoseph Carroll,Corporate,Myanmar,Pathein,Ayeyarwady,124.41
+1178,YC-21895,Yoseph Carroll,Corporate,Myanmar,Pathein,Ayeyarwady,57.75
+1179,FG-14260,Frank Gastineau,Home Office,Myanmar,Magway City,Magway,34.44
+1180,HL-15040,Hunter Lopez,Consumer,Myanmar,Pathein,Ayeyarwady,10499.97
+1181,VW-21775,Victoria Wilson,Corporate,Myanmar,Dawei,Tanintharyi,1247.64
+1182,GG-14650,Greg Guthrie,Corporate,Myanmar,Pyay,Bago,13.904
+1183,CC-12370,Christopher Conant,Consumer,Myanmar,Taungoo,Bago,187.76
+1184,CC-12370,Christopher Conant,Consumer,Myanmar,Magway City,Magway,38.88
+1185,JL-15835,John Lee,Consumer,Myanmar,Kanbalu,Sagaing,546.66
+1186,JL-15835,John Lee,Consumer,Myanmar,Kanbalu,Sagaing,302.94
+1187,JL-15835,John Lee,Consumer,Myanmar,Kanbalu,Sagaing,212.13
+1188,JL-15835,John Lee,Consumer,Myanmar,Kanbalu,Sagaing,142.36
+1189,JL-15835,John Lee,Consumer,Myanmar,Kanbalu,Sagaing,29.52
+1190,AB-10105,Adrian Barton,Consumer,Myanmar,Kanbalu,Sagaing,9892.74
+1191,SC-20680,Steve Carroll,Home Office,Myanmar,Yangon,Yangon,46.53
+1192,AT-10735,Annie Thurman,Consumer,Myanmar,Taungoo,Bago,166.72
+1193,AT-10735,Annie Thurman,Consumer,Myanmar,Taungoo,Bago,124.36
+1194,VF-21715,Vicky Freymann,Home Office,Myanmar,Pyinoolwin,Mandalay,28.16
+1195,AT-10735,Annie Thurman,Consumer,Myanmar,Magway City,Magway,24.816
+1196,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,22638.48
+1197,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,821.3
+1198,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,122.352
+1199,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,30.768
+1200,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,21.376
+1201,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,18.936
+1202,SM-20320,Sean Miller,Home Office,Myanmar,Thanlyin,Yangon,8.016
+1203,SW-20275,Scott Williamson,Consumer,Myanmar,Yangon,Yangon,46.2
+1204,RF-19735,Roland Fjeld,Consumer,Myanmar,Magway City,Magway,21.93
+1205,CS-12490,Cindy Schnelling,Corporate,Myanmar,Magway City,Magway,6.99
+1206,CS-12490,Cindy Schnelling,Corporate,Myanmar,Magway City,Magway,6.84
+1207,TS-21340,Toby Swindell,Consumer,Myanmar,Magway City,Magway,14.56
+1208,TS-21340,Toby Swindell,Consumer,Myanmar,Magway City,Magway,3.048
+1209,HR-14830,Harold Ryan,Corporate,Myanmar,Hlegu,Yangon,13.632
+1210,KC-16255,Karen Carlisle,Corporate,Myanmar,Magway City,Magway,5.76
+1211,HW-14935,Helen Wasserman,Corporate,Myanmar,Pyay,Bago,355.32
+1212,GG-14650,Greg Guthrie,Corporate,Myanmar,Magway City,Magway,39.99
+1213,NG-18355,Nat Gilpin,Corporate,Myanmar,Pathein,Ayeyarwady,107.424
+1214,NG-18355,Nat Gilpin,Corporate,Myanmar,Pathein,Ayeyarwady,88.02
+1215,YS-21880,Yana Sorensen,Corporate,Myanmar,Yangon,Yangon,65.94
+1216,NG-18355,Nat Gilpin,Corporate,Myanmar,Magway City,Magway,40.48
+1217,NG-18355,Nat Gilpin,Corporate,Myanmar,Magway City,Magway,37.91
+1218,NF-18595,Nicole Fjeld,Home Office,Myanmar,Yangon,Yangon,323.1
+1219,NG-18355,Nat Gilpin,Corporate,Myanmar,Magway City,Magway,9.94
+1220,HW-14935,Helen Wasserman,Corporate,Myanmar,Yangon,Yangon,843.9
+1221,YS-21880,Yana Sorensen,Corporate,Myanmar,Yangon,Yangon,1000.02
+1222,HW-14935,Helen Wasserman,Corporate,Myanmar,Yangon,Yangon,1496.16
+1223,YS-21880,Yana Sorensen,Corporate,Myanmar,Bago,Yangon,2793.528
+1224,JR-16210,Justin Ritter,Corporate,Myanmar,Thanlyin,Yangon,717.12
+1225,NB-18655,Nona Balk,Corporate,Myanmar,Thanlyin,Yangon,383.438
+1226,PO-18850,Patrick O'Brill,Consumer,Myanmar,Thanlyin,Yangon,3
+1227,HM-14980,Henry MacAllister,Consumer,Myanmar,Magway City,Magway,4.616
+1228,MM-18280,Muhammed MacIntyre,Corporate,Myanmar,Magway City,Magway,19.44
+1229,MM-18280,Muhammed MacIntyre,Corporate,Myanmar,Magway City,Magway,9.82
+1230,IG-15085,Ivan Gibson,Consumer,Myanmar,Pyay,Bago,1.344
+1231,IG-15085,Ivan Gibson,Consumer,Myanmar,Yangon,Yangon,61.96
+1232,JC-15775,John Castell,Consumer,Myanmar,Pyay,Bago,10.11
+1233,JC-15775,John Castell,Consumer,Myanmar,Pyay,Bago,17.94
+1234,JC-15775,John Castell,Consumer,Myanmar,Yangon,Yangon,249.584
+1235,JC-16105,Julie Creighton,Corporate,Myanmar,Dawei,Tanintharyi,67.15
+1236,MH-17785,Maya Herman,Corporate,Myanmar,Yangon,Yangon,137.54
+1237,MH-17785,Maya Herman,Corporate,Myanmar,Yangon,Yangon,730.2
+1238,CD-12280,Christina DeMoss,Consumer,Myanmar,Pyay,Bago,2.96
+1239,CD-12280,Christina DeMoss,Consumer,Myanmar,Pyay,Bago,8.448
+1240,DK-13090,Dave Kipp,Consumer,Myanmar,Chauk,Magway,74.95
+1241,CD-12280,Christina DeMoss,Consumer,Myanmar,Yangon,Yangon,95.94
+1242,CD-12280,Christina DeMoss,Consumer,Myanmar,Yangon,Yangon,132.52
+1243,CD-12280,Christina DeMoss,Consumer,Myanmar,Yangon,Yangon,169.68
+1244,MW-18220,Mitch Webber,Consumer,Myanmar,Taungoo,Bago,166.24
+1245,JK-16120,Julie Kriz,Home Office,Myanmar,Myeik,Tanintharyi,900.08
+1246,JD-16150,Justin Deggeller,Corporate,Myanmar,Dawei,Tanintharyi,18.84
+1247,DJ-13630,Doug Jacobs,Consumer,Myanmar,Myeik,Tanintharyi,1704.56
+1248,DJ-13630,Doug Jacobs,Consumer,Myanmar,Dawei,Tanintharyi,1141.938
+1249,DJ-13630,Doug Jacobs,Consumer,Myanmar,Magway City,Magway,38.82
+1250,DJ-13630,Doug Jacobs,Consumer,Myanmar,Magway City,Magway,3.2
+1251,GT-14710,Greg Tran,Consumer,Myanmar,Pyay,Bago,242.94
+1252,GT-14710,Greg Tran,Consumer,Myanmar,Magway City,Magway,44.46
+1253,CK-12760,Cyma Kinney,Corporate,Myanmar,Chauk,Magway,25.71
+1254,CK-12760,Cyma Kinney,Corporate,Myanmar,Chauk,Magway,8.67
+1255,ME-17725,Max Engle,Consumer,Myanmar,Pyay,Bago,11.22
+1256,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,323.976
+1257,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,170.24
+1258,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,33.57
+1259,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,26.16
+1260,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,20.016
+1261,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,11.808
+1262,MC-17605,Matt Connell,Corporate,Myanmar,Taikkyi,Yangon,4.992
+1263,FH-14365,Fred Hopkins,Corporate,Myanmar,Yangon,Yangon,209.7
+1264,JO-15550,Jesus Ocampo,Home Office,Myanmar,Yangon,Yangon,453.576
+1265,FH-14365,Fred Hopkins,Corporate,Myanmar,Yangon,Yangon,1247.64
+1266,FH-14365,Fred Hopkins,Corporate,Myanmar,Bago,Yangon,3149.93
+1267,CG-12040,Catherine Glotzbach,Home Office,Myanmar,Magway City,Magway,28.91
+1268,KM-16720,Kunst Miller,Consumer,Myanmar,Pyay,Bago,459.88
+1269,KM-16720,Kunst Miller,Consumer,Myanmar,Pathein,Ayeyarwady,71.96
+1270,KM-16720,Kunst Miller,Consumer,Myanmar,Magway City,Magway,54.9
+1271,KM-16720,Kunst Miller,Consumer,Myanmar,Magway City,Magway,25.98
+1272,KM-16720,Kunst Miller,Consumer,Myanmar,Magway City,Magway,9.28
+1273,KM-16720,Kunst Miller,Consumer,Myanmar,Magway City,Magway,7.76
+1274,KM-16720,Kunst Miller,Consumer,Myanmar,Magway City,Magway,3.28
+1275,BN-11515,Bradley Nguyen,Consumer,Myanmar,Pyay,Bago,454.9
+1276,BN-11515,Bradley Nguyen,Consumer,Myanmar,Pyay,Bago,242.9
+1277,BN-11515,Bradley Nguyen,Consumer,Myanmar,Magway City,Magway,47.744
+1278,BN-11515,Bradley Nguyen,Consumer,Myanmar,Magway City,Magway,39.76
+1279,BN-11515,Bradley Nguyen,Consumer,Myanmar,Magway City,Magway,35.92
+1280,RP-19855,Roy Phan,Corporate,Myanmar,Kyaukse,Mandalay,21.4
+1281,AT-10735,Annie Thurman,Consumer,Myanmar,Yangon,Yangon,97.16
+1282,AR-10405,Allen Rosenblatt,Corporate,Myanmar,Pathein,Ayeyarwady,103.12
+1283,AR-10405,Allen Rosenblatt,Corporate,Myanmar,Pathein,Ayeyarwady,97.82
+1284,RP-19390,Resi Pölking,Consumer,Myanmar,Pyay,Bago,276.784
+1285,RP-19390,Resi Pölking,Consumer,Myanmar,Taungoo,Bago,146.688
+1286,RP-19390,Resi Pölking,Consumer,Myanmar,Magway City,Magway,25.32
+1287,BS-11365,Bill Shonely,Corporate,Myanmar,Myeik,Tanintharyi,887.103
+1288,MC-18130,Mike Caudle,Corporate,Myanmar,Yangon,Yangon,92.52
+1289,GW-14605,Giulietta Weimer,Consumer,Myanmar,Pyay,Bago,279.86
+1290,JM-15535,Jessica Myrick,Consumer,Myanmar,Magway City,Magway,32.4
+1291,NH-18610,Nicole Hansen,Corporate,Myanmar,Kanbalu,Sagaing,149.95
+1292,NH-18610,Nicole Hansen,Corporate,Myanmar,Kanbalu,Sagaing,38.28
+1293,GR-14560,Georgia Rosenberg,Corporate,Myanmar,Ngwesaung,Ayeyarwady,1025.88
+1294,GR-14560,Georgia Rosenberg,Corporate,Myanmar,Ngwesaung,Ayeyarwady,213.08
+1295,GR-14560,Georgia Rosenberg,Corporate,Myanmar,Ngwesaung,Ayeyarwady,22.5
+1296,GR-14560,Georgia Rosenberg,Corporate,Myanmar,Ngwesaung,Ayeyarwady,9.96
+1297,KD-16345,Katherine Ducich,Consumer,Myanmar,Myeik,Tanintharyi,861.76
+1298,TC-21475,Tony Chapman,Home Office,Myanmar,Yangon,Yangon,141.96
+1299,KD-16345,Katherine Ducich,Consumer,Myanmar,Magway City,Magway,5.984
+1300,JM-15265,Janet Molinari,Corporate,Myanmar,Yangon,Yangon,31.96
+1301,DJ-13630,Doug Jacobs,Consumer,Myanmar,Magway City,Magway,68.6
+1302,DJ-13630,Doug Jacobs,Consumer,Myanmar,Magway City,Magway,64.96
+1303,TT-21265,Tim Taslimi,Corporate,Myanmar,Mandalay City,Mandalay,54.96
+1304,ND-18370,Natalie DeCherney,Consumer,Myanmar,Chauk,Magway,44.75
+1305,DJ-13630,Doug Jacobs,Consumer,Myanmar,Magway City,Magway,14.352
+1306,ND-18370,Natalie DeCherney,Consumer,Myanmar,Chauk,Magway,8.74
+1307,JD-16150,Justin Deggeller,Corporate,Myanmar,Myeik,Tanintharyi,2504.74
+1308,AP-10720,Anne Pryor,Home Office,Myanmar,Pathein,Ayeyarwady,79.974
+1309,AP-10720,Anne Pryor,Home Office,Myanmar,Magway City,Magway,58.408
+1310,AS-10135,Adrian Shami,Home Office,Myanmar,Magway City,Magway,41.28
+1311,JD-16150,Justin Deggeller,Corporate,Myanmar,Magway City,Magway,16.74
+1312,AS-10135,Adrian Shami,Home Office,Myanmar,Magway City,Magway,13.36
+1313,MK-18160,Mike Kennedy,Consumer,Myanmar,Thanlyin,Yangon,247.8
+1314,MK-18160,Mike Kennedy,Consumer,Myanmar,Thanlyin,Yangon,4.812
+1315,MH-17440,Mark Haberlin,Corporate,Myanmar,Magway City,Magway,34.248
+1316,MH-17440,Mark Haberlin,Corporate,Myanmar,Magway City,Magway,3.52
+1317,CV-12805,Cynthia Voltz,Corporate,Myanmar,Taungoo,Bago,207.846
+1318,LC-16930,Linda Cazamias,Corporate,Myanmar,Myingyan,Mandalay,62.31
+1319,LC-16930,Linda Cazamias,Corporate,Myanmar,Myingyan,Mandalay,20.32
+1320,HW-14935,Helen Wasserman,Corporate,Myanmar,Yangon,Yangon,265.93
+1321,TB-21595,Troy Blackwell,Consumer,Myanmar,Pyinoolwin,Mandalay,2.91
+1322,OT-18730,Olvera Toch,Consumer,Myanmar,Kanbalu,Sagaing,180.96
+1323,CV-12295,Christina VanderZanden,Consumer,Myanmar,Kanbalu,Sagaing,146.86
+1324,CV-12295,Christina VanderZanden,Consumer,Myanmar,Kanbalu,Sagaing,36.56
+1325,LH-16900,Lena Hernandez,Consumer,Myanmar,Labutta,Ayeyarwady,45
+1326,LH-16900,Lena Hernandez,Consumer,Myanmar,Labutta,Ayeyarwady,21.8
+1327,PJ-19015,Pauline Johnson,Consumer,Myanmar,Hlegu,Yangon,4.464
+1328,PJ-19015,Pauline Johnson,Consumer,Myanmar,Chauk,Magway,89.95
+1329,AR-10825,Anthony Rawles,Corporate,Myanmar,Taungoo,Bago,183.92
+1330,AR-10825,Anthony Rawles,Corporate,Myanmar,Taungoo,Bago,163.764
+1331,AR-10825,Anthony Rawles,Corporate,Myanmar,Magway City,Magway,13.36
+1332,DW-13480,Dianna Wilson,Home Office,Myanmar,Kanbalu,Sagaing,14.78
+1333,MW-18220,Mitch Webber,Consumer,Myanmar,Myeik,Tanintharyi,1349.91
+1334,MW-18220,Mitch Webber,Consumer,Myanmar,Pyinoolwin,Mandalay,801.568
+1335,MW-18220,Mitch Webber,Consumer,Myanmar,Pyinoolwin,Mandalay,631.782
+1336,MW-18220,Mitch Webber,Consumer,Myanmar,Pyinoolwin,Mandalay,629.95
+1337,MW-18220,Mitch Webber,Consumer,Myanmar,Pathein,Ayeyarwady,75.18
+1338,MW-18220,Mitch Webber,Consumer,Myanmar,Magway City,Magway,30.98
+1339,DB-13555,Dorothy Badders,Corporate,Myanmar,Thanlyin,Yangon,2.816
+1340,TC-20980,Tamara Chand,Corporate,Myanmar,Chauk,Magway,61.4
+1341,TC-20980,Tamara Chand,Corporate,Myanmar,Chauk,Magway,24.448
+1342,HA-14905,Helen Abelman,Consumer,Myanmar,Pyay,Bago,393.25
+1343,HJ-14875,Heather Jas,Home Office,Myanmar,Yangon,Yangon,163.88
+1344,SV-20365,Seth Vernon,Consumer,Myanmar,Myeik,Tanintharyi,2888.127
+1345,SV-20365,Seth Vernon,Consumer,Myanmar,Myeik,Tanintharyi,2254.41
+1346,SV-20365,Seth Vernon,Consumer,Myanmar,Myeik,Tanintharyi,1299.66
+1347,SV-20365,Seth Vernon,Consumer,Myanmar,Pyay,Bago,272.646
+1348,SV-20365,Seth Vernon,Consumer,Myanmar,Taungoo,Bago,212.8
+1349,SV-20365,Seth Vernon,Consumer,Myanmar,Pathein,Ayeyarwady,104.85
+1350,SV-20365,Seth Vernon,Consumer,Myanmar,Pathein,Ayeyarwady,80.991
+1351,SV-20365,Seth Vernon,Consumer,Myanmar,Pathein,Ayeyarwady,72.64
+1352,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,59.97
+1353,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,45.4
+1354,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,38.52
+1355,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,13.76
+1356,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,11.784
+1357,SV-20365,Seth Vernon,Consumer,Myanmar,Magway City,Magway,4.36
+1358,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Magway City,Magway,24.56
+1359,PT-19090,Pete Takahito,Consumer,Myanmar,Thanlyin,Yangon,43.936
+1360,RB-19465,Rick Bensley,Home Office,Myanmar,Magway City,Magway,24.55
+1361,PT-19090,Pete Takahito,Consumer,Myanmar,Thanlyin,Yangon,6.672
+1362,PT-19090,Pete Takahito,Consumer,Myanmar,Thanlyin,Yangon,4.768
+1363,PT-19090,Pete Takahito,Consumer,Myanmar,Thanlyin,Yangon,4.448
+1364,KH-16330,Katharine Harms,Corporate,Myanmar,Pyinoolwin,Mandalay,833.94
+1365,KH-16330,Katharine Harms,Corporate,Myanmar,Magway City,Magway,34.74
+1366,KH-16330,Katharine Harms,Corporate,Myanmar,Magway City,Magway,25.92
+1367,KH-16330,Katharine Harms,Corporate,Myanmar,Magway City,Magway,12.96
+1368,KB-16405,Katrina Bavinger,Home Office,Myanmar,Pyay,Bago,13.98
+1369,KB-16405,Katrina Bavinger,Home Office,Myanmar,Yangon,Yangon,22.14
+1370,BM-11650,Brian Moss,Corporate,Myanmar,Taungoo,Bago,186.048
+1371,SS-20875,Sung Shariari,Consumer,Myanmar,Hlegu,Yangon,290.352
+1372,SS-20875,Sung Shariari,Consumer,Myanmar,Hlegu,Yangon,62.88
+1373,SS-20875,Sung Shariari,Consumer,Myanmar,Hlegu,Yangon,17.44
+1374,BM-11650,Brian Moss,Corporate,Myanmar,Magway City,Magway,60.45
+1375,SS-20875,Sung Shariari,Consumer,Myanmar,Hlegu,Yangon,7.23
+1376,KB-16405,Katrina Bavinger,Home Office,Myanmar,Yangon,Yangon,119.04
+1377,DL-12865,Dan Lawera,Consumer,Myanmar,Magway City,Magway,19.65
+1378,BM-11650,Brian Moss,Corporate,Myanmar,Magway City,Magway,11.52
+1379,BF-10975,Barbara Fisher,Corporate,Myanmar,Pyinoolwin,Mandalay,314.55
+1380,SJ-20500,Shirley Monywa,Consumer,Myanmar,Pathein,Ayeyarwady,128.4
+1381,BF-10975,Barbara Fisher,Corporate,Myanmar,Pyinoolwin,Mandalay,9.08
+1382,BF-10975,Barbara Fisher,Corporate,Myanmar,Pyinoolwin,Mandalay,4.91
+1383,CD-11920,Carlos Daly,Consumer,Myanmar,Dawei,Tanintharyi,1259.97
+1384,KH-16330,Katharine Harms,Corporate,Myanmar,Pyinoolwin,Mandalay,569.99
+1385,CD-11920,Carlos Daly,Consumer,Myanmar,Taungoo,Bago,183.968
+1386,CD-11920,Carlos Daly,Consumer,Myanmar,Magway City,Magway,68.97
+1387,KH-16330,Katharine Harms,Corporate,Myanmar,Magway City,Magway,50.97
+1388,CD-11920,Carlos Daly,Consumer,Myanmar,Magway City,Magway,46.76
+1389,HG-15025,Hunter Glantz,Consumer,Myanmar,Kawthoung,Tanintharyi,22
+1390,KH-16330,Katharine Harms,Corporate,Myanmar,Magway City,Magway,2.97
+1391,SM-20950,Suzanne McNair,Corporate,Myanmar,Taungoo,Bago,192.186
+1392,KH-16510,Keith Herrera,Consumer,Myanmar,Yangon,Yangon,31.05
+1393,AB-10105,Adrian Barton,Consumer,Myanmar,Mandalay City,Mandalay,3.69
+1394,EM-14200,Evan Minnotte,Home Office,Myanmar,Hlegu,Yangon,11.696
+1395,DK-13150,David Kendrick,Corporate,Myanmar,Pyay,Bago,279.9
+1396,DK-13150,David Kendrick,Corporate,Myanmar,Magway City,Magway,50.352
+1397,DK-13150,David Kendrick,Corporate,Myanmar,Magway City,Magway,34.02
+1398,DK-13225,Dean Katz,Corporate,Myanmar,Chauk,Magway,6.984
+1399,DK-13225,Dean Katz,Corporate,Myanmar,Chauk,Magway,6.48
+1400,MH-18115,Mick Hernandez,Home Office,Myanmar,Monywa,Sagaing,619.95
+1401,MH-18115,Mick Hernandez,Home Office,Myanmar,Monywa,Sagaing,350.973
+1402,DS-13030,Darrin Sayre,Home Office,Myanmar,Pyay,Bago,18.72
+1403,MH-18115,Mick Hernandez,Home Office,Myanmar,Monywa,Sagaing,164.99
+1404,DS-13030,Darrin Sayre,Home Office,Myanmar,Yangon,Yangon,27.936
+1405,MH-18115,Mick Hernandez,Home Office,Myanmar,Monywa,Sagaing,89.52
+1406,DS-13030,Darrin Sayre,Home Office,Myanmar,Yangon,Yangon,84.98
+1407,DS-13030,Darrin Sayre,Home Office,Myanmar,Yangon,Yangon,99.696
+1408,DS-13030,Darrin Sayre,Home Office,Myanmar,Yangon,Yangon,179.97
+1409,DS-13030,Darrin Sayre,Home Office,Myanmar,Yangon,Yangon,242.94
+1410,MH-18115,Mick Hernandez,Home Office,Myanmar,Monywa,Sagaing,14.4
+1411,EA-14035,Erin Ashbrook,Corporate,Myanmar,Taungoo,Bago,135.8
+1412,LC-16960,Lindsay Castell,Home Office,Myanmar,Kawhmu,Yangon,432.456
+1413,LC-16960,Lindsay Castell,Home Office,Myanmar,Kawhmu,Yangon,34.86
+1414,LC-16960,Lindsay Castell,Home Office,Myanmar,Kawhmu,Yangon,3.762
+1415,PS-18970,Paul Stevenson,Home Office,Myanmar,Pyay,Bago,13.02
+1416,RW-19690,Robert Waldorf,Consumer,Myanmar,Kyaukse,Mandalay,277.4
+1417,PS-18970,Paul Stevenson,Home Office,Myanmar,Yangon,Yangon,22.14
+1418,PS-18970,Paul Stevenson,Home Office,Myanmar,Yangon,Yangon,30.576
+1419,PS-18970,Paul Stevenson,Home Office,Myanmar,Yangon,Yangon,359.32
+1420,RW-19690,Robert Waldorf,Consumer,Myanmar,Kyaukse,Mandalay,5.78
+1421,DN-13690,Duane Noonan,Consumer,Myanmar,Pyay,Bago,8.32
+1422,JW-15955,Joni Wasserman,Consumer,Myanmar,Pyay,Bago,11.54
+1423,JW-15955,Joni Wasserman,Consumer,Myanmar,Yangon,Yangon,162.6
+1424,ME-18010,Michelle Ellison,Corporate,Myanmar,Yangon,Yangon,26.976
+1425,JG-15160,James Galang,Consumer,Myanmar,Chauk,Magway,1214.85
+1426,TB-21280,Toby Braunhardt,Consumer,Myanmar,Pyinoolwin,Mandalay,617.97
+1427,TB-21280,Toby Braunhardt,Consumer,Myanmar,Magway City,Magway,59.7
+1428,TB-21280,Toby Braunhardt,Consumer,Myanmar,Magway City,Magway,19.65
+1429,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Pyay,Bago,353.568
+1430,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Taungoo,Bago,186.144
+1431,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Magway City,Magway,36.56
+1432,CS-11860,Cari Schnelling,Consumer,Myanmar,Magway City,Magway,17.48
+1433,RP-19270,Rachel Payne,Corporate,Myanmar,Yangon,Yangon,33.44
+1434,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,4305.552
+1435,CM-11815,Candace McMahon,Corporate,Myanmar,Yangon,Yangon,33.18
+1436,GT-14710,Greg Tran,Consumer,Myanmar,Kawthoung,Tanintharyi,37.24
+1437,GT-14710,Greg Tran,Consumer,Myanmar,Kawthoung,Tanintharyi,35
+1438,GT-14710,Greg Tran,Consumer,Myanmar,Kawthoung,Tanintharyi,15.28
+1439,PK-19075,Pete Kriz,Consumer,Myanmar,Magway City,Magway,32.088
+1440,CM-11815,Candace McMahon,Corporate,Myanmar,Yangon,Yangon,388.704
+1441,CM-11815,Candace McMahon,Corporate,Myanmar,Yangon,Yangon,572.58
+1442,SL-20155,Sara Luxemburg,Home Office,Myanmar,Magway City,Magway,66.03
+1443,CS-12130,Chad Sievert,Consumer,Myanmar,Yangon,Yangon,199.74
+1444,DL-12865,Dan Lawera,Consumer,Myanmar,Hlegu,Yangon,12.294
+1445,ML-18265,Muhammed Lee,Consumer,Myanmar,Yangon,Yangon,71.98
+1446,ML-18265,Muhammed Lee,Consumer,Myanmar,Yangon,Yangon,79.98
+1447,RH-19495,Rick Hansen,Consumer,Myanmar,Myeik,Tanintharyi,20.16
+1448,MY-18295,Muhammed Yedwab,Corporate,Myanmar,Pathein,Ayeyarwady,7.92
+1449,MD-17860,Michael Dominguez,Corporate,Myanmar,Mandalay City,Mandalay,909.12
+1450,PH-18790,Patricia Hirasaki,Home Office,Myanmar,Taikkyi,Yangon,683.952
+1451,PH-18790,Patricia Hirasaki,Home Office,Myanmar,Taikkyi,Yangon,45.696
+1452,DL-13330,Denise Leinenbach,Consumer,Myanmar,Yamethin,Mandalay,393.54
+1453,DL-13330,Denise Leinenbach,Consumer,Myanmar,Yamethin,Mandalay,83.9
+1454,DL-13330,Denise Leinenbach,Consumer,Myanmar,Yamethin,Mandalay,19.75
+1455,DL-13330,Denise Leinenbach,Consumer,Myanmar,Yamethin,Mandalay,10.92
+1456,JK-16120,Julie Kriz,Home Office,Myanmar,Pathein,Ayeyarwady,113.568
+1457,MV-18190,Mike Vittorini,Consumer,Myanmar,Magway City,Magway,12.96
+1458,SW-20275,Scott Williamson,Consumer,Myanmar,Magway City,Magway,27.42
+1459,JC-15775,John Castell,Consumer,Myanmar,Pathein,Ayeyarwady,17.28
+1460,JS-15880,John Stevenson,Consumer,Myanmar,Yangon,Yangon,99.6
+1461,JS-15880,John Stevenson,Consumer,Myanmar,Yangon,Yangon,1618.37
+1462,LP-17095,Liz Preis,Consumer,Myanmar,Kyaukse,Mandalay,375.34
+1463,MC-17275,Marc Crier,Consumer,Myanmar,Pyay,Bago,12.96
+1464,AJ-10795,Anthony Johnson,Corporate,Myanmar,Yangon,Yangon,109.9
+1465,TB-21280,Toby Braunhardt,Consumer,Myanmar,Magway City,Magway,26.336
+1466,MC-17275,Marc Crier,Consumer,Myanmar,Yangon,Yangon,167.888
+1467,DV-13465,Dianna Vittorini,Consumer,Myanmar,Dawei,Tanintharyi,501.81
+1468,DV-13465,Dianna Vittorini,Consumer,Myanmar,Dawei,Tanintharyi,161.94
+1469,SW-20455,Shaun Weien,Consumer,Myanmar,Chauk,Magway,1217.568
+1470,RB-19465,Rick Bensley,Home Office,Myanmar,Kanbalu,Sagaing,487.96
+1471,DC-12850,Dan Campbell,Consumer,Myanmar,Hlegu,Yangon,37.608
+1472,EM-14065,Erin Mull,Consumer,Myanmar,Taungoo,Bago,159.98
+1473,EM-14065,Erin Mull,Consumer,Myanmar,Magway City,Magway,5.96
+1474,FH-14365,Fred Hopkins,Corporate,Myanmar,Magway City,Magway,29.97
+1475,DP-13105,Dave Poirier,Corporate,Myanmar,Magway City,Magway,50.112
+1476,RB-19705,Roger Barcio,Home Office,Myanmar,Magway City,Magway,16.52
+1477,DG-13300,Deirdre Greer,Corporate,Myanmar,Pyay,Bago,19.44
+1478,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Pyinoolwin,Mandalay,579.528
+1479,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Pathein,Ayeyarwady,97.44
+1480,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Magway City,Magway,13.04
+1481,AS-10090,Adam Shillingsburg,Consumer,Myanmar,Magway City,Magway,3.984
+1482,SZ-20035,Sam Zeldin,Home Office,Myanmar,Taungoo,Bago,128.34
+1483,AC-10660,Anna Chung,Consumer,Myanmar,Yamethin,Mandalay,35.88
+1484,LC-17140,Logan Currie,Consumer,Myanmar,Dawei,Tanintharyi,1071
+1485,CA-12265,Christina Anderson,Consumer,Myanmar,Ngwesaung,Ayeyarwady,391.98
+1486,SC-20440,Shaun Chance,Corporate,Myanmar,Magway City,Magway,40.176
+1487,LC-17140,Logan Currie,Consumer,Myanmar,Magway City,Magway,12.07
+1488,MS-17530,MaryBeth Skach,Consumer,Myanmar,Pyay,Bago,6.68
+1489,MS-17530,MaryBeth Skach,Consumer,Myanmar,Pyay,Bago,8.34
+1490,MS-17530,MaryBeth Skach,Consumer,Myanmar,Yangon,Yangon,101.94
+1491,PM-19135,Peter McVee,Home Office,Myanmar,Kanbalu,Sagaing,31.4
+1492,TA-21385,Tom Ashbrook,Home Office,Myanmar,Magway City,Magway,11199.968
+1493,TA-21385,Tom Ashbrook,Home Office,Myanmar,Myeik,Tanintharyi,2399.6
+1494,TA-21385,Tom Ashbrook,Home Office,Myanmar,Magway City,Magway,63.9
+1495,TA-21385,Tom Ashbrook,Home Office,Myanmar,Magway City,Magway,52.99
+1496,CA-12055,Cathy Armstrong,Home Office,Myanmar,Taungoo,Bago,134.272
+1497,RD-19585,Rob Dowd,Consumer,Myanmar,Kanbalu,Sagaing,49.44
+1498,TB-21355,Todd Boyes,Corporate,Myanmar,Magway City,Magway,39.88
+1499,TB-21355,Todd Boyes,Corporate,Myanmar,Magway City,Magway,20.82
+1500,TB-21355,Todd Boyes,Corporate,Myanmar,Magway City,Magway,12.192
+1501,TW-21025,Tamara Willingham,Home Office,Myanmar,Pyay,Bago,296.712
+1502,BT-11530,Bradley Talbott,Home Office,Myanmar,Pyay,Bago,216.4
+1503,ED-13885,Emily Ducich,Home Office,Myanmar,Pyay,Bago,11.56
+1504,ED-13885,Emily Ducich,Home Office,Myanmar,Yangon,Yangon,55.36
+1505,LC-16885,Lena Creighton,Consumer,Myanmar,Magway City,Magway,25.584
+1506,TP-21130,Theone Pippenger,Consumer,Myanmar,Kanbalu,Sagaing,1586.69
+1507,TP-21130,Theone Pippenger,Consumer,Myanmar,Kanbalu,Sagaing,411.8
+1508,TP-21130,Theone Pippenger,Consumer,Myanmar,Kanbalu,Sagaing,199.95
+1509,TP-21130,Theone Pippenger,Consumer,Myanmar,Kanbalu,Sagaing,84.99
+1510,CM-12190,Charlotte Melton,Consumer,Myanmar,Myeik,Tanintharyi,607.52
+1511,CM-12190,Charlotte Melton,Consumer,Myanmar,Myeik,Tanintharyi,31.16
+1512,CS-12250,Chris Selesnick,Corporate,Myanmar,Pyay,Bago,6.48
+1513,CS-12250,Chris Selesnick,Corporate,Myanmar,Pyay,Bago,19.68
+1514,MC-17605,Matt Connell,Corporate,Myanmar,Kanbalu,Sagaing,210.98
+1515,CS-12250,Chris Selesnick,Corporate,Myanmar,Yangon,Yangon,25.92
+1516,CS-12250,Chris Selesnick,Corporate,Myanmar,Yangon,Yangon,86.352
+1517,LC-16960,Lindsay Castell,Home Office,Myanmar,Magway City,Magway,26.88
+1518,LC-16960,Lindsay Castell,Home Office,Myanmar,Magway City,Magway,10.896
+1519,AC-10615,Ann Chong,Corporate,Myanmar,Pyay,Bago,8.4
+1520,AC-10615,Ann Chong,Corporate,Myanmar,Yangon,Yangon,71.96
+1521,MZ-17515,Mary Zewe,Corporate,Myanmar,Pyay,Bago,347.58
+1522,RB-19360,Raymond Buch,Consumer,Myanmar,Yangon,Yangon,20.04
+1523,RB-19360,Raymond Buch,Consumer,Myanmar,Yangon,Yangon,32.48
+1524,SJ-20125,Sanjit Jacobs,Home Office,Myanmar,Yangon,Yangon,34.76
+1525,EC-14050,Erin Creighton,Consumer,Myanmar,Magway City,Magway,25.68
+1526,RB-19360,Raymond Buch,Consumer,Myanmar,Bago,Yangon,13999.96
+1527,SC-20305,Sean Christensen,Consumer,Myanmar,Yamethin,Mandalay,155.34
+1528,SK-19990,Sally Knutson,Consumer,Myanmar,Taungoo,Bago,122.71
+1529,SK-19990,Sally Knutson,Consumer,Myanmar,Taungoo,Bago,121.94
+1530,TD-20995,Tamara Dahlen,Consumer,Myanmar,Magway City,Magway,54.9
+1531,GT-14710,Greg Tran,Consumer,Myanmar,Taungoo,Bago,208.16
+1532,GT-14710,Greg Tran,Consumer,Myanmar,Magway City,Magway,17.96
+1533,GT-14710,Greg Tran,Consumer,Myanmar,Magway City,Magway,5.04
+1534,NM-18445,Nathan Mautz,Home Office,Myanmar,Kanbalu,Sagaing,850.5
+1535,NM-18445,Nathan Mautz,Home Office,Myanmar,Kanbalu,Sagaing,75.33
+1536,MG-17695,Maureen Gnade,Consumer,Myanmar,Aunglan,Magway,835.17
+1537,IM-15070,Irene Maddox,Consumer,Myanmar,Pyay,Bago,324.9
+1538,IM-15070,Irene Maddox,Consumer,Myanmar,Taungoo,Bago,146.73
+1539,IM-15070,Irene Maddox,Consumer,Myanmar,Taungoo,Bago,122.12
+1540,SM-20005,Sally Matthias,Consumer,Myanmar,Magway City,Magway,25.83
+1541,IM-15070,Irene Maddox,Consumer,Myanmar,Magway City,Magway,18.45
+1542,IM-15070,Irene Maddox,Consumer,Myanmar,Magway City,Magway,3.96
+1543,AG-10270,Alejandro Grove,Consumer,Myanmar,Pathein,Ayeyarwady,99.98
+1544,TH-21550,Tracy Hopkins,Home Office,Myanmar,Taungoo,Bago,128.82
+1545,TH-21550,Tracy Hopkins,Home Office,Myanmar,Magway City,Magway,68.94
+1546,MS-17830,Melanie Seite,Consumer,Myanmar,Chauk,Magway,10.512
+1547,JB-15400,Jennifer Braxton,Corporate,Myanmar,Kawhmu,Yangon,265.475
+1548,JB-15400,Jennifer Braxton,Corporate,Myanmar,Kawhmu,Yangon,35.216
+1549,JB-15400,Jennifer Braxton,Corporate,Myanmar,Kawhmu,Yangon,23.696
+1550,LR-17035,Lisa Ryan,Corporate,Myanmar,Chauk,Magway,41.4
+1551,NM-18445,Nathan Mautz,Home Office,Myanmar,Magway City,Magway,13.92
+1552,CP-12340,Christine Phan,Corporate,Myanmar,Magway City,Magway,13.128
+1553,RH-19495,Rick Hansen,Consumer,Myanmar,Magway City,Magway,45.92
+1554,RH-19495,Rick Hansen,Consumer,Myanmar,Magway City,Magway,25.92
+1555,JP-15460,Jennifer Patt,Corporate,Myanmar,Dawei,Tanintharyi,1040.8
+1556,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Pyay,Bago,15.88
+1557,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Yangon,Yangon,34.68
+1558,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Yangon,Yangon,43.1
+1559,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Yangon,Yangon,135.9
+1560,JP-15460,Jennifer Patt,Corporate,Myanmar,Magway City,Magway,29.34
+1561,JP-15460,Jennifer Patt,Corporate,Myanmar,Magway City,Magway,21.3
+1562,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Yangon,Yangon,532.704
+1563,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Yangon,Yangon,837.6
+1564,SC-20095,Sanjit Chand,Consumer,Myanmar,Dawei,Tanintharyi,9449.95
+1565,SC-20095,Sanjit Chand,Consumer,Myanmar,Dawei,Tanintharyi,404.9
+1566,SC-20095,Sanjit Chand,Consumer,Myanmar,Dawei,Tanintharyi,32.4
+1567,SC-20095,Sanjit Chand,Consumer,Myanmar,Dawei,Tanintharyi,12.94
+1568,ST-20530,Shui Tom,Consumer,Myanmar,Taungoo,Bago,139.44
+1569,TT-21220,Thomas Thornton,Consumer,Myanmar,Labutta,Ayeyarwady,34.5
+1570,JP-16135,Julie Prescott,Home Office,Myanmar,Magway City,Magway,18.464
+1571,TH-21115,Thea Hudgings,Corporate,Myanmar,Pathein,Ayeyarwady,11.12
+1572,TT-21220,Thomas Thornton,Consumer,Myanmar,Labutta,Ayeyarwady,9.84
+1573,DP-13105,Dave Poirier,Corporate,Myanmar,Pyay,Bago,13.216
+1574,CM-11815,Candace McMahon,Corporate,Myanmar,Pyay,Bago,13.68
+1575,DP-13105,Dave Poirier,Corporate,Myanmar,Yangon,Yangon,184.752
+1576,CR-12580,Clay Rozendal,Home Office,Myanmar,Magway City,Magway,10.528
+1577,DW-13540,Don Weiss,Consumer,Myanmar,Pyay,Bago,6.88
+1578,DW-13540,Don Weiss,Consumer,Myanmar,Yangon,Yangon,31.44
+1579,BE-11410,Bobby Elias,Consumer,Myanmar,Hlegu,Yangon,251.64
+1580,DW-13540,Don Weiss,Consumer,Myanmar,Yangon,Yangon,119.96
+1581,AG-10495,Andrew Gjertsen,Corporate,Myanmar,Pyay,Bago,3.592
+1582,RA-19285,Ralph Arnett,Consumer,Myanmar,Taikkyi,Yangon,55.944
+1583,RA-19285,Ralph Arnett,Consumer,Myanmar,Taikkyi,Yangon,11.824
+1584,RA-19285,Ralph Arnett,Consumer,Myanmar,Taikkyi,Yangon,10.688
+1585,SR-20740,Steven Roelle,Home Office,Myanmar,Pyay,Bago,379.4
+1586,AB-10255,Alejandro Ballentine,Home Office,Myanmar,Pyay,Bago,17.05
+1587,JC-16105,Julie Creighton,Corporate,Myanmar,Chauk,Magway,69.08
+1588,JR-15700,Jocasta Rupert,Consumer,Myanmar,Thanlyin,Yangon,863.88
+1589,JC-16105,Julie Creighton,Corporate,Myanmar,Chauk,Magway,35.88
+1590,JC-16105,Julie Creighton,Corporate,Myanmar,Chauk,Magway,26.4
+1591,JC-16105,Julie Creighton,Corporate,Myanmar,Chauk,Magway,11.56
+1592,BT-11440,Bobby Trafton,Consumer,Myanmar,Kanbalu,Sagaing,14.67
+1593,PW-19240,Pierre Wener,Consumer,Myanmar,Ngwesaung,Ayeyarwady,307.98
+1594,PW-19240,Pierre Wener,Consumer,Myanmar,Ngwesaung,Ayeyarwady,44.1
+1595,PW-19240,Pierre Wener,Consumer,Myanmar,Ngwesaung,Ayeyarwady,38.88
+1596,PW-19240,Pierre Wener,Consumer,Myanmar,Ngwesaung,Ayeyarwady,16.56
+1597,PW-19240,Pierre Wener,Consumer,Myanmar,Ngwesaung,Ayeyarwady,13.12
+1598,SF-20200,Sarah Foster,Consumer,Myanmar,Myingyan,Mandalay,207.24
+1599,TH-21235,Tiffany House,Corporate,Myanmar,Magway City,Magway,56.52
+1600,TH-21235,Tiffany House,Corporate,Myanmar,Magway City,Magway,53.316
+1601,CC-12670,Craig Carreira,Consumer,Myanmar,Kawhmu,Yangon,424.272
+1602,CC-12670,Craig Carreira,Consumer,Myanmar,Kawhmu,Yangon,83.92
+1603,CC-12670,Craig Carreira,Consumer,Myanmar,Kawhmu,Yangon,64.784
+1604,CC-12670,Craig Carreira,Consumer,Myanmar,Kawhmu,Yangon,45.528
+1605,CC-12670,Craig Carreira,Consumer,Myanmar,Kawhmu,Yangon,1.344
+1606,EH-13765,Edward Hooks,Corporate,Myanmar,Pyay,Bago,4.2
+1607,EH-13765,Edward Hooks,Corporate,Myanmar,Pyay,Bago,8.82
+1608,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,37.94
+1609,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,47.9
+1610,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,61.96
+1611,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,227.28
+1612,EH-13765,Edward Hooks,Corporate,Myanmar,Yangon,Yangon,1117.92
+1613,CD-11920,Carlos Daly,Consumer,Myanmar,Magway City,Magway,24.9
+1614,VG-21805,Vivek Grady,Corporate,Myanmar,Myingyan,Mandalay,22.48
+1615,HR-14830,Harold Ryan,Corporate,Myanmar,Pyay,Bago,469.99
+1616,MV-17485,Mark Van Huff,Consumer,Myanmar,Pyay,Bago,271.764
+1617,BM-11650,Brian Moss,Corporate,Myanmar,Pyay,Bago,221.92
+1618,HR-14830,Harold Ryan,Corporate,Myanmar,Taungoo,Bago,207.846
+1619,HR-14830,Harold Ryan,Corporate,Myanmar,Magway City,Magway,47.01
+1620,BM-11650,Brian Moss,Corporate,Myanmar,Magway City,Magway,26
+1621,DB-13270,Deborah Brumfield,Home Office,Myanmar,Magway City,Magway,25.99
+1622,CP-12340,Christine Phan,Corporate,Myanmar,Thanlyin,Yangon,113.568
+1623,HL-15040,Hunter Lopez,Consumer,Myanmar,Myingyan,Mandalay,440.91
+1624,GA-14515,George Ashbrook,Consumer,Myanmar,Pyay,Bago,276.69
+1625,GA-14515,George Ashbrook,Consumer,Myanmar,Taungoo,Bago,172.764
+1626,DB-12970,Darren Budd,Corporate,Myanmar,Pyay,Bago,253.764
+1627,EM-13810,Eleni McCrary,Corporate,Myanmar,Pyay,Bago,284.364
+1628,EM-13810,Eleni McCrary,Corporate,Myanmar,Magway City,Magway,26
+1629,SC-20380,Shahid Collister,Consumer,Myanmar,Magway City,Magway,14.91
+1630,AH-10195,Alan Haines,Corporate,Myanmar,Magway City,Magway,24.672
+1631,AH-10195,Alan Haines,Corporate,Myanmar,Magway City,Magway,3.744
+1632,ME-17725,Max Engle,Consumer,Myanmar,Pyay,Bago,14.952
+1633,ME-17725,Max Engle,Consumer,Myanmar,Yangon,Yangon,35.96
+1634,BD-11605,Brian Dahlen,Consumer,Myanmar,Hlegu,Yangon,235.944
+1635,BD-11605,Brian Dahlen,Consumer,Myanmar,Hlegu,Yangon,17.88
+1636,PB-19150,Philip Brown,Consumer,Myanmar,Yangon,Yangon,199.8
+1637,HR-14830,Harold Ryan,Corporate,Myanmar,Pyay,Bago,12.096
+1638,NG-18355,Nat Gilpin,Corporate,Myanmar,Monywa,Sagaing,196.62
+1639,HR-14830,Harold Ryan,Corporate,Myanmar,Yangon,Yangon,25.92
+1640,NG-18355,Nat Gilpin,Corporate,Myanmar,Monywa,Sagaing,151.92
+1641,NG-18355,Nat Gilpin,Corporate,Myanmar,Monywa,Sagaing,144.12
+1642,HR-14830,Harold Ryan,Corporate,Myanmar,Yangon,Yangon,197.58
+1643,NG-18355,Nat Gilpin,Corporate,Myanmar,Monywa,Sagaing,15.96
+1644,HR-14830,Harold Ryan,Corporate,Myanmar,Yangon,Yangon,485.88
+1645,NC-18340,Nat Carroll,Consumer,Myanmar,Pathein,Ayeyarwady,88.4
+1646,SC-20680,Steve Carroll,Home Office,Myanmar,Yangon,Yangon,82.26
+1647,NC-18340,Nat Carroll,Consumer,Myanmar,Magway City,Magway,17.216
+1648,NC-18340,Nat Carroll,Consumer,Myanmar,Magway City,Magway,11.56
+1649,NC-18340,Nat Carroll,Consumer,Myanmar,Magway City,Magway,6.48
+1650,AC-10450,Amy Cox,Consumer,Myanmar,Yangon,Yangon,1219.96
+1651,TS-21370,Todd Sumrall,Corporate,Myanmar,Dawei,Tanintharyi,977.292
+1652,KA-16525,Kelly Andreada,Consumer,Myanmar,Pyay,Bago,321.568
+1653,KA-16525,Kelly Andreada,Consumer,Myanmar,Taungoo,Bago,167.96
+1654,KA-16525,Kelly Andreada,Consumer,Myanmar,Magway City,Magway,16.38
+1655,KA-16525,Kelly Andreada,Consumer,Myanmar,Magway City,Magway,12.96
+1656,TS-21370,Todd Sumrall,Corporate,Myanmar,Magway City,Magway,5.88
+1657,LF-17185,Luke Foster,Consumer,Myanmar,Hlegu,Yangon,9.568
+1658,DB-13120,David Bremer,Corporate,Myanmar,Chauk,Magway,132.79
+1659,DB-13120,David Bremer,Corporate,Myanmar,Aunglan,Magway,21.56
+1660,DB-13120,David Bremer,Corporate,Myanmar,Aunglan,Magway,12.96
+1661,JM-15535,Jessica Myrick,Consumer,Myanmar,Pyinoolwin,Mandalay,799.56
+1662,PW-19030,Pauline Webber,Corporate,Myanmar,Taungoo,Bago,197.97
+1663,BV-11245,Benjamin Venier,Corporate,Myanmar,Yangon,Yangon,33.4
+1664,AC-10615,Ann Chong,Corporate,Myanmar,Aunglan,Magway,37.93
+1665,RF-19840,Roy Französisch,Consumer,Myanmar,Magway City,Magway,35.91
+1666,AR-10540,Andy Reiter,Consumer,Myanmar,Magway City,Magway,17.88
+1667,AH-10210,Alan Hwang,Consumer,Myanmar,Yangon,Yangon,1003.62
+1668,JD-15895,Jonathan Doherty,Corporate,Myanmar,Pyay,Bago,428.68
+1669,JD-15895,Jonathan Doherty,Corporate,Myanmar,Pyay,Bago,313.722
+1670,JD-15895,Jonathan Doherty,Corporate,Myanmar,Magway City,Magway,45.98
+1671,JD-15895,Jonathan Doherty,Corporate,Myanmar,Magway City,Magway,43.12
+1672,AZ-10750,Annie Zypern,Consumer,Myanmar,Pyay,Bago,366.786
+1673,DK-12835,Damala Kotsonis,Corporate,Myanmar,Magway City,Magway,59.52
+1674,FM-14215,Filia McAdams,Corporate,Myanmar,Yangon,Yangon,23.1
+1675,JL-15835,John Lee,Consumer,Myanmar,Magway City,Magway,11.05
+1676,JL-15850,John Lucas,Consumer,Myanmar,Taungoo,Bago,206.43
+1677,BW-11065,Barry Weirich,Consumer,Myanmar,Magway City,Magway,14.62
+1678,TB-21625,Trudy Brown,Consumer,Myanmar,Pyinoolwin,Mandalay,663.92
+1679,TB-21625,Trudy Brown,Consumer,Myanmar,Taungoo,Bago,120
+1680,TB-21625,Trudy Brown,Consumer,Myanmar,Magway City,Magway,18.84
+1681,TB-21625,Trudy Brown,Consumer,Myanmar,Magway City,Magway,3.29
+1682,SB-20185,Sarah Brown,Consumer,Myanmar,Pyay,Bago,400.784
+1683,AM-10705,Anne McFarland,Consumer,Myanmar,Yangon,Yangon,871.4
+1684,MH-18025,Michelle Huthwaite,Consumer,Myanmar,Pyay,Bago,9.42
+1685,MH-18025,Michelle Huthwaite,Consumer,Myanmar,Pyay,Bago,12.96
+1686,MH-18025,Michelle Huthwaite,Consumer,Myanmar,Yangon,Yangon,561.568
+1687,MH-18025,Michelle Huthwaite,Consumer,Myanmar,Yangon,Yangon,704.9
+1688,MW-18220,Mitch Webber,Consumer,Myanmar,Yangon,Yangon,1007.944
+1689,DR-12880,Dan Reichenbach,Corporate,Myanmar,Myeik,Tanintharyi,899.91
+1690,SH-19975,Sally Hughsby,Corporate,Myanmar,Pyay,Bago,12.6
+1691,SH-19975,Sally Hughsby,Corporate,Myanmar,Yangon,Yangon,159.98
+1692,SH-19975,Sally Hughsby,Corporate,Myanmar,Yangon,Yangon,307.136
+1693,KW-16435,Katrina Willman,Consumer,Myanmar,Pyinoolwin,Mandalay,488.646
+1694,KW-16435,Katrina Willman,Consumer,Myanmar,Magway City,Magway,47.12
+1695,CT-11995,Carol Triggs,Consumer,Myanmar,Myeik,Tanintharyi,269.97
+1696,KW-16435,Katrina Willman,Consumer,Myanmar,Magway City,Magway,20.7
+1697,CT-11995,Carol Triggs,Consumer,Myanmar,Myeik,Tanintharyi,8.26
+1698,KW-16435,Katrina Willman,Consumer,Myanmar,Magway City,Magway,5.56
+1699,HK-14890,Heather Kirkland,Corporate,Myanmar,Pathein,Ayeyarwady,291.1
+1700,HK-14890,Heather Kirkland,Corporate,Myanmar,Pathein,Ayeyarwady,158.99
+1701,JS-15595,Jill Stevenson,Corporate,Myanmar,Hlegu,Yangon,783.96
+1702,MP-18175,Mike Pelletier,Home Office,Myanmar,Dawei,Tanintharyi,1117.92
+1703,MP-18175,Mike Pelletier,Home Office,Myanmar,Pyay,Bago,275.952
+1704,BB-11545,Brenda Bowman,Corporate,Myanmar,Monywa,Sagaing,1568.61
+1705,BB-11545,Brenda Bowman,Corporate,Myanmar,Monywa,Sagaing,160
+1706,HJ-14875,Heather Jas,Home Office,Myanmar,Thanlyin,Yangon,5.08
+1707,BB-11545,Brenda Bowman,Corporate,Myanmar,Monywa,Sagaing,17.3
+1708,JK-15625,Jim Karlsson,Consumer,Myanmar,Myeik,Tanintharyi,843.9
+1709,JK-15625,Jim Karlsson,Consumer,Myanmar,Pyay,Bago,449.568
+1710,JK-15640,Jim Kriz,Home Office,Myanmar,Pyay,Bago,414.96
+1711,DL-13495,Dionis Lloyd,Corporate,Myanmar,Kanbalu,Sagaing,160.98
+1712,DL-13495,Dionis Lloyd,Corporate,Myanmar,Kanbalu,Sagaing,73.98
+1713,DL-13495,Dionis Lloyd,Corporate,Myanmar,Kanbalu,Sagaing,17.34
+1714,DL-13495,Dionis Lloyd,Corporate,Myanmar,Kanbalu,Sagaing,3.28
+1715,JE-15715,Joe Elijah,Consumer,Myanmar,Myeik,Tanintharyi,2563.056
+1716,DB-12970,Darren Budd,Corporate,Myanmar,Myeik,Tanintharyi,866.646
+1717,DB-12970,Darren Budd,Corporate,Myanmar,Pyay,Bago,313.176
+1718,BD-11620,Brian DeCherney,Consumer,Myanmar,Magway City,Magway,33.568
+1719,JE-15715,Joe Elijah,Consumer,Myanmar,Yangon,Yangon,698.352
+1720,JE-15715,Joe Elijah,Consumer,Myanmar,Yangon,Yangon,1747.25
+1721,RA-19285,Ralph Arnett,Consumer,Myanmar,Taungoo,Bago,191.984
+1722,CV-12805,Cynthia Voltz,Corporate,Myanmar,Magway City,Magway,41.96
+1723,BV-11245,Benjamin Venier,Corporate,Myanmar,Hlegu,Yangon,74.352
+1724,SP-20545,Sibella Parks,Corporate,Myanmar,Pyay,Bago,459.95
+1725,GM-14440,Gary McGarr,Consumer,Myanmar,Pyay,Bago,257.568
+1726,MZ-17335,Maria Zettner,Home Office,Myanmar,Pyay,Bago,19.83
+1727,GM-14440,Gary McGarr,Consumer,Myanmar,Taungoo,Bago,119.96
+1728,DB-13360,Dennis Bolton,Home Office,Myanmar,Pyay,Bago,434.646
+1729,PO-19180,Philisse Overcash,Home Office,Myanmar,Yangon,Yangon,20.34
+1730,PO-19180,Philisse Overcash,Home Office,Myanmar,Yangon,Yangon,39.28
+1731,JG-15805,John Grady,Corporate,Myanmar,Pyinoolwin,Mandalay,704.25
+1732,VP-21760,Victoria Pisteka,Corporate,Myanmar,Taungoo,Bago,139.96
+1733,VP-21760,Victoria Pisteka,Corporate,Myanmar,Magway City,Magway,37.74
+1734,VP-21760,Victoria Pisteka,Corporate,Myanmar,Magway City,Magway,20.97
+1735,JG-15805,John Grady,Corporate,Myanmar,Magway City,Magway,14.7
+1736,SC-20260,Scott Cohen,Corporate,Myanmar,Pyinoolwin,Mandalay,713.88
+1737,TH-21550,Tracy Hopkins,Home Office,Myanmar,Kanbalu,Sagaing,543.92
+1738,DO-13435,Denny Ordway,Consumer,Myanmar,Pyay,Bago,272.94
+1739,SC-20725,Steven Cartwright,Consumer,Myanmar,Pyay,Bago,239.97
+1740,SC-20260,Scott Cohen,Corporate,Myanmar,Pathein,Ayeyarwady,102.368
+1741,DR-12880,Dan Reichenbach,Corporate,Myanmar,Hlegu,Yangon,273.552
+1742,SC-20260,Scott Cohen,Corporate,Myanmar,Magway City,Magway,68.52
+1743,DR-12880,Dan Reichenbach,Corporate,Myanmar,Hlegu,Yangon,13.872
+1744,SC-20260,Scott Cohen,Corporate,Myanmar,Magway City,Magway,28.4
+1745,TH-21550,Tracy Hopkins,Home Office,Myanmar,Kanbalu,Sagaing,15.92
+1746,TH-21550,Tracy Hopkins,Home Office,Myanmar,Kanbalu,Sagaing,4.54
+1747,PP-18955,Paul Prost,Home Office,Myanmar,Pathein,Ayeyarwady,149.97
+1748,KB-16315,Karl Braun,Consumer,Myanmar,Pathein,Ayeyarwady,17.34
+1749,KB-16315,Karl Braun,Consumer,Myanmar,Pathein,Ayeyarwady,10.68
+1750,PP-18955,Paul Prost,Home Office,Myanmar,Pathein,Ayeyarwady,8.64
+1751,KB-16315,Karl Braun,Consumer,Myanmar,Pathein,Ayeyarwady,3.38
+1752,CC-12145,Charles Crestani,Consumer,Myanmar,Pyay,Bago,6.48
+1753,AA-10480,Andrew Allen,Consumer,Myanmar,Kanbalu,Sagaing,479.97
+1754,AA-10480,Andrew Allen,Consumer,Myanmar,Kanbalu,Sagaing,447.84
+1755,DR-12880,Dan Reichenbach,Corporate,Myanmar,Pyay,Bago,249.95
+1756,AA-10480,Andrew Allen,Consumer,Myanmar,Kanbalu,Sagaing,209.97
+1757,KD-16615,Ken Dana,Corporate,Myanmar,Taungoo,Bago,146.688
+1758,SV-20815,Stuart Van,Corporate,Myanmar,Hlegu,Yangon,31.008
+1759,DR-12880,Dan Reichenbach,Corporate,Myanmar,Magway City,Magway,33
+1760,AA-10480,Andrew Allen,Consumer,Myanmar,Kanbalu,Sagaing,11.56
+1761,AA-10480,Andrew Allen,Consumer,Myanmar,Kanbalu,Sagaing,8.64
+1762,HJ-14875,Heather Jas,Home Office,Myanmar,Kanbalu,Sagaing,53.72
+1763,CS-12400,Christopher Schild,Home Office,Myanmar,Yangon,Yangon,310.12
+1764,PF-19165,Philip Fox,Consumer,Myanmar,Magway City,Magway,50
+1765,AH-10585,Angele Hood,Consumer,Myanmar,Yangon,Yangon,63.92
+1766,AH-10585,Angele Hood,Consumer,Myanmar,Yangon,Yangon,383.96
+1767,PG-18895,Paul Gonzalez,Consumer,Myanmar,Myeik,Tanintharyi,19.99
+1768,PG-18895,Paul Gonzalez,Consumer,Myanmar,Myeik,Tanintharyi,6.16
+1769,TC-20980,Tamara Chand,Corporate,Myanmar,Pyay,Bago,7.312
+1770,DK-13225,Dean Katz,Corporate,Myanmar,Pyay,Bago,313.176
+1771,PA-19060,Pete Armstrong,Home Office,Myanmar,Hlegu,Yangon,3.744
+1772,MN-17935,Michael Nguyen,Consumer,Myanmar,Dawei,Tanintharyi,979.95
+1773,TT-21460,Tonja Turnell,Home Office,Myanmar,Myingyan,Mandalay,828.6
+1774,TT-21460,Tonja Turnell,Home Office,Myanmar,Myingyan,Mandalay,257.94
+1775,MN-17935,Michael Nguyen,Consumer,Myanmar,Taungoo,Bago,135.3
+1776,FG-14260,Frank Gastineau,Home Office,Myanmar,Pathein,Ayeyarwady,93.344
+1777,TT-21460,Tonja Turnell,Home Office,Myanmar,Myingyan,Mandalay,89.98
+1778,FG-14260,Frank Gastineau,Home Office,Myanmar,Magway City,Magway,58.73
+1779,TT-21460,Tonja Turnell,Home Office,Myanmar,Myingyan,Mandalay,27.46
+1780,TB-21520,Tracy Blumstein,Consumer,Myanmar,Taungoo,Bago,191.88
+1781,DF-13135,David Flashing,Consumer,Myanmar,Taungoo,Bago,212.64
+1782,FP-14320,Frank Preis,Consumer,Myanmar,Yangon,Yangon,33.9
+1783,AR-10510,Andrew Roberts,Consumer,Myanmar,Pathein,Ayeyarwady,89.97
+1784,AJ-10795,Anthony Johnson,Corporate,Myanmar,Magway City,Magway,4.992
+1785,TG-21310,Toby Gnade,Consumer,Myanmar,Taungoo,Bago,137.94
+1786,NP-18670,Nora Paige,Consumer,Myanmar,Yangon,Yangon,538.92
+1787,DL-12865,Dan Lawera,Consumer,Myanmar,Taungoo,Bago,170.88
+1788,MV-17485,Mark Van Huff,Consumer,Myanmar,Yangon,Yangon,83.7
+1789,HM-14980,Henry MacAllister,Consumer,Myanmar,Yangon,Yangon,139.58
+1790,LA-16780,Laura Armstrong,Corporate,Myanmar,Kanbalu,Sagaing,3504.9
+1791,LA-16780,Laura Armstrong,Corporate,Myanmar,Kanbalu,Sagaing,314.55
+1792,LA-16780,Laura Armstrong,Corporate,Myanmar,Kanbalu,Sagaing,144.12
+1793,RP-19855,Roy Phan,Corporate,Myanmar,Yangon,Yangon,31.44
+1794,RP-19855,Roy Phan,Corporate,Myanmar,Yangon,Yangon,98.16
+1795,PW-19030,Pauline Webber,Corporate,Myanmar,Pyay,Bago,19.44
+1796,PW-19030,Pauline Webber,Corporate,Myanmar,Yangon,Yangon,126.3
+1797,PW-19030,Pauline Webber,Corporate,Myanmar,Yangon,Yangon,1287.45
+1798,AS-10045,Aaron Smayling,Corporate,Myanmar,Magway City,Magway,65.78
+1799,TM-21490,Tony Molinari,Consumer,Myanmar,Pakokku,Magway,543.92
+1800,DK-13375,Dennis Kane,Consumer,Myanmar,Pyay,Bago,12.96
+1801,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,23.88
+1802,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,26.2
+1803,MG-18145,Mike Gockenbach,Consumer,Myanmar,Thanlyin,Yangon,91.032
+1804,DK-13375,Dennis Kane,Consumer,Myanmar,Yangon,Yangon,234.95
+1805,TM-21490,Tony Molinari,Consumer,Myanmar,Pakokku,Magway,14.89
+1806,MR-17545,Mathew Reese,Home Office,Myanmar,Pyay,Bago,347.97
+1807,MR-17545,Mathew Reese,Home Office,Myanmar,Magway City,Magway,63.84
+1808,MR-17545,Mathew Reese,Home Office,Myanmar,Magway City,Magway,37.008
+1809,SP-20620,Stefania Perrino,Corporate,Myanmar,Kawhmu,Yangon,2.896
+1810,SS-20140,Saphhira Shifley,Corporate,Myanmar,Yangon,Yangon,99.2
+1811,HW-14935,Helen Wasserman,Corporate,Myanmar,Kanbalu,Sagaing,25.92
+1812,HW-14935,Helen Wasserman,Corporate,Myanmar,Kanbalu,Sagaing,16.4
+1813,SW-20455,Shaun Weien,Consumer,Myanmar,Yangon,Yangon,1001.584
+1814,BW-11200,Ben Wallace,Consumer,Myanmar,Pyay,Bago,427.644
+1815,BW-11200,Ben Wallace,Consumer,Myanmar,Magway City,Magway,40.67
+1816,BW-11200,Ben Wallace,Consumer,Myanmar,Magway City,Magway,33.48
+1817,BW-11200,Ben Wallace,Consumer,Myanmar,Magway City,Magway,9.728
+1818,JO-15145,Jack O'Briant,Corporate,Myanmar,Aunglan,Magway,199.9
+1819,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Magway City,Magway,3.76
+1820,JD-16150,Justin Deggeller,Corporate,Myanmar,Pathein,Ayeyarwady,104.97
+1821,JD-16150,Justin Deggeller,Corporate,Myanmar,Pathein,Ayeyarwady,83.97
+1822,JE-15475,Jeremy Ellison,Consumer,Myanmar,Magway City,Magway,29.79
+1823,JR-16210,Justin Ritter,Corporate,Myanmar,Pyinoolwin,Mandalay,497.94
+1824,JR-16210,Justin Ritter,Corporate,Myanmar,Pyinoolwin,Mandalay,158.28
+1825,RP-19390,Resi Pölking,Consumer,Myanmar,Pathein,Ayeyarwady,107.424
+1826,RP-19390,Resi Pölking,Consumer,Myanmar,Magway City,Magway,6.99
+1827,TB-21190,Thomas Brumley,Home Office,Myanmar,Pyinoolwin,Mandalay,767.214
+1828,JC-15340,Jasper Cacioppo,Consumer,Myanmar,Magway City,Magway,3.928
+1829,CL-12700,Craig Leslie,Home Office,Myanmar,Pyay,Bago,449.91
+1830,RR-19525,Rick Reed,Corporate,Myanmar,Magway City,Magway,36.48
+1831,JH-15820,John Huston,Consumer,Myanmar,Magway City,Magway,22.92
+1832,CK-12760,Cyma Kinney,Corporate,Myanmar,Thanlyin,Yangon,68.742
+1833,PJ-18835,Patrick Jones,Corporate,Myanmar,Yangon,Yangon,27.6
+1834,PJ-18835,Patrick Jones,Corporate,Myanmar,Yangon,Yangon,57.408
+1835,MM-17260,Magdelene Morse,Consumer,Myanmar,Yangon,Yangon,136.96
+1836,NK-18490,Neil Knudson,Home Office,Myanmar,Pyay,Bago,6.63
+1837,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Aunglan,Magway,535.41
+1838,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Aunglan,Magway,45.99
+1839,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Aunglan,Magway,45.36
+1840,MS-17770,Maxwell Schwartz,Consumer,Myanmar,Aunglan,Magway,6.096
+1841,EH-13765,Edward Hooks,Corporate,Myanmar,Magway City,Magway,54.9
+1842,RW-19630,Rob Williams,Corporate,Myanmar,Kanbalu,Sagaing,6.08
+1843,KN-16705,Kristina Nunn,Home Office,Myanmar,Pyay,Bago,5.56
+1844,KN-16705,Kristina Nunn,Home Office,Myanmar,Yangon,Yangon,35.168
+1845,KN-16705,Kristina Nunn,Home Office,Myanmar,Yangon,Yangon,99.68
+1846,KN-16705,Kristina Nunn,Home Office,Myanmar,Yangon,Yangon,1137.75
+1847,JJ-15445,Jennifer Monywa,Consumer,Myanmar,Pyay,Bago,307.98
+1848,JJ-15445,Jennifer Monywa,Consumer,Myanmar,Pyay,Bago,293.52
+1849,SP-20860,Sung Pak,Corporate,Myanmar,Thanlyin,Yangon,10.368
+1850,VB-21745,Victoria Brennan,Corporate,Myanmar,Aunglan,Magway,756.8
+1851,DL-13330,Denise Leinenbach,Consumer,Myanmar,Magway City,Magway,12.42
+1852,EP-13915,Emily Phan,Consumer,Myanmar,Kawhmu,Yangon,38.19
+1853,LO-17170,Lori Olson,Corporate,Myanmar,Magway City,Magway,47.98
+1854,MC-17635,Matthew Clasen,Corporate,Myanmar,Myingyan,Mandalay,64.02
+1855,MC-17425,Mark Cousins,Corporate,Myanmar,Magway City,Magway,68.16
+1856,MC-17425,Mark Cousins,Corporate,Myanmar,Magway City,Magway,62.24
+1857,DG-13300,Deirdre Greer,Corporate,Myanmar,Myeik,Tanintharyi,1979.89
+1858,DG-13300,Deirdre Greer,Corporate,Myanmar,Pathein,Ayeyarwady,79.96
+1859,HM-14860,Harry Marie,Corporate,Myanmar,Pyay,Bago,7.4
+1860,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Pathein,Ayeyarwady,72.45
+1861,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Magway City,Magway,33.264
+1862,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Magway City,Magway,14.85
+1863,JF-15415,Jennifer Ferguson,Consumer,Myanmar,Magway City,Magway,13.96
+1864,RD-19585,Rob Dowd,Consumer,Myanmar,Magway City,Magway,5.22
+1865,DO-13435,Denny Ordway,Consumer,Myanmar,Yangon,Yangon,73.28
+1866,SL-20155,Sara Luxemburg,Home Office,Myanmar,Thanlyin,Yangon,1166.92
+1867,CM-12115,Chad McGuire,Consumer,Myanmar,Magway City,Magway,17.64
+1868,JM-15250,Janet Martin,Consumer,Myanmar,Pyay,Bago,414
+1869,JM-15250,Janet Martin,Consumer,Myanmar,Magway City,Magway,41.328
+1870,JM-15250,Janet Martin,Consumer,Myanmar,Magway City,Magway,29.8
+1871,JM-15250,Janet Martin,Consumer,Myanmar,Magway City,Magway,13.48
+1872,RD-19720,Roger Demir,Consumer,Myanmar,Kyaukse,Mandalay,81.4
+1873,KH-16360,Katherine Hughes,Consumer,Myanmar,Labutta,Ayeyarwady,19.98
+1874,LL-16840,Lauren Leatherbury,Consumer,Myanmar,Aunglan,Magway,17.46
+1875,JL-15850,John Lucas,Consumer,Myanmar,Yangon,Yangon,32.4
+1876,JL-15850,John Lucas,Consumer,Myanmar,Yangon,Yangon,167.76
+1877,KB-16315,Karl Braun,Consumer,Myanmar,Mandalay City,Mandalay,12.39
+1878,JL-15850,John Lucas,Consumer,Myanmar,Yangon,Yangon,540.57
+1879,ML-17410,Maris LaWare,Consumer,Myanmar,Pyinoolwin,Mandalay,465.16
+1880,ML-17410,Maris LaWare,Consumer,Myanmar,Pyinoolwin,Mandalay,43.41
+1881,ML-17410,Maris LaWare,Consumer,Myanmar,Pyinoolwin,Mandalay,7.98
+1882,ML-17410,Maris LaWare,Consumer,Myanmar,Pyinoolwin,Mandalay,6.24
+1883,JK-15625,Jim Karlsson,Consumer,Myanmar,Magway City,Magway,13.92
+1884,SG-20470,Sheri Gordon,Consumer,Myanmar,Pathein,Ayeyarwady,117.882
+1885,MM-18055,Michelle Moray,Consumer,Myanmar,Magway City,Magway,24.96
+1886,AA-10315,Alex Avila,Consumer,Myanmar,Dawei,Tanintharyi,362.94
+1887,AA-10315,Alex Avila,Consumer,Myanmar,Dawei,Tanintharyi,11.54
+1888,GW-14605,Giulietta Weimer,Consumer,Myanmar,Yangon,Yangon,90.57
+1889,VG-21790,Vivek Gonzalez,Consumer,Myanmar,Yangon,Yangon,115.96
+1890,RA-19945,Ryan Akin,Consumer,Myanmar,Hlegu,Yangon,505.176
+1891,RA-19945,Ryan Akin,Consumer,Myanmar,Hlegu,Yangon,174.0585
+1892,RA-19945,Ryan Akin,Consumer,Myanmar,Hlegu,Yangon,29.808
+1893,CC-12100,Chad Cunningham,Home Office,Myanmar,Kanbalu,Sagaing,131.98
+1894,CC-12100,Chad Cunningham,Home Office,Myanmar,Kanbalu,Sagaing,114.52
+1895,MO-17800,Meg O'Connel,Home Office,Myanmar,Magway City,Magway,22
+1896,PP-18955,Paul Prost,Home Office,Myanmar,Pyay,Bago,6.16
+1897,LD-17005,Lisa DeCherney,Consumer,Myanmar,Myeik,Tanintharyi,1395.54
+1898,EB-14170,Evan Bailliet,Consumer,Myanmar,Pyay,Bago,10.048
+1899,LD-17005,Lisa DeCherney,Consumer,Myanmar,Pathein,Ayeyarwady,117.36
+1900,LD-17005,Lisa DeCherney,Consumer,Myanmar,Pathein,Ayeyarwady,77.52
+1901,LD-17005,Lisa DeCherney,Consumer,Myanmar,Magway City,Magway,18.9
+1902,EB-14170,Evan Bailliet,Consumer,Myanmar,Yangon,Yangon,807.75
+1903,PP-18955,Paul Prost,Home Office,Myanmar,Bago,Yangon,2348.82
+1904,CC-12100,Chad Cunningham,Home Office,Myanmar,Pyinoolwin,Mandalay,40.88
+1905,NC-18625,Noah Childs,Corporate,Myanmar,Pyinoolwin,Mandalay,75.88
+1906,NC-18625,Noah Childs,Corporate,Myanmar,Pyinoolwin,Mandalay,1.98
+1907,PB-19150,Philip Brown,Consumer,Myanmar,Magway City,Magway,25.06
+1908,BT-11395,Bill Tyler,Corporate,Myanmar,Kanbalu,Sagaing,1106.91
+1909,BT-11395,Bill Tyler,Corporate,Myanmar,Kanbalu,Sagaing,19.92
+1910,MH-17290,Marc Harrigan,Home Office,Myanmar,Hlegu,Yangon,37.408
+1911,MH-17290,Marc Harrigan,Home Office,Myanmar,Hlegu,Yangon,25.344
+1912,BS-11755,Bruce Stewart,Consumer,Myanmar,Pyay,Bago,19.6
+1913,BS-11755,Bruce Stewart,Consumer,Myanmar,Pyay,Bago,68.46
+1914,MC-17845,Michael Chen,Consumer,Myanmar,Magway City,Magway,6.03
+1915,MV-18190,Mike Vittorini,Consumer,Myanmar,Kanbalu,Sagaing,229.94
+1916,MV-18190,Mike Vittorini,Consumer,Myanmar,Kanbalu,Sagaing,10.56
+1917,TB-21250,Tim Brockman,Consumer,Myanmar,Yangon,Yangon,48.58
+1918,TB-21250,Tim Brockman,Consumer,Myanmar,Yangon,Yangon,435.168
+1919,EB-13870,Emily Burns,Consumer,Myanmar,Hlegu,Yangon,419.136
+1920,SZ-20035,Sam Zeldin,Home Office,Myanmar,Yangon,Yangon,604.768
+1921,Dl-13600,Dorris liebe,Corporate,Myanmar,Pyay,Bago,15.84
+1922,Dl-13600,Dorris liebe,Corporate,Myanmar,Yangon,Yangon,44.4
+1923,KM-16720,Kunst Miller,Consumer,Myanmar,Chauk,Magway,49.65
+1924,SG-20890,Susan Gilcrest,Corporate,Myanmar,Magway City,Magway,10.5
+1925,JL-15835,John Lee,Consumer,Myanmar,Magway City,Magway,7.712
+1926,DL-13495,Dionis Lloyd,Corporate,Myanmar,Magway City,Magway,62.96
+1927,LW-16825,Laurel Workman,Corporate,Myanmar,Pyay,Bago,464
+1928,LW-16825,Laurel Workman,Corporate,Myanmar,Pyay,Bago,235.95
+1929,JG-15160,James Galang,Consumer,Myanmar,Pathein,Ayeyarwady,70.368
+1930,LW-16825,Laurel Workman,Corporate,Myanmar,Magway City,Magway,39.96
+1931,LW-16825,Laurel Workman,Corporate,Myanmar,Magway City,Magway,25.584
+1932,EN-13780,Edward Nazzal,Consumer,Myanmar,Pyay,Bago,239.97
+1933,EN-13780,Edward Nazzal,Consumer,Myanmar,Taungoo,Bago,160.32
+1934,EN-13780,Edward Nazzal,Consumer,Myanmar,Taungoo,Bago,128.85
+1935,HA-14905,Helen Abelman,Consumer,Myanmar,Pyay,Bago,334.768
+1936,CS-11860,Cari Schnelling,Consumer,Myanmar,Magway City,Magway,6.6
+1937,CS-11860,Cari Schnelling,Consumer,Myanmar,Magway City,Magway,2.688
+1938,SG-20470,Sheri Gordon,Consumer,Myanmar,Dawei,Tanintharyi,1044.63
+1939,RA-19285,Ralph Arnett,Consumer,Myanmar,Pyay,Bago,248.57
+1940,RA-19285,Ralph Arnett,Consumer,Myanmar,Magway City,Magway,22.23
+1941,TS-21430,Tom Stivers,Corporate,Myanmar,Yangon,Yangon,1367.84
+1942,GH-14410,Gary Hansen,Home Office,Myanmar,Kawthoung,Tanintharyi,155.88
+1943,DB-13615,Doug Bickford,Consumer,Myanmar,Yangon,Yangon,43.176
+1944,RA-19915,Russell Applegate,Consumer,Myanmar,Magway City,Magway,48.94
+1945,MH-17785,Maya Herman,Corporate,Myanmar,Magway City,Magway,15.24
+1946,GM-14680,Greg Matthias,Consumer,Myanmar,Pyinoolwin,Mandalay,523.92
+1947,CS-11845,Cari Sayre,Corporate,Myanmar,Pyay,Bago,3.89
+1948,CS-11845,Cari Sayre,Corporate,Myanmar,Pyay,Bago,11.76
+1949,CS-11845,Cari Sayre,Corporate,Myanmar,Yangon,Yangon,167.94
+1950,BF-11020,Barry Französisch,Corporate,Myanmar,Dawei,Tanintharyi,1035.8
+1951,CH-12070,Cathy Hwang,Home Office,Myanmar,Kanbalu,Sagaing,299.9
+1952,EH-13765,Edward Hooks,Corporate,Myanmar,Pathein,Ayeyarwady,114.95
+1953,EH-13765,Edward Hooks,Corporate,Myanmar,Magway City,Magway,28.752
